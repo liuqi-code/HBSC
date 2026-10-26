@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<PWLSolveHistory total_control_cycles="17" total_rounds="17" total_pwl_used_rounds="0" total_fallback_rounds="17" total_boundary_hits="0">
+  <ControlCycle simulation_time="7838.0" num_rounds="1" final_solve_mode="avg_delay_only" final_model_status="INTERRUPTED" final_objective="279370.0434">
+    <SolveRound round_id="3" solve_mode="avg_delay_only" control_cycle_id="1" simulation_time="7838.0" model_status="11" model_status_str="INTERRUPTED" objective_value="279370.0434" used_pwl="False" fallback_to_avg_delay="True" solve_time_sec="5.830"/>
+  </ControlCycle>
+  <ControlCycle simulation_time="7966.0" num_rounds="1" final_solve_mode="avg_delay_only" final_model_status="INTERRUPTED" final_objective="291616.8995">
+    <SolveRound round_id="3" solve_mode="avg_delay_only" control_cycle_id="2" simulation_time="7966.0" model_status="11" model_status_str="INTERRUPTED" objective_value="291616.8995" used_pwl="False" fallback_to_avg_delay="True" solve_time_sec="6.596"/>
+  </ControlCycle>
+  <ControlCycle simulation_time="8012.0" num_rounds="1" final_solve_mode="avg_delay_only" final_model_status="INTERRUPTED" final_objective="287402.6771">
+    <SolveRound round_id="3" solve_mode="avg_delay_only" control_cycle_id="3" simulation_time="8012.0" model_status="11" model_status_str="INTERRUPTED" objective_value="287402.6771" used_pwl="False" fallback_to_avg_delay="True" solve_time_sec="6.642"/>
+  </ControlCycle>
+  <ControlCycle simulation_time="8175.0" num_rounds="1" final_solve_mode="avg_delay_only" final_model_status="INTERRUPTED" final_objective="275730.2583">
+    <SolveRound round_id="3" solve_mode="avg_delay_only" control_cycle_id="4" simulation_time="8175.0" model_status="11" model_status_str="INTERRUPTED" objective_value="275730.2583" used_pwl="False" fallback_to_avg_delay="True" solve_time_sec="6.420"/>
+  </ControlCycle>
+  <ControlCycle simulation_time="8177.0" num_rounds="1" final_solve_mode="avg_delay_only" final_model_status="INTERRUPTED" final_objective="261310.9466">
+    <SolveRound round_id="3" solve_mode="avg_delay_only" control_cycle_id="5" simulation_time="8177.0" model_status="11" model_status_str="INTERRUPTED" objective_value="261310.9466" used_pwl="False" fallback_to_avg_delay="True" solve_time_sec="6.408"/>
+  </ControlCycle>
+  <ControlCycle simulation_time="8292.0" num_rounds="1" final_solve_mode="avg_delay_only" final_model_status="INTERRUPTED" final_objective="226556.9714">
+    <SolveRound round_id="3" solve_mode="avg_delay_only" control_cycle_id="6" simulation_time="8292.0" model_status="11" model_status_str="INTERRUPTED" objective_value="226556.9714" used_pwl="False" fallback_to_avg_delay="True" solve_time_sec="5.699"/>
+  </ControlCycle>
+  <ControlCycle simulation_time="8346.0" num_rounds="1" final_solve_mode="avg_delay_only" final_model_status="INTERRUPTED" final_objective="218756.4643">
+    <SolveRound round_id="3" solve_mode="avg_delay_only" control_cycle_id="7" simulation_time="8346.0" model_status="11" model_status_str="INTERRUPTED" objective_value="218756.4643" used_pwl="False" fallback_to_avg_delay="True" solve_time_sec="5.573"/>
+  </ControlCycle>
+  <ControlCycle simulation_time="8431.0" num_rounds="1" final_solve_mode="avg_delay_only" final_model_status="INTERRUPTED" final_objective="220842.7484">
+    <SolveRound round_id="3" solve_mode="avg_delay_only" control_cycle_id="8" simulation_time="8431.0" model_status="11" model_status_str="INTERRUPTED" objective_value="220842.7484" used_pwl="False" fallback_to_avg_delay="True" solve_time_sec="5.546"/>
+  </ControlCycle>
+  <ControlCycle simulation_time="8630.0" num_rounds="1" final_solve_mode="avg_delay_only" final_model_status="INTERRUPTED" final_objective="206647.6807">
+    <SolveRound round_id="3" solve_mode="avg_delay_only" control_cycle_id="9" simulation_time="8630.0" model_status="11" model_status_str="INTERRUPTED" objective_value="206647.6807" used_pwl="False" fallback_to_avg_delay="True" solve_time_sec="6.130"/>
+  </ControlCycle>
+  <ControlCycle simulation_time="8895.0" num_rounds="1" final_solve_mode="avg_delay_only" final_model_status="INTERRUPTED" final_objective="155199.7346">
+    <SolveRound round_id="3" solve_mode="avg_delay_only" control_cycle_id="10" simulation_time="8895.0" model_status="11" model_status_str="INTERRUPTED" objective_value="155199.7346" used_pwl="False" fallback_to_avg_delay="True" solve_time_sec="5.265"/>
+  </ControlCycle>
+  <ControlCycle simulation_time="9032.0" num_rounds="1" final_solve_mode="avg_delay_only" final_model_status="INTERRUPTED" final_objective="162803.4369">
+    <SolveRound round_id="3" solve_mode="avg_delay_only" control_cycle_id="11" simulation_time="9032.0" model_status="11" model_status_str="INTERRUPTED" objective_value="162803.4369" used_pwl="False" fallback_to_avg_delay="True" solve_time_sec="5.957"/>
+  </ControlCycle>
+  <ControlCycle simulation_time="9085.0" num_rounds="1" final_solve_mode="avg_delay_only" final_model_status="INTERRUPTED" final_objective="171331.1043">
+    <SolveRound round_id="3" solve_mode="avg_delay_only" control_cycle_id="12" simulation_time="9085.0" model_status="11" model_status_str="INTERRUPTED" objective_value="171331.1043" used_pwl="False" fallback_to_avg_delay="True" solve_time_sec="6.034"/>
+  </ControlCycle>
+  <ControlCycle simulation_time="9267.0" num_rounds="1" final_solve_mode="avg_delay_only" final_model_status="INTERRUPTED" final_objective="131872.6907">
+    <SolveRound round_id="3" solve_mode="avg_delay_only" control_cycle_id="13" simulation_time="9267.0" model_status="11" model_status_str="INTERRUPTED" objective_value="131872.6907" used_pwl="False" fallback_to_avg_delay="True" solve_time_sec="5.012"/>
+  </ControlCycle>
+  <ControlCycle simulation_time="9746.0" num_rounds="1" final_solve_mode="avg_delay_only" final_model_status="INTERRUPTED" final_objective="95837.6012">
+    <SolveRound round_id="3" solve_mode="avg_delay_only" control_cycle_id="14" simulation_time="9746.0" model_status="11" model_status_str="INTERRUPTED" objective_value="95837.6012" used_pwl="False" fallback_to_avg_delay="True" solve_time_sec="5.409"/>
+  </ControlCycle>
+  <ControlCycle simulation_time="9917.0" num_rounds="1" final_solve_mode="avg_delay_only" final_model_status="INTERRUPTED" final_objective="99489.6569">
+    <SolveRound round_id="3" solve_mode="avg_delay_only" control_cycle_id="15" simulation_time="9917.0" model_status="11" model_status_str="INTERRUPTED" objective_value="99489.6569" used_pwl="False" fallback_to_avg_delay="True" solve_time_sec="5.158"/>
+  </ControlCycle>
+  <ControlCycle simulation_time="10176.0" num_rounds="1" final_solve_mode="avg_delay_only" final_model_status="INTERRUPTED" final_objective="94194.6798">
+    <SolveRound round_id="3" solve_mode="avg_delay_only" control_cycle_id="16" simulation_time="10176.0" model_status="11" model_status_str="INTERRUPTED" objective_value="94194.6798" used_pwl="False" fallback_to_avg_delay="True" solve_time_sec="4.984"/>
+  </ControlCycle>
+  <ControlCycle simulation_time="10445.0" num_rounds="1" final_solve_mode="avg_delay_only" final_model_status="INTERRUPTED" final_objective="90684.5466">
+    <SolveRound round_id="3" solve_mode="avg_delay_only" control_cycle_id="17" simulation_time="10445.0" model_status="11" model_status_str="INTERRUPTED" objective_value="90684.5466" used_pwl="False" fallback_to_avg_delay="True" solve_time_sec="4.060"/>
+  </ControlCycle>
+</PWLSolveHistory>

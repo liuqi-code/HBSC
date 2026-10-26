@@ -1,0 +1,2 @@
+duarouter --net-file=../b_network/1_changsha_bus_network_with_signal_e.net.xml --additional-files=../b_network/3_bus_station.add.xml,../b_network/4_vehicle_type.add.xml --route-files=2_bus_timetable_trips.xml --output-file=2_bus_timetable.rou.xml
+exit

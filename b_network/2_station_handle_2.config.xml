@@ -1,0 +1,10 @@
+<configuration>
+	<input> 
+		<sumo-net-file value="1_changsha_bus_network_with_signal_b.net.xml"/>
+		<node-files value="2_station_handle.nod.xml"/>
+	</input> 
+	
+	<output> 
+		<output-file value="1_changsha_bus_network_with_signal_c.net.xml"/>
+	</output>
+</configuration>

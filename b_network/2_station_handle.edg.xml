@@ -1,0 +1,3305 @@
+<?xml version='1.0' encoding='utf-8'?>
+<edges>
+	<edge id="E_J598_J593">
+		<split pos="150" />
+		<split pos="180" />
+	</edge>
+
+	<edge id="E_J598_J593.150" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J593_J598">
+		<split pos="160" />
+		<split pos="190" />
+	</edge>
+
+	<edge id="E_J593_J598.160" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J593_J592">
+		<split pos="100" />
+		<split pos="130" />
+	</edge>
+
+	<edge id="E_J593_J592.100" numLanes="3">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J592_J593">
+		<split pos="200" />
+		<split pos="230" />
+	</edge>
+
+	<edge id="E_J592_J593.200" numLanes="3">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J590_J589">
+		<split pos="50" />
+		<split pos="80" />
+	</edge>
+
+	<edge id="E_J590_J589.50" numLanes="3">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J589_J590">
+		<split pos="150" />
+		<split pos="180" />
+	</edge>
+
+	<edge id="E_J589_J590.150" numLanes="3">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J589_J583">
+		<split pos="120" />
+		<split pos="150" />
+		<split pos="180" />
+		<split pos="210" />
+	</edge>
+
+	<edge id="E_J589_J583.150" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J583_J589">
+		<split pos="110" />
+		<split pos="140" />
+		<split pos="170" />
+		<split pos="200" />
+	</edge>
+
+	<edge id="E_J583_J589.140" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J583_J562">
+		<split pos="270" />
+		<split pos="300" />
+		<split pos="330" />
+		<split pos="360" />
+	</edge>
+
+	<edge id="E_J583_J562.300" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J562_J583">
+		<split pos="470" />
+		<split pos="500" />
+		<split pos="530" />
+		<split pos="560" />
+	</edge>
+
+	<edge id="E_J562_J583.500" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J533_J532">
+		<split pos="150" />
+		<split pos="180" />
+	</edge>
+
+	<edge id="E_J533_J532.150" numLanes="3">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J532_J533">
+		<split pos="200" />
+		<split pos="230" />
+	</edge>
+
+	<edge id="E_J532_J533.200" numLanes="3">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J532_J530">
+		<split pos="60" />
+		<split pos="90" />
+	</edge>
+
+	<edge id="E_J532_J530.60" numLanes="3">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J530_J532">
+		<split pos="160" />
+		<split pos="190" />
+	</edge>
+
+	<edge id="E_J530_J532.160" numLanes="3">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J530_J528">
+		<split pos="80" />
+		<split pos="110" />
+		<split pos="320" />
+		<split pos="350" />
+	</edge>
+
+	<edge id="E_J530_J528.80" numLanes="3">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J530_J528.320" numLanes="3">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J528_J530">
+		<split pos="60" />
+		<split pos="90" />
+		<split pos="300" />
+		<split pos="330" />
+	</edge>
+
+	<edge id="E_J528_J530.60" numLanes="3">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J528_J530.300" numLanes="3">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J528_J505">
+		<split pos="70" />
+		<split pos="100" />
+		<split pos="130" />
+		<split pos="160" />
+	</edge>
+
+	<edge id="E_J528_J505.100" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J505_J528">
+		<split pos="70" />
+		<split pos="100" />
+		<split pos="130" />
+		<split pos="160" />
+	</edge>
+
+	<edge id="E_J505_J528.100" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J505_J490">
+		<split pos="100" />
+		<split pos="130" />
+	</edge>
+
+	<edge id="E_J505_J490.100" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J474_J490">
+		<split pos="90" />
+		<split pos="120" />
+	</edge>
+
+	<edge id="E_J474_J490.90" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J474_J432">
+		<split pos="270" />
+		<split pos="300" />
+		<split pos="330" />
+		<split pos="360" />
+	</edge>
+
+	<edge id="E_J474_J432.300" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J432_J474">
+		<split pos="300" />
+		<split pos="330" />
+	</edge>
+
+	<edge id="E_J432_J474.300" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J432_J411">
+		<split pos="240" />
+		<split pos="270" />
+	</edge>
+
+	<edge id="E_J432_J411.240" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J397_J361">
+		<split pos="150" />
+		<split pos="180" />
+	</edge>
+
+	<edge id="E_J397_J361.150" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J361_J397">
+		<split pos="250" />
+		<split pos="280" />
+	</edge>
+
+	<edge id="E_J361_J397.250" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J361_J301">
+		<split pos="270" />
+		<split pos="300" />
+		<split pos="330" />
+		<split pos="360" />
+		<split pos="720" />
+		<split pos="750" />
+	</edge>
+
+	<edge id="E_J361_J301.300" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J361_J301.720" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J301_J361">
+		<split pos="170" />
+		<split pos="200" />
+		<split pos="230" />
+		<split pos="260" />
+		<split pos="630" />
+		<split pos="660" />
+	</edge>
+
+	<edge id="E_J301_J361.200" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J301_J361.630" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J297_J303">
+		<split pos="260" />
+		<split pos="290" />
+	</edge>
+
+	<edge id="E_J297_J303.260" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J303_J297">
+		<split pos="260" />
+		<split pos="290" />
+	</edge>
+
+	<edge id="E_J303_J297.260" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J272_J241">
+		<split pos="220" />
+		<split pos="250" />
+		<split pos="280" />
+		<split pos="310" />
+		<split pos="500" />
+		<split pos="530" />
+	</edge>
+
+	<edge id="E_J272_J241.250" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J272_J241.500" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J241_J272">
+		<split pos="70" />
+		<split pos="100" />
+		<split pos="130" />
+		<split pos="160" />
+		<split pos="300" />
+		<split pos="330" />
+	</edge>
+
+	<edge id="E_J241_J272.100" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J241_J272.300" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J220_J214">
+		<split pos="60" />
+		<split pos="90" />
+		<split pos="300" />
+		<split pos="330" />
+	</edge>
+
+	<edge id="E_J220_J214.60" numLanes="2">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J220_J214.300" numLanes="2">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J214_J220">
+		<split pos="200" />
+		<split pos="230" />
+		<split pos="330" />
+		<split pos="360" />
+	</edge>
+
+	<edge id="E_J214_J220.200" numLanes="2">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J214_J220.330" numLanes="2">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J171_J149">
+		<split pos="50" />
+		<split pos="80" />
+	</edge>
+
+	<edge id="E_J171_J149.50" numLanes="3">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J149_J171">
+		<split pos="200" />
+		<split pos="230" />
+	</edge>
+
+	<edge id="E_J149_J171.200" numLanes="3">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J149_J147">
+		<split pos="20" />
+		<split pos="50" />
+	</edge>
+
+	<edge id="E_J149_J147.20" numLanes="3">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J147_J149">
+		<split pos="40" />
+		<split pos="70" />
+	</edge>
+
+	<edge id="E_J147_J149.40" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J147_J144">
+		<split pos="20" />
+		<split pos="50" />
+	</edge>
+
+	<edge id="E_J147_J144.20" numLanes="3">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J144_J147">
+		<split pos="70" />
+		<split pos="100" />
+		<split pos="130" />
+		<split pos="160" />
+	</edge>
+
+	<edge id="E_J144_J147.100" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J144_J135">
+		<split pos="380" />
+		<split pos="410" />
+		<split pos="700" />
+		<split pos="730" />
+	</edge>
+
+	<edge id="E_J144_J135.380" numLanes="3">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J144_J135.700" numLanes="3">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J140_J144">
+		<split pos="50" />
+		<split pos="80" />
+		<split pos="490" />
+		<split pos="520" />
+		<split pos="550" />
+		<split pos="580" />
+		<split pos="850" />
+		<split pos="880" />
+		<split pos="1170" />
+		<split pos="1200" />
+		<split pos="1230" />
+		<split pos="1260" />
+	</edge>
+
+	<edge id="E_J140_J144.50" numLanes="3">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J140_J144.520" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J140_J144.850" numLanes="3">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J140_J144.1200" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J135_J140">
+		<split pos="50" />
+		<split pos="80" />
+		<split pos="110" />
+		<split pos="140" />
+		<split pos="380" />
+		<split pos="410" />
+	</edge>
+
+	<edge id="E_J135_J140.80" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J135_J140.380" numLanes="3">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J86_J82">
+		<split pos="20" />
+		<split pos="50" />
+		<split pos="80" />
+		<split pos="110" />
+	</edge>
+
+	<edge id="E_J86_J82.50" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J79_J92">
+		<split pos="290" />
+		<split pos="320" />
+		<split pos="350" />
+		<split pos="380" />
+	</edge>
+
+	<edge id="E_J79_J92.320" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J79_J58">
+		<split pos="50" />
+		<split pos="80" />
+		<split pos="110" />
+		<split pos="140" />
+	</edge>
+
+	<edge id="E_J79_J58.80" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J58_J79">
+		<split pos="50" />
+		<split pos="80" />
+	</edge>
+
+	<edge id="E_J58_J79.50" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J44_J32">
+		<split pos="50" />
+		<split pos="80" />
+	</edge>
+
+	<edge id="E_J44_J32.50" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J32_J44">
+		<split pos="200" />
+		<split pos="230" />
+	</edge>
+
+	<edge id="E_J32_J44.200" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J32_J23">
+		<split pos="100" />
+		<split pos="130" />
+	</edge>
+
+	<edge id="E_J32_J23.100" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J23_J24">
+		<split pos="50" />
+		<split pos="80" />
+	</edge>
+
+	<edge id="E_J23_J24.50" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J24_J18">
+		<split pos="350" />
+		<split pos="380" />
+	</edge>
+
+	<edge id="E_J24_J18.350" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J18_J24">
+		<split pos="20" />
+		<split pos="50" />
+	</edge>
+
+	<edge id="E_J18_J24.20" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J15_J10">
+		<split pos="20" />
+		<split pos="50" />
+	</edge>
+
+	<edge id="E_J15_J10.20" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J10_J15">
+		<split pos="250" />
+		<split pos="280" />
+	</edge>
+
+	<edge id="E_J10_J15.250" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J10_J5">
+		<split pos="60" />
+		<split pos="90" />
+	</edge>
+
+	<edge id="E_J10_J5.60" numLanes="3">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J5_J10">
+		<split pos="290" />
+		<split pos="320" />
+	</edge>
+
+	<edge id="E_J5_J10.290" numLanes="3">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J5_J4">
+		<split pos="20" />
+		<split pos="50" />
+	</edge>
+
+	<edge id="E_J5_J4.20" numLanes="3">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J4_J5">
+		<split pos="220" />
+		<split pos="250" />
+	</edge>
+
+	<edge id="E_J4_J5.220" numLanes="3">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J4_J7">
+		<split pos="100" />
+		<split pos="130" />
+		<split pos="1000" />
+		<split pos="1030" />
+	</edge>
+
+	<edge id="E_J4_J7.100" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J4_J7.1000" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J7_J4">
+		<split pos="270" />
+		<split pos="300" />
+		<split pos="1160" />
+		<split pos="1190" />
+	</edge>
+
+	<edge id="E_J7_J4.270" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J7_J4.1160" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J7_J8">
+		<split pos="20" />
+		<split pos="50" />
+	</edge>
+
+	<edge id="E_J7_J8.20" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J8_J7">
+		<split pos="510" />
+		<split pos="540" />
+	</edge>
+
+	<edge id="E_J8_J7.510" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J8_J6">
+		<split pos="40" />
+		<split pos="70" />
+	</edge>
+
+	<edge id="E_J8_J6.40" numLanes="3">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J6_J8">
+		<split pos="50" />
+		<split pos="80" />
+	</edge>
+
+	<edge id="E_J6_J8.50" numLanes="3">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J6_J2">
+		<split pos="100" />
+		<split pos="130" />
+		<split pos="220" />
+		<split pos="250" />
+	</edge>
+
+	<edge id="E_J6_J2.100" numLanes="3">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J6_J2.220" numLanes="3">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J2_J6">
+		<split pos="900" />
+		<split pos="930" />
+		<split pos="1020" />
+		<split pos="1050" />
+	</edge>
+
+	<edge id="E_J2_J6.900" numLanes="3">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J2_J6.1020" numLanes="3">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J24_J26">
+		<split pos="40" />
+		<split pos="70" />
+	</edge>
+
+	<edge id="E_J24_J26.40" numLanes="3">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J34_J32">
+		<split pos="100" />
+		<split pos="130" />
+	</edge>
+
+	<edge id="E_J34_J32.100" numLanes="3">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J397_J411">
+		<split pos="120" />
+		<split pos="150" />
+		<split pos="180" />
+		<split pos="210" />
+	</edge>
+
+	<edge id="E_J397_J411.150" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J553_J540">
+		<split pos="100" />
+		<split pos="130" />
+		<split pos="1000" />
+		<split pos="1030" />
+	</edge>
+
+	<edge id="E_J553_J540.100" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J553_J540.1000" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J540_J553">
+		<split pos="1190" />
+		<split pos="1220" />
+	</edge>
+
+	<edge id="E_J540_J553.1190" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J540_J514">
+		<split pos="100" />
+		<split pos="130" />
+		<split pos="700" />
+		<split pos="730" />
+	</edge>
+
+	<edge id="E_J540_J514.100" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J540_J514.700" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J514_J540">
+		<split pos="200" />
+		<split pos="230" />
+		<split pos="550" />
+		<split pos="580" />
+		<split pos="800" />
+		<split pos="830" />
+	</edge>
+
+	<edge id="E_J514_J540.200" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J514_J540.550" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J514_J540.800" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J509_J510">
+		<split pos="100" />
+		<split pos="130" />
+	</edge>
+
+	<edge id="E_J509_J510.100" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J510_J509">
+		<split pos="200" />
+		<split pos="230" />
+	</edge>
+
+	<edge id="E_J510_J509.200" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J510_J508">
+		<split pos="300" />
+		<split pos="330" />
+	</edge>
+
+	<edge id="E_J510_J508.300" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J508_J510">
+		<split pos="200" />
+		<split pos="230" />
+	</edge>
+
+	<edge id="E_J508_J510.200" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J508_J507">
+		<split pos="150" />
+		<split pos="180" />
+	</edge>
+
+	<edge id="E_J508_J507.150" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J507_J508">
+		<split pos="150" />
+		<split pos="180" />
+	</edge>
+
+	<edge id="E_J507_J508.150" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J506_J505">
+		<split pos="150" />
+		<split pos="180" />
+	</edge>
+
+	<edge id="E_J506_J505.150" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J505_J506">
+		<split pos="100" />
+		<split pos="130" />
+	</edge>
+
+	<edge id="E_J505_J506.100" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J505_J504">
+		<split pos="100" />
+		<split pos="130" />
+		<split pos="500" />
+		<split pos="530" />
+	</edge>
+
+	<edge id="E_J505_J504.100" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J505_J504.500" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J504_J505">
+		<split pos="100" />
+		<split pos="130" />
+		<split pos="500" />
+		<split pos="530" />
+	</edge>
+
+	<edge id="E_J504_J505.100" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J504_J505.500" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J504_J503">
+		<split pos="600" />
+		<split pos="630" />
+	</edge>
+
+	<edge id="E_J504_J503.600" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J503_J473">
+		<split pos="170" />
+		<split pos="200" />
+		<split pos="230" />
+		<split pos="260" />
+	</edge>
+
+	<edge id="E_J503_J473.200" numLanes="6">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J473_J503">
+		<split pos="200" />
+		<split pos="230" />
+	</edge>
+
+	<edge id="E_J473_J503.200" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J473_J447">
+		<split pos="70" />
+		<split pos="100" />
+		<split pos="130" />
+		<split pos="160" />
+	</edge>
+
+	<edge id="E_J473_J447.100" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J428_J447">
+		<split pos="100" />
+		<split pos="130" />
+	</edge>
+
+	<edge id="E_J428_J447.100" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J428_J394">
+		<split pos="300" />
+		<split pos="330" />
+	</edge>
+
+	<edge id="E_J428_J394.300" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J394_J428">
+		<split pos="300" />
+		<split pos="330" />
+	</edge>
+
+	<edge id="E_J394_J428.300" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J394_J365">
+		<split pos="160" />
+		<split pos="190" />
+	</edge>
+
+	<edge id="E_J394_J365.160" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J365_J394">
+		<split pos="150" />
+		<split pos="180" />
+	</edge>
+
+	<edge id="E_J365_J394.150" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J365_J332">
+		<split pos="110" />
+		<split pos="140" />
+		<split pos="170" />
+		<split pos="200" />
+		<split pos="230" />
+		<split pos="260" />
+		<split pos="290" />
+		<split pos="320" />
+	</edge>
+
+	<edge id="E_J365_J332.140" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J365_J332.260" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J332_J365">
+		<split pos="60" />
+		<split pos="90" />
+		<split pos="120" />
+		<split pos="150" />
+		<split pos="180" />
+		<split pos="210" />
+		<split pos="240" />
+		<split pos="270" />
+	</edge>
+
+	<edge id="E_J332_J365.90" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J332_J365.210" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J332_J303">
+		<split pos="270" />
+		<split pos="300" />
+		<split pos="330" />
+		<split pos="360" />
+	</edge>
+
+	<edge id="E_J332_J303.300" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J303_J332">
+		<split pos="120" />
+		<split pos="150" />
+		<split pos="180" />
+		<split pos="210" />
+	</edge>
+
+	<edge id="E_J303_J332.150" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J140_J145">
+		<split pos="270" />
+		<split pos="300" />
+		<split pos="330" />
+		<split pos="360" />
+		<split pos="620" />
+		<split pos="650" />
+		<split pos="680" />
+		<split pos="710" />
+		<split pos="1120" />
+		<split pos="1150" />
+		<split pos="1180" />
+		<split pos="1210" />
+		<split pos="1370" />
+		<split pos="1400" />
+		<split pos="1430" />
+		<split pos="1460" />
+	</edge>
+
+	<edge id="E_J140_J145.300" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J140_J145.650" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J140_J145.1150" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J140_J145.1400" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J154_J140">
+		<split pos="320" />
+		<split pos="350" />
+		<split pos="380" />
+		<split pos="410" />
+		<split pos="570" />
+		<split pos="600" />
+		<split pos="630" />
+		<split pos="660" />
+		<split pos="970" />
+		<split pos="1000" />
+		<split pos="1030" />
+		<split pos="1060" />
+		<split pos="1370" />
+		<split pos="1400" />
+		<split pos="1430" />
+		<split pos="1460" />
+	</edge>
+
+	<edge id="E_J154_J140.350" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J154_J140.600" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J154_J140.1000" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J154_J140.1400" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J154_J150">
+		<split pos="70" />
+		<split pos="100" />
+		<split pos="130" />
+		<split pos="160" />
+		<split pos="370" />
+		<split pos="400" />
+		<split pos="430" />
+		<split pos="460" />
+		<split pos="670" />
+		<split pos="700" />
+		<split pos="730" />
+		<split pos="760" />
+		<split pos="850" />
+		<split pos="880" />
+	</edge>
+
+	<edge id="E_J154_J150.100" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J154_J150.400" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J154_J150.700" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J154_J150.850" numLanes="3">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J150_J154">
+		<split pos="50" />
+		<split pos="80" />
+		<split pos="170" />
+		<split pos="200" />
+		<split pos="230" />
+		<split pos="260" />
+		<split pos="470" />
+		<split pos="500" />
+		<split pos="530" />
+		<split pos="560" />
+		<split pos="800" />
+		<split pos="830" />
+	</edge>
+
+	<edge id="E_J150_J154.50" numLanes="3">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J150_J154.200" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J150_J154.500" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J150_J154.800" numLanes="3">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J433_J435">
+		<split pos="460" />
+		<split pos="490" />
+	</edge>
+
+	<edge id="E_J433_J435.460" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J435_J433">
+		<split pos="50" />
+		<split pos="80" />
+	</edge>
+
+	<edge id="E_J435_J433.50" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J435_J461">
+		<split pos="350" />
+		<split pos="380" />
+	</edge>
+
+	<edge id="E_J435_J461.350" numLanes="3">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J461_J435">
+		<split pos="50" />
+		<split pos="80" />
+	</edge>
+
+	<edge id="E_J461_J435.50" numLanes="3">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J460_J459">
+		<split pos="50" />
+		<split pos="80" />
+	</edge>
+
+	<edge id="E_J460_J459.50" numLanes="3">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J459_J460">
+		<split pos="200" />
+		<split pos="230" />
+	</edge>
+
+	<edge id="E_J459_J460.200" numLanes="3">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J459_J458">
+		<split pos="100" />
+		<split pos="130" />
+	</edge>
+
+	<edge id="E_J459_J458.100" numLanes="3">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J458_J459">
+		<split pos="60" />
+		<split pos="90" />
+	</edge>
+
+	<edge id="E_J458_J459.60" numLanes="3">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J457_J456">
+		<split pos="20" />
+		<split pos="50" />
+	</edge>
+
+	<edge id="E_J457_J456.20" numLanes="3">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J456_J457">
+		<split pos="20" />
+		<split pos="50" />
+	</edge>
+
+	<edge id="E_J456_J457.20" numLanes="3">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J454_J465">
+		<split pos="40" />
+		<split pos="70" />
+	</edge>
+
+	<edge id="E_J454_J465.40" numLanes="3">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J465_J454">
+		<split pos="50" />
+		<split pos="80" />
+	</edge>
+
+	<edge id="E_J465_J454.50" numLanes="3">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J477_J474">
+		<split pos="130" />
+		<split pos="160" />
+	</edge>
+
+	<edge id="E_J477_J474.130" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J474_J477">
+		<split pos="150" />
+		<split pos="180" />
+	</edge>
+
+	<edge id="E_J474_J477.150" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J474_J476">
+		<split pos="100" />
+		<split pos="130" />
+	</edge>
+
+	<edge id="E_J474_J476.100" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J476_J474">
+		<split pos="60" />
+		<split pos="90" />
+	</edge>
+
+	<edge id="E_J476_J474.60" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J476_J475">
+		<split pos="140" />
+		<split pos="170" />
+		<split pos="200" />
+		<split pos="230" />
+	</edge>
+
+	<edge id="E_J476_J475.170" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J475_J476">
+		<split pos="140" />
+		<split pos="170" />
+	</edge>
+
+	<edge id="E_J475_J476.140" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J475_J473">
+		<split pos="250" />
+		<split pos="280" />
+		<split pos="450" />
+		<split pos="480" />
+	</edge>
+
+	<edge id="E_J475_J473.250" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J475_J473.450" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J473_J475">
+		<split pos="300" />
+		<split pos="330" />
+		<split pos="500" />
+		<split pos="530" />
+	</edge>
+
+	<edge id="E_J473_J475.300" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J473_J475.500" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J426_J424">
+		<split pos="20" />
+		<split pos="50" />
+		<split pos="220" />
+		<split pos="250" />
+		<split pos="280" />
+		<split pos="310" />
+		<split pos="500" />
+		<split pos="530" />
+	</edge>
+
+	<edge id="E_J426_J424.20" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J426_J424.250" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J426_J424.500" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J424_J426">
+		<split pos="450" />
+		<split pos="480" />
+		<split pos="670" />
+		<split pos="700" />
+		<split pos="730" />
+		<split pos="760" />
+		<split pos="870" />
+		<split pos="900" />
+		<split pos="930" />
+		<split pos="960" />
+	</edge>
+
+	<edge id="E_J424_J426.450" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J424_J426.700" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J424_J426.900" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J422_J385">
+		<split pos="120" />
+		<split pos="150" />
+		<split pos="180" />
+		<split pos="210" />
+	</edge>
+
+	<edge id="E_J422_J385.150" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J370_J345">
+		<split pos="20" />
+		<split pos="50" />
+	</edge>
+
+	<edge id="E_J370_J345.20" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J345_J370">
+		<split pos="340" />
+		<split pos="370" />
+	</edge>
+
+	<edge id="E_J345_J370.340" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J318_J335">
+		<split pos="70" />
+		<split pos="100" />
+		<split pos="130" />
+		<split pos="160" />
+	</edge>
+
+	<edge id="E_J318_J335.100" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J335_J318">
+		<split pos="120" />
+		<split pos="150" />
+	</edge>
+
+	<edge id="E_J335_J318.120" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J335_J338">
+		<split pos="250" />
+		<split pos="280" />
+		<split pos="460" />
+		<split pos="490" />
+	</edge>
+
+	<edge id="E_J335_J338.250" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J335_J338.460" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J338_J335">
+		<split pos="40" />
+		<split pos="70" />
+		<split pos="270" />
+		<split pos="300" />
+	</edge>
+
+	<edge id="E_J338_J335.40" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J338_J335.270" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J338_J289">
+		<split pos="150" />
+		<split pos="180" />
+		<split pos="650" />
+		<split pos="680" />
+	</edge>
+
+	<edge id="E_J338_J289.150" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J338_J289.650" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J289_J338">
+		<split pos="300" />
+		<split pos="330" />
+		<split pos="800" />
+		<split pos="830" />
+	</edge>
+
+	<edge id="E_J289_J338.300" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J289_J338.800" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J278_J281">
+		<split pos="170" />
+		<split pos="200" />
+		<split pos="220" />
+		<split pos="250" />
+	</edge>
+
+	<edge id="E_J278_J281.170" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J278_J281.220" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J281_J278">
+		<split pos="270" />
+		<split pos="300" />
+	</edge>
+
+	<edge id="E_J281_J278.270" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J281_J283">
+		<split pos="120" />
+		<split pos="150" />
+		<split pos="180" />
+		<split pos="210" />
+		<split pos="480" />
+		<split pos="510" />
+		<split pos="550" />
+		<split pos="580" />
+		<split pos="610" />
+		<split pos="640" />
+	</edge>
+
+	<edge id="E_J281_J283.150" numLanes="6">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J281_J283.480" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J281_J283.580" numLanes="6">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J286_J281">
+		<split pos="210" />
+		<split pos="240" />
+		<split pos="270" />
+		<split pos="300" />
+		<split pos="550" />
+		<split pos="580" />
+		<split pos="610" />
+		<split pos="640" />
+	</edge>
+
+	<edge id="E_J286_J281.240" numLanes="6">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J286_J281.580" numLanes="6">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J285_J279">
+		<split pos="370" />
+		<split pos="400" />
+		<split pos="430" />
+		<split pos="460" />
+	</edge>
+
+	<edge id="E_J285_J279.400" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J279_J285">
+		<split pos="420" />
+		<split pos="450" />
+		<split pos="480" />
+		<split pos="510" />
+	</edge>
+
+	<edge id="E_J279_J285.450" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J282_J328">
+		<split pos="20" />
+		<split pos="50" />
+		<split pos="770" />
+		<split pos="800" />
+		<split pos="830" />
+		<split pos="860" />
+		<split pos="1070" />
+		<split pos="1100" />
+		<split pos="1130" />
+		<split pos="1160" />
+	</edge>
+
+	<edge id="E_J282_J328.20" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J282_J328.800" numLanes="6">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J282_J328.1100" numLanes="6">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J313_J282">
+		<split pos="170" />
+		<split pos="200" />
+		<split pos="230" />
+		<split pos="260" />
+		<split pos="900" />
+		<split pos="930" />
+	</edge>
+
+	<edge id="E_J313_J282.200" numLanes="6">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J313_J282.900" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J328_J313">
+		<split pos="120" />
+		<split pos="150" />
+		<split pos="180" />
+		<split pos="210" />
+	</edge>
+
+	<edge id="E_J328_J313.150" numLanes="6">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J328_J354">
+		<split pos="440" />
+		<split pos="470" />
+		<split pos="570" />
+		<split pos="600" />
+		<split pos="630" />
+		<split pos="660" />
+	</edge>
+
+	<edge id="E_J328_J354.440" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J328_J354.600" numLanes="6">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J354_J328">
+		<split pos="140" />
+		<split pos="170" />
+		<split pos="200" />
+		<split pos="230" />
+		<split pos="490" />
+		<split pos="520" />
+		<split pos="550" />
+		<split pos="580" />
+	</edge>
+
+	<edge id="E_J354_J328.170" numLanes="6">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J354_J328.520" numLanes="6">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J354_J355">
+		<split pos="100" />
+		<split pos="130" />
+	</edge>
+
+	<edge id="E_J354_J355.100" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J367_J354">
+		<split pos="310" />
+		<split pos="340" />
+	</edge>
+
+	<edge id="E_J367_J354.310" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J355_J309">
+		<split pos="300" />
+		<split pos="330" />
+	</edge>
+
+	<edge id="E_J355_J309.300" numLanes="3">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J309_J280">
+		<split pos="350" />
+		<split pos="380" />
+	</edge>
+
+	<edge id="E_J309_J280.350" numLanes="3">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J280_J267">
+		<split pos="20" />
+		<split pos="50" />
+		<split pos="80" />
+		<split pos="110" />
+	</edge>
+
+	<edge id="E_J280_J267.50" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J280_J309">
+		<split pos="20" />
+		<split pos="50" />
+	</edge>
+
+	<edge id="E_J280_J309.20" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J267_J268">
+		<split pos="130" />
+		<split pos="160" />
+		<split pos="190" />
+		<split pos="220" />
+	</edge>
+
+	<edge id="E_J267_J268.160" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J268_J267">
+		<split pos="150" />
+		<split pos="180" />
+		<split pos="210" />
+		<split pos="240" />
+	</edge>
+
+	<edge id="E_J268_J267.180" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J268_J270">
+		<split pos="260" />
+		<split pos="290" />
+		<split pos="320" />
+		<split pos="350" />
+	</edge>
+
+	<edge id="E_J268_J270.290" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J270_J268">
+		<split pos="180" />
+		<split pos="210" />
+		<split pos="240" />
+		<split pos="270" />
+	</edge>
+
+	<edge id="E_J270_J268.210" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J270_J273">
+		<split pos="110" />
+		<split pos="140" />
+	</edge>
+
+	<edge id="E_J270_J273.110" numLanes="3">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J273_J270">
+		<split pos="120" />
+		<split pos="150" />
+	</edge>
+
+	<edge id="E_J273_J270.120" numLanes="3">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J273_J307">
+		<split pos="260" />
+		<split pos="290" />
+	</edge>
+
+	<edge id="E_J273_J307.260" numLanes="2">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J307_J273">
+		<split pos="160" />
+		<split pos="190" />
+	</edge>
+
+	<edge id="E_J307_J273.160" numLanes="2">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J307_J306">
+		<split pos="50" />
+		<split pos="80" />
+		<split pos="110" />
+		<split pos="140" />
+	</edge>
+
+	<edge id="E_J307_J306.80" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J306_J307">
+		<split pos="150" />
+		<split pos="180" />
+	</edge>
+
+	<edge id="E_J306_J307.150" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J305_J308">
+		<split pos="200" />
+		<split pos="230" />
+	</edge>
+
+	<edge id="E_J305_J308.200" numLanes="3">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J308_J305">
+		<split pos="320" />
+		<split pos="350" />
+	</edge>
+
+	<edge id="E_J308_J305.320" numLanes="3">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J308_J277">
+		<split pos="120" />
+		<split pos="150" />
+		<split pos="180" />
+		<split pos="210" />
+	</edge>
+
+	<edge id="E_J308_J277.150" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J277_J308">
+		<split pos="120" />
+		<split pos="150" />
+	</edge>
+
+	<edge id="E_J277_J308.120" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J292_J290">
+		<split pos="170" />
+		<split pos="200" />
+		<split pos="230" />
+		<split pos="260" />
+		<split pos="400" />
+		<split pos="430" />
+	</edge>
+
+	<edge id="E_J292_J290.200" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J292_J290.400" numLanes="3">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J290_J292">
+		<split pos="300" />
+		<split pos="330" />
+		<split pos="500" />
+		<split pos="530" />
+	</edge>
+
+	<edge id="E_J290_J292.300" numLanes="3">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J290_J292.500" numLanes="3">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J269_J258">
+		<split pos="70" />
+		<split pos="100" />
+		<split pos="130" />
+		<split pos="160" />
+	</edge>
+
+	<edge id="E_J269_J258.100" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J258_J269">
+		<split pos="120" />
+		<split pos="150" />
+	</edge>
+
+	<edge id="E_J258_J269.120" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J258_J227">
+		<split pos="300" />
+		<split pos="330" />
+	</edge>
+
+	<edge id="E_J258_J227.300" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J227_J258">
+		<split pos="100" />
+		<split pos="130" />
+	</edge>
+
+	<edge id="E_J227_J258.100" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J227_J208">
+		<split pos="300" />
+		<split pos="330" />
+	</edge>
+
+	<edge id="E_J227_J208.300" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J208_J227">
+		<split pos="100" />
+		<split pos="130" />
+	</edge>
+
+	<edge id="E_J208_J227.100" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J172_J148">
+		<split pos="50" />
+		<split pos="80" />
+	</edge>
+
+	<edge id="E_J172_J148.50" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J172_J188">
+		<split pos="240" />
+		<split pos="270" />
+	</edge>
+
+	<edge id="E_J172_J188.240" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J309_J300">
+		<split pos="100" />
+		<split pos="130" />
+		<split pos="160" />
+		<split pos="190" />
+	</edge>
+
+	<edge id="E_J309_J300.130" numLanes="6">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J300_J319">
+		<split pos="90" />
+		<split pos="120" />
+		<split pos="150" />
+		<split pos="180" />
+	</edge>
+
+	<edge id="E_J300_J319.120" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J319_J354">
+		<split pos="200" />
+		<split pos="230" />
+	</edge>
+
+	<edge id="E_J319_J354.200" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J100_J73">
+		<split pos="100" />
+		<split pos="130" />
+	</edge>
+
+	<edge id="E_J100_J73.100" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J73_J74">
+		<split pos="50" />
+		<split pos="80" />
+		<split pos="110" />
+		<split pos="140" />
+	</edge>
+
+	<edge id="E_J73_J74.80" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J74_J73">
+		<split pos="190" />
+		<split pos="220" />
+	</edge>
+
+	<edge id="E_J74_J73.190" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J74_J78">
+		<split pos="200" />
+		<split pos="230" />
+	</edge>
+
+	<edge id="E_J74_J78.200" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J78_J74">
+		<split pos="100" />
+		<split pos="130" />
+	</edge>
+
+	<edge id="E_J78_J74.100" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J78_J80">
+		<split pos="230" />
+		<split pos="260" />
+	</edge>
+
+	<edge id="E_J78_J80.230" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J80_J78">
+		<split pos="260" />
+		<split pos="290" />
+	</edge>
+
+	<edge id="E_J80_J78.260" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J80_J84">
+		<split pos="200" />
+		<split pos="230" />
+	</edge>
+
+	<edge id="E_J80_J84.200" numLanes="3">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J84_J80">
+		<split pos="150" />
+		<split pos="180" />
+	</edge>
+
+	<edge id="E_J84_J80.150" numLanes="3">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J84_J89">
+		<split pos="100" />
+		<split pos="130" />
+	</edge>
+
+	<edge id="E_J84_J89.100" numLanes="3">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J89_J84">
+		<split pos="50" />
+		<split pos="80" />
+	</edge>
+
+	<edge id="E_J89_J84.50" numLanes="3">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J89_J48">
+		<split pos="50" />
+		<split pos="80" />
+	</edge>
+
+	<edge id="E_J89_J48.50" numLanes="3">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J37_J38">
+		<split pos="120" />
+		<split pos="150" />
+		<split pos="400" />
+		<split pos="430" />
+	</edge>
+
+	<edge id="E_J37_J38.120" numLanes="3">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J37_J38.400" numLanes="3">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J37_J89">
+		<split pos="120" />
+		<split pos="150" />
+		<split pos="440" />
+		<split pos="470" />
+	</edge>
+
+	<edge id="E_J37_J89.120" numLanes="3">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J37_J89.440" numLanes="3">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J38_J37">
+		<split pos="200" />
+		<split pos="230" />
+	</edge>
+
+	<edge id="E_J38_J37.200" numLanes="3">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J38_J106">
+		<split pos="200" />
+		<split pos="230" />
+	</edge>
+
+	<edge id="E_J38_J106.200" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J106_J38">
+		<split pos="1400" />
+		<split pos="1430" />
+	</edge>
+
+	<edge id="E_J106_J38.1400" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J206_J228">
+		<split pos="100" />
+		<split pos="130" />
+	</edge>
+
+	<edge id="E_J206_J228.100" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J228_J206">
+		<split pos="150" />
+		<split pos="180" />
+	</edge>
+
+	<edge id="E_J228_J206.150" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J228_J223">
+		<split pos="220" />
+		<split pos="250" />
+		<split pos="280" />
+		<split pos="310" />
+	</edge>
+
+	<edge id="E_J228_J223.250" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J223_J232">
+		<split pos="30" />
+		<split pos="60" />
+		<split pos="90" />
+		<split pos="120" />
+	</edge>
+
+	<edge id="E_J223_J232.60" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J223_J228">
+		<split pos="120" />
+		<split pos="150" />
+		<split pos="180" />
+		<split pos="210" />
+	</edge>
+
+	<edge id="E_J223_J228.150" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J232_J244">
+		<split pos="320" />
+		<split pos="350" />
+		<split pos="380" />
+		<split pos="410" />
+	</edge>
+
+	<edge id="E_J232_J244.350" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J244_J232">
+		<split pos="120" />
+		<split pos="150" />
+		<split pos="180" />
+		<split pos="210" />
+	</edge>
+
+	<edge id="E_J244_J232.150" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J244_J241">
+		<split pos="140" />
+		<split pos="170" />
+		<split pos="200" />
+		<split pos="230" />
+	</edge>
+
+	<edge id="E_J244_J241.170" numLanes="6">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J303_J302">
+		<split pos="150" />
+		<split pos="180" />
+	</edge>
+
+	<edge id="E_J303_J302.150" numLanes="6">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J299_J296">
+		<split pos="100" />
+		<split pos="130" />
+		<split pos="400" />
+		<split pos="430" />
+	</edge>
+
+	<edge id="E_J299_J296.100" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J299_J296.400" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J299_J302">
+		<split pos="150" />
+		<split pos="180" />
+	</edge>
+
+	<edge id="E_J299_J302.150" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J296_J299">
+		<split pos="20" />
+		<split pos="50" />
+	</edge>
+
+	<edge id="E_J296_J299.20" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J296_J289">
+		<split pos="330" />
+		<split pos="360" />
+	</edge>
+
+	<edge id="E_J296_J289.330" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J294_J296">
+		<split pos="50" />
+		<split pos="80" />
+	</edge>
+
+	<edge id="E_J294_J296.50" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J367_J376">
+		<split pos="170" />
+		<split pos="200" />
+	</edge>
+
+	<edge id="E_J367_J376.170" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J417_J367">
+		<split pos="70" />
+		<split pos="100" />
+		<split pos="130" />
+		<split pos="160" />
+		<split pos="470" />
+		<split pos="500" />
+		<split pos="1000" />
+		<split pos="1030" />
+		<split pos="1450" />
+		<split pos="1480" />
+	</edge>
+
+	<edge id="E_J417_J367.100" numLanes="6">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J417_J367.470" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J417_J367.1000" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J417_J367.1450" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J383_J417">
+		<split pos="150" />
+		<split pos="180" />
+		<split pos="670" />
+		<split pos="700" />
+		<split pos="730" />
+		<split pos="760" />
+	</edge>
+
+	<edge id="E_J383_J417.150" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J383_J417.700" numLanes="6">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J417_J423">
+		<split pos="280" />
+		<split pos="310" />
+	</edge>
+
+	<edge id="E_J417_J423.280" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J423_J417">
+		<split pos="200" />
+		<split pos="230" />
+		<split pos="260" />
+		<split pos="290" />
+	</edge>
+
+	<edge id="E_J423_J417.230" numLanes="6">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J423_J409">
+		<split pos="120" />
+		<split pos="150" />
+		<split pos="520" />
+		<split pos="550" />
+	</edge>
+
+	<edge id="E_J423_J409.120" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J423_J409.520" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J409_J423">
+		<split pos="190" />
+		<split pos="220" />
+		<split pos="250" />
+		<split pos="280" />
+		<split pos="570" />
+		<split pos="600" />
+		<split pos="630" />
+		<split pos="660" />
+	</edge>
+
+	<edge id="E_J409_J423.220" numLanes="6">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J409_J423.600" numLanes="6">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J409_J434">
+		<split pos="200" />
+		<split pos="230" />
+	</edge>
+
+	<edge id="E_J409_J434.200" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J434_J427">
+		<split pos="80" />
+		<split pos="110" />
+	</edge>
+
+	<edge id="E_J434_J427.80" numLanes="3">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J406_J409">
+		<split pos="400" />
+		<split pos="430" />
+	</edge>
+
+	<edge id="E_J406_J409.400" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J241_J244">
+		<split pos="440" />
+		<split pos="470" />
+	</edge>
+
+	<edge id="E_J241_J244.440" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J71_J99">
+		<split pos="70" />
+		<split pos="100" />
+		<split pos="130" />
+		<split pos="160" />
+	</edge>
+
+	<edge id="E_J71_J99.100" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J99_J100">
+		<split pos="100" />
+		<split pos="130" />
+	</edge>
+
+	<edge id="E_J99_J100.100" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J297_J321">
+		<split pos="100" />
+		<split pos="130" />
+	</edge>
+
+	<edge id="E_J297_J321.100" numLanes="3">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J321_J362">
+		<split pos="130" />
+		<split pos="160" />
+		<split pos="190" />
+		<split pos="220" />
+	</edge>
+
+	<edge id="E_J321_J362.160" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J393_J395">
+		<split pos="150" />
+		<split pos="180" />
+	</edge>
+
+	<edge id="E_J393_J395.150" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J323_J298">
+		<split pos="150" />
+		<split pos="180" />
+	</edge>
+
+	<edge id="E_J323_J298.150" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J298_J297">
+		<split pos="270" />
+		<split pos="300" />
+	</edge>
+
+	<edge id="E_J298_J297.270" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J577_J567">
+		<split pos="200" />
+		<split pos="230" />
+	</edge>
+
+	<edge id="E_J577_J567.200" numLanes="3">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J567_J577">
+		<split pos="170" />
+		<split pos="200" />
+	</edge>
+
+	<edge id="E_J567_J577.170" numLanes="3">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J567_J566">
+		<split pos="300" />
+		<split pos="330" />
+	</edge>
+
+	<edge id="E_J567_J566.300" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J566_J567">
+		<split pos="300" />
+		<split pos="330" />
+	</edge>
+
+	<edge id="E_J566_J567.300" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J566_J557">
+		<split pos="120" />
+		<split pos="150" />
+		<split pos="180" />
+		<split pos="210" />
+	</edge>
+
+	<edge id="E_J566_J557.150" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J557_J566">
+		<split pos="80" />
+		<split pos="110" />
+		<split pos="140" />
+		<split pos="170" />
+	</edge>
+
+	<edge id="E_J557_J566.110" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J557_J535">
+		<split pos="90" />
+		<split pos="120" />
+		<split pos="150" />
+		<split pos="180" />
+	</edge>
+
+	<edge id="E_J557_J535.120" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J535_J557">
+		<split pos="100" />
+		<split pos="130" />
+	</edge>
+
+	<edge id="E_J535_J557.100" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J535_J501">
+		<split pos="250" />
+		<split pos="280" />
+	</edge>
+
+	<edge id="E_J535_J501.250" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J501_J535">
+		<split pos="70" />
+		<split pos="100" />
+		<split pos="130" />
+		<split pos="160" />
+	</edge>
+
+	<edge id="E_J501_J535.100" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J498_J492">
+		<split pos="20" />
+		<split pos="50" />
+	</edge>
+
+	<edge id="E_J498_J492.20" numLanes="3">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J498_J501">
+		<split pos="20" />
+		<split pos="50" />
+	</edge>
+
+	<edge id="E_J498_J501.20" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J492_J487">
+		<split pos="90" />
+		<split pos="120" />
+		<split pos="150" />
+		<split pos="180" />
+	</edge>
+
+	<edge id="E_J492_J487.120" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J487_J492">
+		<split pos="120" />
+		<split pos="150" />
+		<split pos="180" />
+		<split pos="210" />
+	</edge>
+
+	<edge id="E_J487_J492.150" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J486_J480">
+		<split pos="20" />
+		<split pos="50" />
+	</edge>
+
+	<edge id="E_J486_J480.20" numLanes="3">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J480_J486">
+		<split pos="100" />
+		<split pos="130" />
+	</edge>
+
+	<edge id="E_J480_J486.100" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J480_J462">
+		<split pos="100" />
+		<split pos="130" />
+		<split pos="500" />
+		<split pos="530" />
+	</edge>
+
+	<edge id="E_J480_J462.100" numLanes="3">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J480_J462.500" numLanes="3">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J462_J480">
+		<split pos="50" />
+		<split pos="80" />
+		<split pos="300" />
+		<split pos="330" />
+	</edge>
+
+	<edge id="E_J462_J480.50" numLanes="3">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J462_J480.300" numLanes="3">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J462_J444">
+		<split pos="420" />
+		<split pos="450" />
+	</edge>
+
+	<edge id="E_J462_J444.420" numLanes="3">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J444_J462">
+		<split pos="50" />
+		<split pos="80" />
+	</edge>
+
+	<edge id="E_J444_J462.50" numLanes="3">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J439_J413">
+		<split pos="120" />
+		<split pos="150" />
+		<split pos="180" />
+		<split pos="210" />
+	</edge>
+
+	<edge id="E_J439_J413.150" numLanes="6">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J413_J439">
+		<split pos="150" />
+		<split pos="180" />
+	</edge>
+
+	<edge id="E_J413_J439.150" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J413_J401">
+		<split pos="120" />
+		<split pos="150" />
+	</edge>
+
+	<edge id="E_J413_J401.120" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J401_J413">
+		<split pos="130" />
+		<split pos="160" />
+	</edge>
+
+	<edge id="E_J401_J413.130" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J401_J385">
+		<split pos="20" />
+		<split pos="50" />
+		<split pos="80" />
+		<split pos="110" />
+		<split pos="570" />
+		<split pos="600" />
+		<split pos="630" />
+		<split pos="660" />
+		<split pos="970" />
+		<split pos="1000" />
+		<split pos="1030" />
+		<split pos="1060" />
+		<split pos="1320" />
+		<split pos="1350" />
+		<split pos="1380" />
+		<split pos="1410" />
+	</edge>
+
+	<edge id="E_J401_J385.50" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J401_J385.600" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J401_J385.1000" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J401_J385.1350" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J385_J401">
+		<split pos="170" />
+		<split pos="200" />
+		<split pos="230" />
+		<split pos="260" />
+		<split pos="520" />
+		<split pos="550" />
+		<split pos="580" />
+		<split pos="610" />
+		<split pos="820" />
+		<split pos="850" />
+		<split pos="880" />
+		<split pos="910" />
+		<split pos="1370" />
+		<split pos="1400" />
+		<split pos="1430" />
+		<split pos="1460" />
+	</edge>
+
+	<edge id="E_J385_J401.200" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J385_J401.550" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J385_J401.850" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J385_J401.1400" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J385_J389">
+		<split pos="170" />
+		<split pos="200" />
+		<split pos="230" />
+		<split pos="260" />
+	</edge>
+
+	<edge id="E_J385_J389.200" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J389_J392">
+		<split pos="70" />
+		<split pos="100" />
+		<split pos="130" />
+		<split pos="160" />
+		<split pos="520" />
+		<split pos="550" />
+		<split pos="580" />
+		<split pos="610" />
+	</edge>
+
+	<edge id="E_J389_J392.100" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J389_J392.550" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J389_J385">
+		<split pos="120" />
+		<split pos="150" />
+		<split pos="180" />
+		<split pos="210" />
+	</edge>
+
+	<edge id="E_J389_J385.150" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J392_J389">
+		<split pos="20" />
+		<split pos="50" />
+		<split pos="420" />
+		<split pos="450" />
+		<split pos="480" />
+		<split pos="510" />
+	</edge>
+
+	<edge id="E_J392_J389.20" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J392_J389.450" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J392_J394">
+		<split pos="30" />
+		<split pos="60" />
+	</edge>
+
+	<edge id="E_J392_J394.30" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J132_J133">
+		<split pos="120" />
+		<split pos="150" />
+		<split pos="180" />
+		<split pos="210" />
+	</edge>
+
+	<edge id="E_J132_J133.150" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J133_J132">
+		<split pos="120" />
+		<split pos="150" />
+		<split pos="180" />
+		<split pos="210" />
+	</edge>
+
+	<edge id="E_J133_J132.150" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J133_J128">
+		<split pos="120" />
+		<split pos="150" />
+		<split pos="180" />
+		<split pos="210" />
+	</edge>
+
+	<edge id="E_J133_J128.150" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J128_J133">
+		<split pos="120" />
+		<split pos="150" />
+		<split pos="180" />
+		<split pos="210" />
+	</edge>
+
+	<edge id="E_J128_J133.150" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J131_J134">
+		<split pos="260" />
+		<split pos="290" />
+	</edge>
+
+	<edge id="E_J131_J134.260" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J134_J131">
+		<split pos="200" />
+		<split pos="230" />
+	</edge>
+
+	<edge id="E_J134_J131.200" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J136_J138">
+		<split pos="20" />
+		<split pos="50" />
+	</edge>
+
+	<edge id="E_J136_J138.20" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J136_J134">
+		<split pos="80" />
+		<split pos="110" />
+		<split pos="140" />
+		<split pos="170" />
+	</edge>
+
+	<edge id="E_J136_J134.110" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J138_J146">
+		<split pos="30" />
+		<split pos="60" />
+		<split pos="90" />
+		<split pos="120" />
+	</edge>
+
+	<edge id="E_J138_J146.60" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J146_J138">
+		<split pos="270" />
+		<split pos="300" />
+		<split pos="330" />
+		<split pos="360" />
+	</edge>
+
+	<edge id="E_J146_J138.300" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J146_J153">
+		<split pos="150" />
+		<split pos="180" />
+		<split pos="210" />
+		<split pos="240" />
+		<split pos="350" />
+		<split pos="380" />
+		<split pos="410" />
+		<split pos="440" />
+		<split pos="770" />
+		<split pos="800" />
+		<split pos="830" />
+		<split pos="860" />
+	</edge>
+
+	<edge id="E_J146_J153.180" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J146_J153.380" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J146_J153.800" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J153_J146">
+		<split pos="290" />
+		<split pos="320" />
+		<split pos="350" />
+		<split pos="380" />
+		<split pos="800" />
+		<split pos="830" />
+	</edge>
+
+	<edge id="E_J153_J146.320" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J153_J146.800" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J156_J158">
+		<split pos="130" />
+		<split pos="160" />
+	</edge>
+
+	<edge id="E_J156_J158.130" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J156_J153">
+		<split pos="30" />
+		<split pos="60" />
+		<split pos="90" />
+		<split pos="120" />
+	</edge>
+
+	<edge id="E_J156_J153.60" numLanes="5">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J209_J211">
+		<split pos="150" />
+		<split pos="180" />
+		<split pos="210" />
+		<split pos="240" />
+	</edge>
+
+	<edge id="E_J209_J211.180" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+		<lane index="1" width="6" allow="bus" />
+	</edge>
+
+	<edge id="E_J211_J183">
+		<split pos="100" />
+		<split pos="130" />
+	</edge>
+
+	<edge id="E_J211_J183.100" numLanes="3">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J173_J156">
+		<split pos="120" />
+		<split pos="150" />
+	</edge>
+
+	<edge id="E_J173_J156.120" numLanes="3">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	<edge id="E_J131_J130">
+		<split pos="50" />
+		<split pos="80" />
+	</edge>
+
+	<edge id="E_J131_J130.50" numLanes="4">
+		<lane index="0" width="2" allow="pedestrian" />
+	</edge>
+
+	</edges>

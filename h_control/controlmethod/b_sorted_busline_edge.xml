@@ -1,0 +1,1503 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+	<busline id="7X">
+		<element id="E_J393_J395" type="w" length="148.50" dedicated_flag="0" impacted_edge="E_J393_J395" impacted_length="148.5" />
+		<element id="E_J393_J395.150" type="s" length="27.00" dedicated_flag="0" stop_id="7X01_7S26" />
+		<element id="E_J393_J395.180" type="w" length="40.40" dedicated_flag="0" impacted_edge="E_J395_J396" impacted_length="160.31" />
+		<element id="E_J395_J396" type="i" length="119.91" dedicated_flag="0" tl="J396" phase_time="49" cycle_time="90" from_lane="E_J395_J396_2" dir="l" />
+		<element id="E_J396_J381" type="w" length="120.56" dedicated_flag="0" impacted_edge="E_J381_J363" impacted_length="344.28" />
+		<element id="E_J381_J363" type="i" length="223.72" dedicated_flag="0" tl="J363" phase_time="41" cycle_time="90" from_lane="E_J381_J363_1" dir="s" />
+		<element id="E_J363_J347" type="w" length="286.18" dedicated_flag="0" impacted_edge="E_J347_J323" impacted_length="479.9" />
+		<element id="E_J347_J323" type="i" length="193.72" dedicated_flag="0" tl="J323" phase_time="90" cycle_time="90" from_lane="E_J347_J323_0" dir="s" />
+		<element id="E_J323_J298" type="w" length="147.70" dedicated_flag="0" impacted_edge="E_J323_J298" impacted_length="147.7" />
+		<element id="E_J323_J298.150" type="s" length="27.00" dedicated_flag="0" stop_id="7X02" />
+		<element id="E_J323_J298.180" type="i" length="258.76" dedicated_flag="0" tl="J298" phase_time="45" cycle_time="90" from_lane="E_J323_J298.180_2" dir="l" />
+		<element id="E_J298_J297" type="w" length="266.90" dedicated_flag="0" impacted_edge="E_J298_J297" impacted_length="266.9" />
+		<element id="E_J298_J297.270" type="s" length="27.00" dedicated_flag="0" stop_id="7X03" />
+		<element id="E_J298_J297.300" type="i" length="89.59" dedicated_flag="0" tl="J297" phase_time="40" cycle_time="90" from_lane="E_J298_J297.300_1" dir="s" />
+		<element id="E_J297_J303" type="w" length="258.78" dedicated_flag="0" impacted_edge="E_J297_J303" impacted_length="258.78" />
+		<element id="E_J297_J303.260" type="s" length="27.01" dedicated_flag="0" stop_id="7X04_311X17" />
+		<element id="E_J297_J303.290" type="i" length="236.73" dedicated_flag="0" tl="J303" phase_time="35" cycle_time="90" from_lane="E_J297_J303.290_1" dir="s" />
+		<element id="E_J303_J302" type="w" length="142.92" dedicated_flag="0" impacted_edge="E_J303_J302" impacted_length="142.92" />
+		<element id="E_J303_J302.150" type="s" length="22.00" dedicated_flag="0" stop_id="7X05_102X18" />
+		<element id="E_J303_J302.180" type="w" length="34.05" dedicated_flag="0" impacted_edge="E_J302_J299" impacted_length="428.29" />
+		<element id="E_J302_J299" type="i" length="394.24" dedicated_flag="0" tl="J299" phase_time="35" cycle_time="90" from_lane="E_J302_J299_1" dir="s" />
+		<element id="E_J299_J296" type="w" length="99.50" dedicated_flag="0" impacted_edge="E_J299_J296" impacted_length="99.5" />
+		<element id="E_J299_J296.100" type="s" length="27.00" dedicated_flag="0" stop_id="7X06_102X19" />
+		<element id="E_J299_J296.130" type="w" length="267.00" dedicated_flag="0" impacted_edge="E_J299_J296.130" impacted_length="267.0" />
+		<element id="E_J299_J296.400" type="s" length="27.00" dedicated_flag="0" stop_id="7X07_102X20" />
+		<element id="E_J299_J296.430" type="w" length="41.67" dedicated_flag="0" impacted_edge="E_J296_J289" impacted_length="369.03000000000003" />
+		<element id="E_J296_J289" type="w" length="327.36" dedicated_flag="0" impacted_edge="E_J296_J289" impacted_length="327.36" />
+		<element id="E_J296_J289.330" type="s" length="26.08" dedicated_flag="0" stop_id="7X08_102X21" />
+		<element id="E_J296_J289.360" type="i" length="303.89" dedicated_flag="0" tl="J289" phase_time="35" cycle_time="90" from_lane="E_J296_J289.360_1" dir="s" />
+		<element id="E_J289_J278" type="w" length="297.32" dedicated_flag="0" impacted_edge="E_J278_J281" impacted_length="466.13" />
+		<element id="E_J278_J281" type="w" length="168.81" dedicated_flag="0" impacted_edge="E_J278_J281" impacted_length="168.81" />
+		<element id="E_J278_J281.170" type="s" length="27.00" dedicated_flag="0" stop_id="7X09" />
+		<element id="E_J278_J281.200" type="w" length="17.00" dedicated_flag="0" impacted_edge="E_J278_J281.200" impacted_length="17.0" />
+		<element id="E_J278_J281.220" type="s" length="27.23" dedicated_flag="0" stop_id="102X22_705X23" />
+		<element id="E_J278_J281.250" type="i" length="178.41" dedicated_flag="0" tl="J281" phase_time="36" cycle_time="90" from_lane="E_J278_J281.250_1" dir="s" />
+		<element id="E_J281_J283" type="w" length="118.63" dedicated_flag="0" impacted_edge="E_J281_J283" impacted_length="118.63" />
+		<element id="E_J281_J283.150" type="s" length="30.00" dedicated_flag="0" stop_id="7X10_102X23_705X24" />
+		<element id="E_J281_J283.210" type="w" length="268.62" dedicated_flag="0" impacted_edge="E_J281_J283.210" impacted_length="268.62" />
+		<element id="E_J281_J283.480" type="s" length="27.00" dedicated_flag="0" stop_id="7X11" />
+		<element id="E_J281_J283.510" type="w" length="38.50" dedicated_flag="0" impacted_edge="E_J281_J283.510" impacted_length="38.5" />
+		<element id="E_J281_J283.580" type="s" length="30.77" dedicated_flag="0" stop_id="102X24_705X25" />
+		<element id="E_J281_J283.640" type="w" length="77.72" dedicated_flag="0" impacted_edge="E_J283_J285" impacted_length="121.05" />
+		<element id="E_J283_J285" type="i" length="43.33" dedicated_flag="0" tl="J285" phase_time="41" cycle_time="90" from_lane="E_J283_J285_1" dir="s" />
+		<element id="E_J285_J279" type="w" length="369.84" dedicated_flag="0" impacted_edge="E_J285_J279" impacted_length="369.84" />
+		<element id="E_J285_J279.400" type="s" length="30.05" dedicated_flag="0" stop_id="7X12_102X25_705X26" />
+		<element id="E_J285_J279.460" type="i" length="397.32" dedicated_flag="0" tl="J279" phase_time="36" cycle_time="90" from_lane="E_J285_J279.460_1" dir="s" />
+		<element id="E_J279_J282" type="w" length="130.45" dedicated_flag="0" impacted_edge="E_J282_J328" impacted_length="143.07" />
+		<element id="E_J282_J328" type="w" length="12.62" dedicated_flag="0" impacted_edge="E_J282_J328" impacted_length="12.62" />
+		<element id="E_J282_J328.20" type="s" length="27.01" dedicated_flag="0" stop_id="7X13_102X26_705X27" />
+		<element id="E_J282_J328.50" type="w" length="723.30" dedicated_flag="0" impacted_edge="E_J282_J328.50" impacted_length="723.3" />
+		<element id="E_J282_J328.800" type="s" length="30.00" dedicated_flag="0" stop_id="7X14_102X27_705X28" />
+		<element id="E_J282_J328.860" type="w" length="208.28" dedicated_flag="0" impacted_edge="E_J282_J328.860" impacted_length="208.28" />
+		<element id="E_J282_J328.1100" type="s" length="29.30" dedicated_flag="0" stop_id="7X15_102X28_705X29" />
+		<element id="E_J282_J328.1160" type="i" length="146.47" dedicated_flag="0" tl="J328" phase_time="89" cycle_time="90" from_lane="E_J282_J328.1160_0" dir="s" />
+		<element id="E_J328_J354" type="w" length="438.73" dedicated_flag="0" impacted_edge="E_J328_J354" impacted_length="438.73" />
+		<element id="E_J328_J354.440" type="s" length="27.00" dedicated_flag="0" stop_id="7X16_102X29_705X30" />
+		<element id="E_J328_J354.470" type="w" length="98.50" dedicated_flag="0" impacted_edge="E_J328_J354.470" impacted_length="98.5" />
+		<element id="E_J328_J354.600" type="s" length="30.00" dedicated_flag="0" stop_id="7X17_102X30_705X31" />
+		<element id="E_J328_J354.660" type="i" length="267.56" dedicated_flag="0" tl="J354" phase_time="35" cycle_time="90" from_lane="E_J328_J354.660_1" dir="s" />
+		<element id="E_J354_J355" type="w" length="96.28" dedicated_flag="0" impacted_edge="E_J354_J355" impacted_length="96.28" />
+		<element id="E_J354_J355.100" type="s" length="26.99" dedicated_flag="0" stop_id="7X18_102X31_705X32" />
+		<element id="E_J354_J355.130" type="w" length="48.40" dedicated_flag="0" impacted_edge="E_J367_J376" impacted_length="411.71000000000004" />
+		<element id="E_J354_J355.130.49" type="w" length="30.52" dedicated_flag="0" impacted_edge="E_J367_J376" impacted_length="363.31" />
+		<element id="E_J355_J358" type="w" length="50.55" dedicated_flag="0" impacted_edge="E_J367_J376" impacted_length="332.79" />
+		<element id="E_J358_J367" type="w" length="114.12" dedicated_flag="0" impacted_edge="E_J367_J376" impacted_length="282.24" />
+		<element id="E_J367_J376" type="w" length="168.12" dedicated_flag="0" impacted_edge="E_J367_J376" impacted_length="168.12" />
+		<element id="E_J367_J376.170" type="s" length="25.52" dedicated_flag="0" stop_id="7X19_102X32" />
+		<element id="E_J367_J376.200" type="w" length="148.93" dedicated_flag="0" impacted_edge="E_J383_J417" impacted_length="515.8900000000001" />
+		<element id="E_J376_J378" type="w" length="32.21" dedicated_flag="0" impacted_edge="E_J383_J417" impacted_length="366.96000000000004" />
+		<element id="E_J378_J380" type="w" length="146.56" dedicated_flag="0" impacted_edge="E_J383_J417" impacted_length="334.75" />
+		<element id="E_J380_J383" type="w" length="38.88" dedicated_flag="0" impacted_edge="E_J383_J417" impacted_length="188.19" />
+		<element id="E_J383_J417" type="w" length="149.31" dedicated_flag="0" impacted_edge="E_J383_J417" impacted_length="149.31" />
+		<element id="E_J383_J417.150" type="s" length="27.00" dedicated_flag="0" stop_id="7X20_102X33" />
+		<element id="E_J383_J417.180" type="w" length="488.50" dedicated_flag="0" impacted_edge="E_J383_J417.180" impacted_length="488.5" />
+		<element id="E_J383_J417.700" type="s" length="30.00" dedicated_flag="0" stop_id="7X21_102X34" />
+		<element id="E_J383_J417.760" type="i" length="396.89" dedicated_flag="0" tl="J417" phase_time="35" cycle_time="90" from_lane="E_J383_J417.760_1" dir="s" />
+		<element id="E_J417_J423" type="w" length="275.66" dedicated_flag="0" impacted_edge="E_J417_J423" impacted_length="275.66" />
+		<element id="E_J417_J423.280" type="s" length="27.00" dedicated_flag="0" stop_id="7X22_102X35" />
+		<element id="E_J417_J423.310" type="i" length="86.06" dedicated_flag="0" tl="J423" phase_time="40" cycle_time="90" from_lane="E_J417_J423.310_1" dir="s" />
+		<element id="E_J423_J409" type="w" length="118.01" dedicated_flag="0" impacted_edge="E_J423_J409" impacted_length="118.01" />
+		<element id="E_J423_J409.120" type="s" length="27.00" dedicated_flag="0" stop_id="7X23_102X36" />
+		<element id="E_J423_J409.150" type="w" length="364.94" dedicated_flag="0" impacted_edge="E_J423_J409.150" impacted_length="364.94" />
+		<element id="E_J423_J409.520" type="s" length="27.01" dedicated_flag="0" stop_id="7X24_102X37" />
+		<element id="E_J423_J409.550" type="i" length="168.75" dedicated_flag="0" tl="J409" phase_time="44" cycle_time="90" from_lane="E_J423_J409.550_3" dir="l" />
+		<element id="E_J409_J434" type="w" length="197.89" dedicated_flag="0" impacted_edge="E_J409_J434" impacted_length="197.89" />
+		<element id="E_J409_J434.200" type="s" length="27.00" dedicated_flag="0" stop_id="7X25_102X38" />
+		<element id="E_J409_J434.230" type="i" length="148.57" dedicated_flag="0" />
+		</busline>
+	<busline id="7S">
+		<element id="E_J434_J427" type="w" length="77.37" dedicated_flag="0" impacted_edge="E_J434_J427" impacted_length="77.37" />
+		<element id="E_J434_J427.80" type="s" length="27.00" dedicated_flag="0" stop_id="7S01_102S01" />
+		<element id="E_J434_J427.110" type="i" length="60.89" dedicated_flag="0" tl="J427" phase_time="35" cycle_time="90" from_lane="E_J434_J427.110_0" dir="R" />
+		<element id="E_J427_J406" type="i" length="351.32" dedicated_flag="0" tl="J406" phase_time="39" cycle_time="90" from_lane="E_J427_J406_0" dir="r" />
+		<element id="E_J406_J409" type="w" length="395.70" dedicated_flag="0" impacted_edge="E_J406_J409" impacted_length="395.7" />
+		<element id="E_J406_J409.400" type="s" length="27.00" dedicated_flag="0" stop_id="7S02_102S02" />
+		<element id="E_J406_J409.430" type="i" length="83.91" dedicated_flag="0" tl="J409" phase_time="35" cycle_time="90" from_lane="E_J406_J409.430_1" dir="s" />
+		<element id="E_J409_J423" type="w" length="190.13" dedicated_flag="0" impacted_edge="E_J409_J423" impacted_length="190.13" />
+		<element id="E_J409_J423.220" type="s" length="30.00" dedicated_flag="0" stop_id="7S03_102S03" />
+		<element id="E_J409_J423.280" type="w" length="291.69" dedicated_flag="0" impacted_edge="E_J409_J423.280" impacted_length="291.69" />
+		<element id="E_J409_J423.600" type="s" length="31.08" dedicated_flag="0" stop_id="7S04_102S04" />
+		<element id="E_J409_J423.660" type="i" length="63.60" dedicated_flag="0" tl="J423" phase_time="89" cycle_time="90" from_lane="E_J409_J423.660_0" dir="s" />
+		<element id="E_J423_J417" type="w" length="200.14" dedicated_flag="0" impacted_edge="E_J423_J417" impacted_length="200.14" />
+		<element id="E_J423_J417.230" type="s" length="30.00" dedicated_flag="0" stop_id="7S05_102S05" />
+		<element id="E_J423_J417.290" type="i" length="105.06" dedicated_flag="0" tl="J417" phase_time="35" cycle_time="90" from_lane="E_J423_J417.290_1" dir="s" />
+		<element id="E_J417_J367" type="w" length="70.00" dedicated_flag="0" impacted_edge="E_J417_J367" impacted_length="70.0" />
+		<element id="E_J417_J367.100" type="s" length="30.00" dedicated_flag="0" stop_id="7S06_102S06" />
+		<element id="E_J417_J367.160" type="w" length="313.01" dedicated_flag="0" impacted_edge="E_J417_J367.160" impacted_length="313.01" />
+		<element id="E_J417_J367.470" type="s" length="27.00" dedicated_flag="0" stop_id="7S07_102S07" />
+		<element id="E_J417_J367.500" type="w" length="497.00" dedicated_flag="0" impacted_edge="E_J417_J367.500" impacted_length="497.0" />
+		<element id="E_J417_J367.1000" type="s" length="27.00" dedicated_flag="0" stop_id="7S08_102S08" />
+		<element id="E_J417_J367.1030" type="w" length="413.20" dedicated_flag="0" impacted_edge="E_J417_J367.1030" impacted_length="413.2" />
+		<element id="E_J417_J367.1450" type="s" length="27.00" dedicated_flag="0" stop_id="7S09_102S09" />
+		<element id="E_J417_J367.1480" type="w" length="351.06" dedicated_flag="0" impacted_edge="E_J367_J354" impacted_length="656.94" />
+		<element id="E_J367_J354" type="w" length="305.88" dedicated_flag="0" impacted_edge="E_J367_J354" impacted_length="305.88" />
+		<element id="E_J367_J354.310" type="s" length="27.01" dedicated_flag="0" stop_id="7S10_102S10" />
+		<element id="E_J367_J354.340" type="i" length="78.57" dedicated_flag="0" tl="J354" phase_time="35" cycle_time="90" from_lane="E_J367_J354.340_1" dir="s" />
+		<element id="E_J354_J328" type="w" length="142.05" dedicated_flag="0" impacted_edge="E_J354_J328" impacted_length="142.05" />
+		<element id="E_J354_J328.170" type="s" length="30.00" dedicated_flag="0" stop_id="7S11_102S11_705S18" />
+		<element id="E_J354_J328.230" type="w" length="260.00" dedicated_flag="0" impacted_edge="E_J354_J328.230" impacted_length="260.0" />
+		<element id="E_J354_J328.520" type="s" length="30.00" dedicated_flag="0" stop_id="7S12_102S12_705S19" />
+		<element id="E_J354_J328.580" type="i" length="350.80" dedicated_flag="0" tl="J328" phase_time="40" cycle_time="90" from_lane="E_J354_J328.580_1" dir="s" />
+		<element id="E_J328_J313" type="w" length="120.96" dedicated_flag="0" impacted_edge="E_J328_J313" impacted_length="120.96" />
+		<element id="E_J328_J313.150" type="s" length="29.99" dedicated_flag="0" stop_id="7S13_102S13_705S20" />
+		<element id="E_J328_J313.210" type="w" length="114.37" dedicated_flag="0" impacted_edge="E_J313_J282" impacted_length="282.72" />
+		<element id="E_J313_J282" type="w" length="168.35" dedicated_flag="0" impacted_edge="E_J313_J282" impacted_length="168.35" />
+		<element id="E_J313_J282.200" type="s" length="30.00" dedicated_flag="0" stop_id="7S14_102S14_705S21" />
+		<element id="E_J313_J282.260" type="w" length="634.79" dedicated_flag="0" impacted_edge="E_J313_J282.260" impacted_length="634.79" />
+		<element id="E_J313_J282.900" type="s" length="25.98" dedicated_flag="0" stop_id="7S15_102S15_705S22" />
+		<element id="E_J313_J282.930" type="w" length="20.87" dedicated_flag="0" impacted_edge="E_J282_J279" impacted_length="151.17000000000002" />
+		<element id="E_J282_J279" type="i" length="130.30" dedicated_flag="0" tl="J279" phase_time="36" cycle_time="90" from_lane="E_J282_J279_1" dir="s" />
+		<element id="E_J279_J285" type="w" length="418.45" dedicated_flag="0" impacted_edge="E_J279_J285" impacted_length="418.45" />
+		<element id="E_J279_J285.450" type="s" length="29.82" dedicated_flag="0" stop_id="7S16_102S16_705S23" />
+		<element id="E_J279_J285.510" type="i" length="348.31" dedicated_flag="0" tl="J285" phase_time="41" cycle_time="90" from_lane="E_J279_J285.510_1" dir="s" />
+		<element id="E_J285_J286" type="w" length="44.34" dedicated_flag="0" impacted_edge="E_J286_J281" impacted_length="252.04" />
+		<element id="E_J286_J281" type="w" length="207.70" dedicated_flag="0" impacted_edge="E_J286_J281" impacted_length="207.7" />
+		<element id="E_J286_J281.240" type="s" length="29.99" dedicated_flag="0" stop_id="7S17_102S17_705S24" />
+		<element id="E_J286_J281.300" type="w" length="250.00" dedicated_flag="0" impacted_edge="E_J286_J281.300" impacted_length="250.0" />
+		<element id="E_J286_J281.580" type="s" length="30.80" dedicated_flag="0" stop_id="7S18_102S18_705S25" />
+		<element id="E_J286_J281.640" type="i" length="77.86" dedicated_flag="0" tl="J281" phase_time="36" cycle_time="90" from_lane="E_J286_J281.640_1" dir="s" />
+		<element id="E_J281_J278" type="w" length="266.64" dedicated_flag="0" impacted_edge="E_J281_J278" impacted_length="266.64" />
+		<element id="E_J281_J278.270" type="s" length="27.00" dedicated_flag="0" stop_id="7S19_102S19_705S26" />
+		<element id="E_J281_J278.300" type="w" length="129.43" dedicated_flag="0" impacted_edge="E_J278_J289" impacted_length="419.81" />
+		<element id="E_J278_J289" type="i" length="290.38" dedicated_flag="0" tl="J289" phase_time="35" cycle_time="90" from_lane="E_J278_J289_1" dir="s" />
+		<element id="E_J289_J294" type="w" length="110.29" dedicated_flag="0" impacted_edge="E_J294_J296" impacted_length="157.28" />
+		<element id="E_J294_J296" type="w" length="46.99" dedicated_flag="0" impacted_edge="E_J294_J296" impacted_length="46.99" />
+		<element id="E_J294_J296.50" type="s" length="27.00" dedicated_flag="0" stop_id="7S20_102S20" />
+		<element id="E_J294_J296.80" type="w" length="454.78" dedicated_flag="0" impacted_edge="E_J296_J299" impacted_length="473.27" />
+		<element id="E_J296_J299" type="w" length="18.49" dedicated_flag="0" impacted_edge="E_J296_J299" impacted_length="18.49" />
+		<element id="E_J296_J299.20" type="s" length="27.01" dedicated_flag="0" stop_id="7S21_102S21" />
+		<element id="E_J296_J299.50" type="i" length="419.83" dedicated_flag="0" tl="J299" phase_time="35" cycle_time="90" from_lane="E_J296_J299.50_1" dir="s" />
+		<element id="E_J299_J302" type="w" length="148.75" dedicated_flag="0" impacted_edge="E_J299_J302" impacted_length="148.75" />
+		<element id="E_J299_J302.150" type="s" length="26.92" dedicated_flag="0" stop_id="7S22_102S22" />
+		<element id="E_J299_J302.180" type="w" length="211.25" dedicated_flag="0" impacted_edge="E_J302_J303" impacted_length="430.3" />
+		<element id="E_J302_J303" type="i" length="219.05" dedicated_flag="0" tl="J303" phase_time="35" cycle_time="90" from_lane="E_J302_J303_1" dir="s" />
+		<element id="E_J303_J297" type="w" length="258.37" dedicated_flag="0" impacted_edge="E_J303_J297" impacted_length="258.37" />
+		<element id="E_J303_J297.260" type="s" length="27.01" dedicated_flag="0" stop_id="7S23_311S26" />
+		<element id="E_J303_J297.290" type="i" length="236.11" dedicated_flag="0" tl="J297" phase_time="40" cycle_time="90" from_lane="E_J303_J297.290_0" dir="r" />
+		<element id="E_J297_J321" type="w" length="93.79" dedicated_flag="0" impacted_edge="E_J297_J321" impacted_length="93.79" />
+		<element id="E_J297_J321.100" type="s" length="26.99" dedicated_flag="0" stop_id="7S24" />
+		<element id="E_J297_J321.130" type="i" length="302.41" dedicated_flag="0" tl="J321" phase_time="40" cycle_time="90" from_lane="E_J297_J321.130_0" dir="s" />
+		<element id="E_J321_J362" type="w" length="128.84" dedicated_flag="0" impacted_edge="E_J321_J362" impacted_length="128.84" />
+		<element id="E_J321_J362.160" type="s" length="30.00" dedicated_flag="0" stop_id="7S25" />
+		<element id="E_J321_J362.220" type="i" length="275.03" dedicated_flag="0" tl="J362" phase_time="45" cycle_time="90" from_lane="E_J321_J362.220_0" dir="s" />
+		<element id="E_J362_J374" type="w" length="114.36" dedicated_flag="0" impacted_edge="E_J382_J393" impacted_length="323.6" />
+		<element id="E_J374_J382" type="w" length="109.06" dedicated_flag="0" impacted_edge="E_J382_J393" impacted_length="209.24" />
+		<element id="E_J382_J393" type="i" length="100.18" dedicated_flag="0" tl="J393" phase_time="40" cycle_time="90" from_lane="E_J382_J393_1" dir="l" />
+		<element id="E_J393_J395" type="w" length="148.50" dedicated_flag="0" impacted_edge="E_J393_J395" impacted_length="148.5" />
+		<element id="E_J393_J395.150" type="s" length="27.00" dedicated_flag="0" stop_id="7X01_7S26" />
+		<element id="E_J393_J395.180" type="w" length="40.40" dedicated_flag="0" impacted_edge="E_J393_J395.180" impacted_length="40.4" />
+		</busline>
+	<busline id="122S">
+		<element id="E_J150_J154" type="w" length="53.30" dedicated_flag="0" impacted_edge="E_J150_J154" impacted_length="53.3" />
+		<element id="E_J150_J154.50" type="s" length="27.00" dedicated_flag="0" stop_id="122S01" />
+		<element id="E_J150_J154.80" type="w" length="89.14" dedicated_flag="0" impacted_edge="E_J150_J154.80" impacted_length="89.14" />
+		<element id="E_J150_J154.200" type="s" length="30.01" dedicated_flag="0" stop_id="122S02" />
+		<element id="E_J150_J154.260" type="w" length="209.25" dedicated_flag="0" impacted_edge="E_J150_J154.260" impacted_length="209.25" />
+		<element id="E_J150_J154.500" type="s" length="28.45" dedicated_flag="0" stop_id="122S03" />
+		<element id="E_J150_J154.560" type="w" length="239.00" dedicated_flag="0" impacted_edge="E_J150_J154.560" impacted_length="239.0" />
+		<element id="E_J150_J154.800" type="s" length="27.01" dedicated_flag="0" stop_id="122S04" />
+		<element id="E_J150_J154.830" type="i" length="70.25" dedicated_flag="0" tl="J154" phase_time="50" cycle_time="90" from_lane="E_J150_J154.830_1" dir="l" />
+		<element id="E_J154_J140" type="w" length="317.85" dedicated_flag="0" impacted_edge="E_J154_J140" impacted_length="317.85" />
+		<element id="E_J154_J140.350" type="s" length="39.88" dedicated_flag="0" stop_id="122S05" />
+		<element id="E_J154_J140.410" type="w" length="174.99" dedicated_flag="0" impacted_edge="E_J154_J140.410" impacted_length="174.99" />
+		<element id="E_J154_J140.600" type="s" length="29.99" dedicated_flag="0" stop_id="122S06" />
+		<element id="E_J154_J140.660" type="w" length="310.59" dedicated_flag="0" impacted_edge="E_J154_J140.660" impacted_length="310.59" />
+		<element id="E_J154_J140.1000" type="s" length="29.99" dedicated_flag="0" stop_id="122S07" />
+		<element id="E_J154_J140.1060" type="w" length="309.71" dedicated_flag="0" impacted_edge="E_J154_J140.1060" impacted_length="309.71" />
+		<element id="E_J154_J140.1400" type="s" length="30.00" dedicated_flag="0" stop_id="122S08" />
+		<element id="E_J154_J140.1460" type="i" length="310.69" dedicated_flag="0" tl="J140" phase_time="40" cycle_time="90" from_lane="E_J154_J140.1460_0" dir="s" />
+		<element id="E_J140_J144" type="w" length="48.50" dedicated_flag="0" impacted_edge="E_J140_J144" impacted_length="48.5" />
+		<element id="E_J140_J144.50" type="s" length="27.00" dedicated_flag="0" stop_id="122S09" />
+		<element id="E_J140_J144.80" type="w" length="408.35" dedicated_flag="0" impacted_edge="E_J140_J144.80" impacted_length="408.35" />
+		<element id="E_J140_J144.520" type="s" length="29.99" dedicated_flag="0" stop_id="122S10_311S16" />
+		<element id="E_J140_J144.580" type="w" length="246.63" dedicated_flag="0" impacted_edge="E_J140_J144.580" impacted_length="246.63" />
+		<element id="E_J140_J144.850" type="s" length="27.00" dedicated_flag="0" stop_id="122S11_311S17" />
+		<element id="E_J140_J144.880" type="w" length="288.74" dedicated_flag="0" impacted_edge="E_J140_J144.880" impacted_length="288.74" />
+		<element id="E_J140_J144.1200" type="s" length="30.00" dedicated_flag="0" stop_id="122S12_311S18" />
+		<element id="E_J140_J144.1260" type="i" length="307.29" dedicated_flag="0" tl="J144" phase_time="45" cycle_time="90" from_lane="E_J140_J144.1260_0" dir="s" />
+		<element id="E_J144_J147" type="w" length="70.00" dedicated_flag="0" impacted_edge="E_J144_J147" impacted_length="70.0" />
+		<element id="E_J144_J147.100" type="s" length="29.18" dedicated_flag="0" stop_id="122S13_311S19" />
+		<element id="E_J144_J147.160" type="w" length="68.29" dedicated_flag="0" impacted_edge="E_J147_J149" impacted_length="104.29" />
+		<element id="E_J147_J149" type="w" length="36.00" dedicated_flag="0" impacted_edge="E_J147_J149" impacted_length="36.0" />
+		<element id="E_J147_J149.40" type="s" length="23.11" dedicated_flag="0" stop_id="122S14_311S20" />
+		<element id="E_J147_J149.70" type="i" length="193.23" dedicated_flag="0" tl="J149" phase_time="40" cycle_time="90" from_lane="E_J147_J149.70_0" dir="r" />
+		<element id="E_J149_J171" type="w" length="198.90" dedicated_flag="0" impacted_edge="E_J149_J171" impacted_length="198.9" />
+		<element id="E_J149_J171.200" type="s" length="26.99" dedicated_flag="0" stop_id="122S15_311S21_406X13" />
+		<element id="E_J149_J171.230" type="i" length="41.16" dedicated_flag="0" tl="J171" phase_time="41" cycle_time="90" from_lane="E_J149_J171.230_0" dir="s" />
+		<element id="E_J171_J177" type="w" length="97.48" dedicated_flag="0" impacted_edge="E_J177_J190" impacted_length="343.24" />
+		<element id="E_J177_J190" type="i" length="245.76" dedicated_flag="0" tl="J190" phase_time="50" cycle_time="90" from_lane="E_J177_J190_0" dir="s" />
+		<element id="E_J190_J210" type="w" length="146.10" dedicated_flag="0" impacted_edge="E_J210_J214" impacted_length="244.86" />
+		<element id="E_J210_J214" type="i" length="98.76" dedicated_flag="0" tl="J214" phase_time="50" cycle_time="90" from_lane="E_J210_J214_1" dir="l" />
+		<element id="E_J214_J220" type="w" length="198.36" dedicated_flag="0" impacted_edge="E_J214_J220" impacted_length="198.36" />
+		<element id="E_J214_J220.200" type="s" length="27.01" dedicated_flag="0" stop_id="122S16_311S22_406X14" />
+		<element id="E_J214_J220.230" type="w" length="96.39" dedicated_flag="0" impacted_edge="E_J214_J220.230" impacted_length="96.39" />
+		<element id="E_J214_J220.330" type="s" length="27.00" dedicated_flag="0" stop_id="122S17_311S23_406X15" />
+		<element id="E_J214_J220.360" type="i" length="20.18" dedicated_flag="0" tl="J220" phase_time="40" cycle_time="90" from_lane="E_J214_J220.360_0" dir="r" />
+		<element id="E_J220_J241" type="i" length="150.95" dedicated_flag="0" tl="J241" phase_time="35" cycle_time="90" from_lane="E_J220_J241_1" dir="s" />
+		<element id="E_J241_J272" type="w" length="70.76" dedicated_flag="0" impacted_edge="E_J241_J272" impacted_length="70.76" />
+		<element id="E_J241_J272.100" type="s" length="30.00" dedicated_flag="0" stop_id="102X16_122S18_311S24_406X16" />
+		<element id="E_J241_J272.160" type="w" length="138.59" dedicated_flag="0" impacted_edge="E_J241_J272.160" impacted_length="138.59" />
+		<element id="E_J241_J272.300" type="s" length="27.00" dedicated_flag="0" stop_id="102X17_122S19_311S25_406X17" />
+		<element id="E_J241_J272.330" type="w" length="246.36" dedicated_flag="0" impacted_edge="E_J272_J303" impacted_length="656.12" />
+		<element id="E_J272_J303" type="i" length="409.76" dedicated_flag="0" tl="J303" phase_time="35" cycle_time="90" from_lane="E_J272_J303_1" dir="s" />
+		<element id="E_J303_J332" type="w" length="119.09" dedicated_flag="0" impacted_edge="E_J303_J332" impacted_length="119.09" />
+		<element id="E_J303_J332.150" type="s" length="30.00" dedicated_flag="0" stop_id="122S20_406X18" />
+		<element id="E_J303_J332.210" type="i" length="227.55" dedicated_flag="0" tl="J332" phase_time="36" cycle_time="90" from_lane="E_J303_J332.210_1" dir="s" />
+		<element id="E_J332_J365" type="w" length="59.48" dedicated_flag="0" impacted_edge="E_J332_J365" impacted_length="59.48" />
+		<element id="E_J332_J365.90" type="s" length="30.00" dedicated_flag="0" stop_id="406X19" />
+		<element id="E_J332_J365.150" type="w" length="30.00" dedicated_flag="0" impacted_edge="E_J332_J365.150" impacted_length="30.0" />
+		<element id="E_J332_J365.210" type="s" length="30.00" dedicated_flag="0" stop_id="122S21" />
+		<element id="E_J332_J365.270" type="i" length="149.63" dedicated_flag="0" tl="J365" phase_time="90" cycle_time="90" from_lane="E_J332_J365.270_0" dir="s" />
+		<element id="E_J365_J394" type="w" length="147.66" dedicated_flag="0" impacted_edge="E_J365_J394" impacted_length="147.66" />
+		<element id="E_J365_J394.150" type="s" length="27.00" dedicated_flag="0" stop_id="122S22_406X20" />
+		<element id="E_J365_J394.180" type="i" length="162.79" dedicated_flag="0" tl="J394" phase_time="35" cycle_time="90" from_lane="E_J365_J394.180_1" dir="s" />
+		<element id="E_J394_J428" type="w" length="298.17" dedicated_flag="0" impacted_edge="E_J394_J428" impacted_length="298.17" />
+		<element id="E_J394_J428.300" type="s" length="27.00" dedicated_flag="0" stop_id="122S23" />
+		<element id="E_J394_J428.330" type="i" length="337.74" dedicated_flag="0" tl="J428" phase_time="36" cycle_time="90" from_lane="E_J394_J428.330_1" dir="s" />
+		<element id="E_J428_J447" type="w" length="98.50" dedicated_flag="0" impacted_edge="E_J428_J447" impacted_length="98.5" />
+		<element id="E_J428_J447.100" type="s" length="27.00" dedicated_flag="0" stop_id="122S24_705S36" />
+		<element id="E_J428_J447.130" type="w" length="166.85" dedicated_flag="0" impacted_edge="E_J447_J473" impacted_length="556.09" />
+		<element id="E_J447_J473" type="i" length="389.24" dedicated_flag="0" tl="J473" phase_time="36" cycle_time="90" from_lane="E_J447_J473_1" dir="s" />
+		<element id="E_J473_J503" type="w" length="198.32" dedicated_flag="0" impacted_edge="E_J473_J503" impacted_length="198.32" />
+		<element id="E_J473_J503.200" type="s" length="27.00" dedicated_flag="0" stop_id="122S25" />
+		<element id="E_J473_J503.230" type="i" length="209.89" dedicated_flag="0" tl="J503" phase_time="45" cycle_time="90" from_lane="E_J473_J503.230_3" dir="l" />
+		<element id="E_J503_J504" type="i" length="778.27" dedicated_flag="0" tl="J504" phase_time="41" cycle_time="90" from_lane="E_J503_J504_1" dir="s" />
+		<element id="E_J504_J505" type="w" length="98.50" dedicated_flag="0" impacted_edge="E_J504_J505" impacted_length="98.5" />
+		<element id="E_J504_J505.100" type="s" length="27.00" dedicated_flag="0" stop_id="122S26" />
+		<element id="E_J504_J505.130" type="w" length="367.00" dedicated_flag="0" impacted_edge="E_J504_J505.130" impacted_length="367.0" />
+		<element id="E_J504_J505.500" type="s" length="27.00" dedicated_flag="0" stop_id="122S27" />
+		<element id="E_J504_J505.530" type="i" length="85.59" dedicated_flag="0" tl="J505" phase_time="36" cycle_time="90" from_lane="E_J504_J505.530_1" dir="s" />
+		<element id="E_J505_J506" type="w" length="98.50" dedicated_flag="0" impacted_edge="E_J505_J506" impacted_length="98.5" />
+		<element id="E_J505_J506.100" type="s" length="27.00" dedicated_flag="0" stop_id="122S28" />
+		<element id="E_J505_J506.130" type="i" length="117.43" dedicated_flag="0" tl="J506" phase_time="90" cycle_time="90" from_lane="E_J505_J506.130_0" dir="s" />
+		<element id="E_J506_J507" type="i" length="203.51" dedicated_flag="0" tl="J507" phase_time="41" cycle_time="90" from_lane="E_J506_J507_1" dir="s" />
+		<element id="E_J507_J508" type="w" length="147.91" dedicated_flag="0" impacted_edge="E_J507_J508" impacted_length="147.91" />
+		<element id="E_J507_J508.150" type="s" length="27.00" dedicated_flag="0" stop_id="122S29" />
+		<element id="E_J507_J508.180" type="i" length="44.34" dedicated_flag="0" tl="J508" phase_time="41" cycle_time="90" from_lane="E_J507_J508.180_1" dir="s" />
+		<element id="E_J508_J510" type="w" length="198.33" dedicated_flag="0" impacted_edge="E_J508_J510" impacted_length="198.33" />
+		<element id="E_J508_J510.200" type="s" length="27.00" dedicated_flag="0" stop_id="122S30" />
+		<element id="E_J508_J510.230" type="i" length="257.98" dedicated_flag="0" tl="J510" phase_time="35" cycle_time="90" from_lane="E_J508_J510.230_1" dir="s" />
+		<element id="E_J510_J509" type="w" length="198.47" dedicated_flag="0" impacted_edge="E_J510_J509" impacted_length="198.47" />
+		<element id="E_J510_J509.200" type="s" length="27.00" dedicated_flag="0" stop_id="122S31" />
+		<element id="E_J510_J509.230" type="i" length="154.33" dedicated_flag="0" tl="J509" phase_time="90" cycle_time="90" from_lane="E_J510_J509.230_0" dir="s" />
+		<element id="E_J509_J511" type="i" length="336.99" dedicated_flag="0" tl="J511" phase_time="40" cycle_time="90" from_lane="E_J509_J511_1" dir="s" />
+		<element id="E_J511_J514" type="i" length="517.66" dedicated_flag="0" tl="J514" phase_time="36" cycle_time="90" from_lane="E_J511_J514_1" dir="s" />
+		<element id="E_J514_J540" type="w" length="195.80" dedicated_flag="0" impacted_edge="E_J514_J540" impacted_length="195.8" />
+		<element id="E_J514_J540.200" type="s" length="26.20" dedicated_flag="0" stop_id="122S32" />
+		<element id="E_J514_J540.230" type="w" length="316.75" dedicated_flag="0" impacted_edge="E_J514_J540.230" impacted_length="316.75" />
+		<element id="E_J514_J540.550" type="s" length="27.00" dedicated_flag="0" stop_id="122S33" />
+		<element id="E_J514_J540.580" type="w" length="217.34" dedicated_flag="0" impacted_edge="E_J514_J540.580" impacted_length="217.34" />
+		<element id="E_J514_J540.800" type="s" length="27.00" dedicated_flag="0" stop_id="122S34" />
+		<element id="E_J514_J540.830" type="i" length="79.92" dedicated_flag="0" tl="J540" phase_time="36" cycle_time="90" from_lane="E_J514_J540.830_1" dir="s" />
+		<element id="E_J540_J553" type="w" length="1192.22" dedicated_flag="0" impacted_edge="E_J540_J553" impacted_length="1192.22" />
+		<element id="E_J540_J553.1190" type="s" length="27.00" dedicated_flag="0" stop_id="122S35" />
+		<element id="E_J540_J553.1220" type="w" length="8.54" dedicated_flag="0" impacted_edge="E_J540_J553.1220" impacted_length="8.54" />
+		</busline>
+	<busline id="122X">
+		<element id="E_J553_J540" type="w" length="100.58" dedicated_flag="0" impacted_edge="E_J553_J540" impacted_length="100.58" />
+		<element id="E_J553_J540.100" type="s" length="27.00" dedicated_flag="0" stop_id="122X01" />
+		<element id="E_J553_J540.130" type="w" length="864.55" dedicated_flag="0" impacted_edge="E_J553_J540.130" impacted_length="864.55" />
+		<element id="E_J553_J540.1000" type="s" length="27.00" dedicated_flag="0" stop_id="122X02" />
+		<element id="E_J553_J540.1030" type="i" length="189.44" dedicated_flag="0" tl="J540" phase_time="36" cycle_time="90" from_lane="E_J553_J540.1030_1" dir="s" />
+		<element id="E_J540_J514" type="w" length="98.49" dedicated_flag="0" impacted_edge="E_J540_J514" impacted_length="98.49" />
+		<element id="E_J540_J514.100" type="s" length="27.01" dedicated_flag="0" stop_id="122X03" />
+		<element id="E_J540_J514.130" type="w" length="567.57" dedicated_flag="0" impacted_edge="E_J540_J514.130" impacted_length="567.57" />
+		<element id="E_J540_J514.700" type="s" length="27.00" dedicated_flag="0" stop_id="122X04" />
+		<element id="E_J540_J514.730" type="i" length="183.55" dedicated_flag="0" tl="J514" phase_time="36" cycle_time="90" from_lane="E_J540_J514.730_1" dir="s" />
+		<element id="E_J514_J511" type="i" length="520.29" dedicated_flag="0" tl="J511" phase_time="40" cycle_time="90" from_lane="E_J514_J511_1" dir="s" />
+		<element id="E_J511_J509" type="i" length="337.00" dedicated_flag="0" tl="J509" phase_time="41" cycle_time="90" from_lane="E_J511_J509_1" dir="s" />
+		<element id="E_J509_J510" type="w" length="96.93" dedicated_flag="0" impacted_edge="E_J509_J510" impacted_length="96.93" />
+		<element id="E_J509_J510.100" type="s" length="27.00" dedicated_flag="0" stop_id="122X05" />
+		<element id="E_J509_J510.130" type="i" length="257.49" dedicated_flag="0" tl="J510" phase_time="35" cycle_time="90" from_lane="E_J509_J510.130_1" dir="s" />
+		<element id="E_J510_J508" type="w" length="295.82" dedicated_flag="0" impacted_edge="E_J510_J508" impacted_length="295.82" />
+		<element id="E_J510_J508.300" type="s" length="27.00" dedicated_flag="0" stop_id="122X06" />
+		<element id="E_J510_J508.330" type="i" length="160.52" dedicated_flag="0" tl="J508" phase_time="41" cycle_time="90" from_lane="E_J510_J508.330_1" dir="s" />
+		<element id="E_J508_J507" type="w" length="148.50" dedicated_flag="0" impacted_edge="E_J508_J507" impacted_length="148.5" />
+		<element id="E_J508_J507.150" type="s" length="27.00" dedicated_flag="0" stop_id="122X07" />
+		<element id="E_J508_J507.180" type="i" length="43.71" dedicated_flag="0" tl="J507" phase_time="41" cycle_time="90" from_lane="E_J508_J507.180_1" dir="s" />
+		<element id="E_J507_J506" type="i" length="203.62" dedicated_flag="0" tl="J506" phase_time="41" cycle_time="90" from_lane="E_J507_J506_1" dir="s" />
+		<element id="E_J506_J505" type="w" length="146.70" dedicated_flag="0" impacted_edge="E_J506_J505" impacted_length="146.7" />
+		<element id="E_J506_J505.150" type="s" length="27.00" dedicated_flag="0" stop_id="122X08" />
+		<element id="E_J506_J505.180" type="i" length="69.28" dedicated_flag="0" tl="J505" phase_time="36" cycle_time="90" from_lane="E_J506_J505.180_1" dir="s" />
+		<element id="E_J505_J504" type="w" length="95.83" dedicated_flag="0" impacted_edge="E_J505_J504" impacted_length="95.83" />
+		<element id="E_J505_J504.100" type="s" length="27.00" dedicated_flag="0" stop_id="122X09" />
+		<element id="E_J505_J504.130" type="w" length="367.00" dedicated_flag="0" impacted_edge="E_J505_J504.130" impacted_length="367.0" />
+		<element id="E_J505_J504.500" type="s" length="27.00" dedicated_flag="0" stop_id="122X10" />
+		<element id="E_J505_J504.530" type="i" length="88.25" dedicated_flag="0" tl="J504" phase_time="41" cycle_time="90" from_lane="E_J505_J504.530_1" dir="s" />
+		<element id="E_J504_J503" type="w" length="598.36" dedicated_flag="0" impacted_edge="E_J504_J503" impacted_length="598.36" />
+		<element id="E_J504_J503.600" type="s" length="27.00" dedicated_flag="0" stop_id="122X11" />
+		<element id="E_J504_J503.630" type="i" length="146.91" dedicated_flag="0" tl="J503" phase_time="36" cycle_time="90" from_lane="E_J504_J503.630_0" dir="r" />
+		<element id="E_J503_J473" type="w" length="170.00" dedicated_flag="0" impacted_edge="E_J503_J473" impacted_length="170.0" />
+		<element id="E_J503_J473.200" type="s" length="30.00" dedicated_flag="0" stop_id="122X12" />
+		<element id="E_J503_J473.260" type="i" length="181.18" dedicated_flag="0" tl="J473" phase_time="36" cycle_time="90" from_lane="E_J503_J473.260_1" dir="s" />
+		<element id="E_J473_J447" type="w" length="70.00" dedicated_flag="0" impacted_edge="E_J473_J447" impacted_length="70.0" />
+		<element id="E_J473_J447.100" type="s" length="30.00" dedicated_flag="0" stop_id="122X13_705X12" />
+		<element id="E_J473_J447.160" type="w" length="229.25" dedicated_flag="0" impacted_edge="E_J447_J428" impacted_length="527.55" />
+		<element id="E_J447_J428" type="i" length="298.30" dedicated_flag="0" tl="J428" phase_time="36" cycle_time="90" from_lane="E_J447_J428_1" dir="s" />
+		<element id="E_J428_J394" type="w" length="298.56" dedicated_flag="0" impacted_edge="E_J428_J394" impacted_length="298.56" />
+		<element id="E_J428_J394.300" type="s" length="26.98" dedicated_flag="0" stop_id="122X14" />
+		<element id="E_J428_J394.330" type="i" length="337.56" dedicated_flag="0" tl="J394" phase_time="35" cycle_time="90" from_lane="E_J428_J394.330_1" dir="s" />
+		<element id="E_J394_J365" type="w" length="158.50" dedicated_flag="0" impacted_edge="E_J394_J365" impacted_length="158.5" />
+		<element id="E_J394_J365.160" type="s" length="27.00" dedicated_flag="0" stop_id="122X15_406S22" />
+		<element id="E_J394_J365.190" type="i" length="151.89" dedicated_flag="0" tl="J365" phase_time="41" cycle_time="90" from_lane="E_J394_J365.190_1" dir="s" />
+		<element id="E_J365_J332" type="w" length="109.17" dedicated_flag="0" impacted_edge="E_J365_J332" impacted_length="109.17" />
+		<element id="E_J365_J332.140" type="s" length="29.99" dedicated_flag="0" stop_id="122X16" />
+		<element id="E_J365_J332.200" type="w" length="30.06" dedicated_flag="0" impacted_edge="E_J365_J332.200" impacted_length="30.06" />
+		<element id="E_J365_J332.260" type="s" length="30.00" dedicated_flag="0" stop_id="406S23" />
+		<element id="E_J365_J332.320" type="i" length="100.04" dedicated_flag="0" tl="J332" phase_time="36" cycle_time="90" from_lane="E_J365_J332.320_1" dir="s" />
+		<element id="E_J332_J303" type="w" length="269.87" dedicated_flag="0" impacted_edge="E_J332_J303" impacted_length="269.87" />
+		<element id="E_J332_J303.300" type="s" length="30.00" dedicated_flag="0" stop_id="122X17_406S24" />
+		<element id="E_J332_J303.360" type="i" length="76.31" dedicated_flag="0" tl="J303" phase_time="35" cycle_time="90" from_lane="E_J332_J303.360_1" dir="s" />
+		<element id="E_J303_J272" type="w" length="411.59" dedicated_flag="0" impacted_edge="E_J272_J241" impacted_length="631.5899999999999" />
+		<element id="E_J272_J241" type="w" length="220.00" dedicated_flag="0" impacted_edge="E_J272_J241" impacted_length="220.0" />
+		<element id="E_J272_J241.250" type="s" length="29.99" dedicated_flag="0" stop_id="102S23_122X18_311X18_406S25" />
+		<element id="E_J272_J241.310" type="w" length="185.91" dedicated_flag="0" impacted_edge="E_J272_J241.310" impacted_length="185.91" />
+		<element id="E_J272_J241.500" type="s" length="22.00" dedicated_flag="0" stop_id="102S24_122X19_311X19_406S26" />
+		<element id="E_J272_J241.530" type="i" length="42.03" dedicated_flag="0" tl="J241" phase_time="35" cycle_time="90" from_lane="E_J272_J241.530_1" dir="s" />
+		<element id="E_J241_J220" type="i" length="149.11" dedicated_flag="0" tl="J220" phase_time="49" cycle_time="90" from_lane="E_J241_J220_2" dir="l" />
+		<element id="E_J220_J214" type="w" length="53.94" dedicated_flag="0" impacted_edge="E_J220_J214" impacted_length="53.94" />
+		<element id="E_J220_J214.60" type="s" length="27.48" dedicated_flag="0" stop_id="122X20_311X20_406S27" />
+		<element id="E_J220_J214.90" type="w" length="207.47" dedicated_flag="0" impacted_edge="E_J220_J214.90" impacted_length="207.47" />
+		<element id="E_J220_J214.300" type="s" length="27.00" dedicated_flag="0" stop_id="122X21_311X21_406S28" />
+		<element id="E_J220_J214.330" type="i" length="56.82" dedicated_flag="0" tl="J214" phase_time="40" cycle_time="90" from_lane="E_J220_J214.330_0" dir="r" />
+		<element id="E_J214_J210" type="w" length="98.68" dedicated_flag="0" impacted_edge="E_J210_J190" impacted_length="244.8" />
+		<element id="E_J210_J190" type="i" length="146.12" dedicated_flag="0" tl="J190" phase_time="41" cycle_time="90" from_lane="E_J210_J190_0" dir="s" />
+		<element id="E_J190_J177" type="w" length="245.74" dedicated_flag="0" impacted_edge="E_J177_J171" impacted_length="344.28000000000003" />
+		<element id="E_J177_J171" type="i" length="98.54" dedicated_flag="0" tl="J171" phase_time="90" cycle_time="90" from_lane="E_J177_J171_0" dir="s" />
+		<element id="E_J171_J149" type="w" length="48.50" dedicated_flag="0" impacted_edge="E_J171_J149" impacted_length="48.5" />
+		<element id="E_J171_J149.50" type="s" length="27.00" dedicated_flag="0" stop_id="122X22_311X22_406S29" />
+		<element id="E_J171_J149.80" type="i" length="190.14" dedicated_flag="0" tl="J149" phase_time="50" cycle_time="90" from_lane="E_J171_J149.80_1" dir="l" />
+		<element id="E_J149_J147" type="w" length="17.44" dedicated_flag="0" impacted_edge="E_J149_J147" impacted_length="17.44" />
+		<element id="E_J149_J147.20" type="s" length="27.00" dedicated_flag="0" stop_id="122X23_311X23" />
+		<element id="E_J149_J147.50" type="w" length="214.23" dedicated_flag="0" impacted_edge="E_J147_J144" impacted_length="232.73" />
+		<element id="E_J147_J144" type="w" length="18.50" dedicated_flag="0" impacted_edge="E_J147_J144" impacted_length="18.5" />
+		<element id="E_J147_J144.20" type="s" length="27.00" dedicated_flag="0" stop_id="122X24_311X24" />
+		<element id="E_J147_J144.50" type="i" length="179.03" dedicated_flag="0" tl="J144" phase_time="45" cycle_time="90" from_lane="E_J147_J144.50_0" dir="s" />
+		<element id="E_J144_J135" type="w" length="378.50" dedicated_flag="0" impacted_edge="E_J144_J135" impacted_length="378.5" />
+		<element id="E_J144_J135.380" type="s" length="26.99" dedicated_flag="0" stop_id="122X25_311X25" />
+		<element id="E_J144_J135.410" type="w" length="286.75" dedicated_flag="0" impacted_edge="E_J144_J135.410" impacted_length="286.75" />
+		<element id="E_J144_J135.700" type="s" length="27.00" dedicated_flag="0" stop_id="122X26_311X26" />
+		<element id="E_J144_J135.730" type="w" length="223.96" dedicated_flag="0" impacted_edge="E_J135_J140" impacted_length="272.96000000000004" />
+		<element id="E_J135_J140" type="w" length="49.00" dedicated_flag="0" impacted_edge="E_J135_J140" impacted_length="49.0" />
+		<element id="E_J135_J140.80" type="s" length="30.00" dedicated_flag="0" stop_id="122X27_311X27" />
+		<element id="E_J135_J140.140" type="w" length="238.99" dedicated_flag="0" impacted_edge="E_J135_J140.140" impacted_length="238.99" />
+		<element id="E_J135_J140.380" type="s" length="27.01" dedicated_flag="0" stop_id="122X28_311X28" />
+		<element id="E_J135_J140.410" type="i" length="185.28" dedicated_flag="0" tl="J140" phase_time="40" cycle_time="90" from_lane="E_J135_J140.410_0" dir="s" />
+		<element id="E_J140_J145" type="w" length="269.45" dedicated_flag="0" impacted_edge="E_J140_J145" impacted_length="269.45" />
+		<element id="E_J140_J145.300" type="s" length="29.96" dedicated_flag="0" stop_id="122X29" />
+		<element id="E_J140_J145.360" type="w" length="259.89" dedicated_flag="0" impacted_edge="E_J140_J145.360" impacted_length="259.89" />
+		<element id="E_J140_J145.650" type="s" length="30.90" dedicated_flag="0" stop_id="122X30" />
+		<element id="E_J140_J145.710" type="w" length="409.37" dedicated_flag="0" impacted_edge="E_J140_J145.710" impacted_length="409.37" />
+		<element id="E_J140_J145.1150" type="s" length="30.00" dedicated_flag="0" stop_id="122X31" />
+		<element id="E_J140_J145.1210" type="w" length="159.99" dedicated_flag="0" impacted_edge="E_J140_J145.1210" impacted_length="159.99" />
+		<element id="E_J140_J145.1400" type="s" length="30.00" dedicated_flag="0" stop_id="122X32" />
+		<element id="E_J140_J145.1460" type="w" length="41.82" dedicated_flag="0" impacted_edge="E_J145_J154" impacted_length="291.47" />
+		<element id="E_J145_J154" type="i" length="249.65" dedicated_flag="0" tl="J154" phase_time="40" cycle_time="90" from_lane="E_J145_J154_0" dir="r" />
+		<element id="E_J154_J150" type="w" length="69.36" dedicated_flag="0" impacted_edge="E_J154_J150" impacted_length="69.36" />
+		<element id="E_J154_J150.100" type="s" length="30.00" dedicated_flag="0" stop_id="122X33" />
+		<element id="E_J154_J150.160" type="w" length="209.47" dedicated_flag="0" impacted_edge="E_J154_J150.160" impacted_length="209.47" />
+		<element id="E_J154_J150.400" type="s" length="29.29" dedicated_flag="0" stop_id="122X34" />
+		<element id="E_J154_J150.460" type="w" length="210.33" dedicated_flag="0" impacted_edge="E_J154_J150.460" impacted_length="210.33" />
+		<element id="E_J154_J150.700" type="s" length="29.21" dedicated_flag="0" stop_id="122X35" />
+		<element id="E_J154_J150.760" type="w" length="88.09" dedicated_flag="0" impacted_edge="E_J154_J150.760" impacted_length="88.09" />
+		<element id="E_J154_J150.850" type="s" length="27.00" dedicated_flag="0" stop_id="122X36" />
+		<element id="E_J154_J150.880" type="w" length="26.42" dedicated_flag="0" impacted_edge="E_J154_J150.880" impacted_length="26.42" />
+		</busline>
+	<busline id="406S">
+		<element id="E_J577_J567" type="w" length="203.82" dedicated_flag="0" impacted_edge="E_J577_J567" impacted_length="203.82" />
+		<element id="E_J577_J567.200" type="s" length="27.00" dedicated_flag="0" stop_id="406S01" />
+		<element id="E_J577_J567.230" type="i" length="140.51" dedicated_flag="0" tl="J567" phase_time="90" cycle_time="90" from_lane="E_J577_J567.230_0" dir="r" />
+		<element id="E_J567_J566" type="w" length="297.35" dedicated_flag="0" impacted_edge="E_J567_J566" impacted_length="297.35" />
+		<element id="E_J567_J566.300" type="s" length="27.00" dedicated_flag="0" stop_id="406S02" />
+		<element id="E_J567_J566.330" type="i" length="237.33" dedicated_flag="0" tl="J566" phase_time="44" cycle_time="90" from_lane="E_J567_J566.330_2" dir="l" />
+		<element id="E_J566_J557" type="w" length="120.00" dedicated_flag="0" impacted_edge="E_J566_J557" impacted_length="120.0" />
+		<element id="E_J566_J557.150" type="s" length="30.00" dedicated_flag="0" stop_id="406S03" />
+		<element id="E_J566_J557.210" type="w" length="107.69" dedicated_flag="0" impacted_edge="E_J557_J535" impacted_length="197.69" />
+		<element id="E_J557_J535" type="w" length="90.00" dedicated_flag="0" impacted_edge="E_J557_J535" impacted_length="90.0" />
+		<element id="E_J557_J535.120" type="s" length="30.00" dedicated_flag="0" stop_id="406S04" />
+		<element id="E_J557_J535.180" type="i" length="321.06" dedicated_flag="0" tl="J535" phase_time="41" cycle_time="90" from_lane="E_J557_J535.180_1" dir="s" />
+		<element id="E_J535_J501" type="w" length="248.13" dedicated_flag="0" impacted_edge="E_J535_J501" impacted_length="248.13" />
+		<element id="E_J535_J501.250" type="s" length="27.00" dedicated_flag="0" stop_id="406S05" />
+		<element id="E_J535_J501.280" type="i" length="245.02" dedicated_flag="0" tl="J501" phase_time="40" cycle_time="90" from_lane="E_J535_J501.280_0" dir="r" />
+		<element id="E_J501_J498" type="w" length="75.46" dedicated_flag="0" impacted_edge="E_J498_J492" impacted_length="93.96" />
+		<element id="E_J498_J492" type="w" length="18.50" dedicated_flag="0" impacted_edge="E_J498_J492" impacted_length="18.5" />
+		<element id="E_J498_J492.20" type="s" length="27.00" dedicated_flag="0" stop_id="406S06" />
+		<element id="E_J498_J492.50" type="w" length="106.69" dedicated_flag="0" impacted_edge="E_J492_J487" impacted_length="196.69" />
+		<element id="E_J492_J487" type="w" length="90.00" dedicated_flag="0" impacted_edge="E_J492_J487" impacted_length="90.0" />
+		<element id="E_J492_J487.120" type="s" length="30.00" dedicated_flag="0" stop_id="406S07" />
+		<element id="E_J492_J487.180" type="w" length="141.82" dedicated_flag="0" impacted_edge="E_J486_J480" impacted_length="343.92" />
+		<element id="E_J487_J486" type="w" length="183.61" dedicated_flag="0" impacted_edge="E_J486_J480" impacted_length="202.10000000000002" />
+		<element id="E_J486_J480" type="w" length="18.49" dedicated_flag="0" impacted_edge="E_J486_J480" impacted_length="18.49" />
+		<element id="E_J486_J480.20" type="s" length="27.00" dedicated_flag="0" stop_id="406S08" />
+		<element id="E_J486_J480.50" type="i" length="126.07" dedicated_flag="0" tl="J480" phase_time="45" cycle_time="90" from_lane="E_J486_J480.50_0" dir="s" />
+		<element id="E_J480_J462" type="w" length="98.30" dedicated_flag="0" impacted_edge="E_J480_J462" impacted_length="98.3" />
+		<element id="E_J480_J462.100" type="s" length="27.01" dedicated_flag="0" stop_id="406S09" />
+		<element id="E_J480_J462.130" type="w" length="367.17" dedicated_flag="0" impacted_edge="E_J480_J462.130" impacted_length="367.17" />
+		<element id="E_J480_J462.500" type="s" length="27.00" dedicated_flag="0" stop_id="406S10" />
+		<element id="E_J480_J462.530" type="w" length="56.74" dedicated_flag="0" impacted_edge="E_J462_J444" impacted_length="475.93" />
+		<element id="E_J462_J444" type="w" length="419.19" dedicated_flag="0" impacted_edge="E_J462_J444" impacted_length="419.19" />
+		<element id="E_J462_J444.420" type="s" length="27.00" dedicated_flag="0" stop_id="406S11" />
+		<element id="E_J462_J444.450" type="w" length="18.74" dedicated_flag="0" impacted_edge="E_J444_J439" impacted_length="161.4" />
+		<element id="E_J444_J439" type="i" length="142.66" dedicated_flag="0" tl="J439" phase_time="40" cycle_time="90" from_lane="E_J444_J439_1" dir="l" />
+		<element id="E_J439_J413" type="w" length="119.19" dedicated_flag="0" impacted_edge="E_J439_J413" impacted_length="119.19" />
+		<element id="E_J439_J413.150" type="s" length="29.99" dedicated_flag="0" stop_id="406S12" />
+		<element id="E_J439_J413.210" type="i" length="119.23" dedicated_flag="0" tl="J413" phase_time="35" cycle_time="90" from_lane="E_J439_J413.210_1" dir="s" />
+		<element id="E_J413_J401" type="w" length="118.22" dedicated_flag="0" impacted_edge="E_J413_J401" impacted_length="118.22" />
+		<element id="E_J413_J401.120" type="s" length="27.00" dedicated_flag="0" stop_id="406S13" />
+		<element id="E_J413_J401.150" type="i" length="164.62" dedicated_flag="0" tl="J401" phase_time="90" cycle_time="90" from_lane="E_J413_J401.150_0" dir="r" />
+		<element id="E_J401_J385" type="w" length="20.00" dedicated_flag="0" impacted_edge="E_J401_J385" impacted_length="20.0" />
+		<element id="E_J401_J385.50" type="s" length="30.00" dedicated_flag="0" stop_id="406S14" />
+		<element id="E_J401_J385.110" type="w" length="461.75" dedicated_flag="0" impacted_edge="E_J401_J385.110" impacted_length="461.75" />
+		<element id="E_J401_J385.600" type="s" length="28.80" dedicated_flag="0" stop_id="406S15" />
+		<element id="E_J401_J385.660" type="w" length="309.26" dedicated_flag="0" impacted_edge="E_J401_J385.660" impacted_length="309.26" />
+		<element id="E_J401_J385.1000" type="s" length="30.00" dedicated_flag="0" stop_id="406S16" />
+		<element id="E_J401_J385.1060" type="w" length="259.88" dedicated_flag="0" impacted_edge="E_J401_J385.1060" impacted_length="259.88" />
+		<element id="E_J401_J385.1350" type="s" length="30.00" dedicated_flag="0" stop_id="406S17" />
+		<element id="E_J401_J385.1410" type="i" length="134.44" dedicated_flag="0" tl="J385" phase_time="36" cycle_time="90" from_lane="E_J401_J385.1410_0" dir="s" />
+		<element id="E_J385_J389" type="w" length="170.00" dedicated_flag="0" impacted_edge="E_J385_J389" impacted_length="170.0" />
+		<element id="E_J385_J389.200" type="s" length="30.00" dedicated_flag="0" stop_id="406S18" />
+		<element id="E_J385_J389.260" type="i" length="283.72" dedicated_flag="0" tl="J389" phase_time="90" cycle_time="90" from_lane="E_J385_J389.260_0" dir="s" />
+		<element id="E_J389_J392" type="w" length="70.00" dedicated_flag="0" impacted_edge="E_J389_J392" impacted_length="70.0" />
+		<element id="E_J389_J392.100" type="s" length="30.00" dedicated_flag="0" stop_id="406S19" />
+		<element id="E_J389_J392.160" type="w" length="360.00" dedicated_flag="0" impacted_edge="E_J389_J392.160" impacted_length="360.0" />
+		<element id="E_J389_J392.550" type="s" length="30.00" dedicated_flag="0" stop_id="406S20" />
+		<element id="E_J389_J392.610" type="w" length="30.72" dedicated_flag="0" impacted_edge="E_J392_J394" impacted_length="59.22" />
+		<element id="E_J392_J394" type="w" length="28.50" dedicated_flag="0" impacted_edge="E_J392_J394" impacted_length="28.5" />
+		<element id="E_J392_J394.30" type="s" length="27.00" dedicated_flag="0" stop_id="406S21" />
+		<element id="E_J392_J394.60" type="i" length="322.43" dedicated_flag="0" tl="J394" phase_time="44" cycle_time="90" from_lane="E_J392_J394.60_2" dir="l" />
+		<element id="E_J394_J365" type="w" length="158.50" dedicated_flag="0" impacted_edge="E_J394_J365" impacted_length="158.5" />
+		<element id="E_J394_J365.160" type="s" length="27.00" dedicated_flag="0" stop_id="122X15_406S22" />
+		<element id="E_J394_J365.190" type="i" length="151.89" dedicated_flag="0" tl="J365" phase_time="41" cycle_time="90" from_lane="E_J394_J365.190_1" dir="s" />
+		<element id="E_J365_J332" type="w" length="109.17" dedicated_flag="0" impacted_edge="E_J365_J332" impacted_length="109.17" />
+		<element id="E_J365_J332.140" type="s" length="29.99" dedicated_flag="0" stop_id="122X16" />
+		<element id="E_J365_J332.200" type="w" length="30.06" dedicated_flag="0" impacted_edge="E_J365_J332.200" impacted_length="30.06" />
+		<element id="E_J365_J332.260" type="s" length="30.00" dedicated_flag="0" stop_id="406S23" />
+		<element id="E_J365_J332.320" type="i" length="100.04" dedicated_flag="0" tl="J332" phase_time="36" cycle_time="90" from_lane="E_J365_J332.320_1" dir="s" />
+		<element id="E_J332_J303" type="w" length="269.87" dedicated_flag="0" impacted_edge="E_J332_J303" impacted_length="269.87" />
+		<element id="E_J332_J303.300" type="s" length="30.00" dedicated_flag="0" stop_id="122X17_406S24" />
+		<element id="E_J332_J303.360" type="i" length="76.31" dedicated_flag="0" tl="J303" phase_time="35" cycle_time="90" from_lane="E_J332_J303.360_1" dir="s" />
+		<element id="E_J303_J272" type="w" length="411.59" dedicated_flag="0" impacted_edge="E_J272_J241" impacted_length="631.5899999999999" />
+		<element id="E_J272_J241" type="w" length="220.00" dedicated_flag="0" impacted_edge="E_J272_J241" impacted_length="220.0" />
+		<element id="E_J272_J241.250" type="s" length="29.99" dedicated_flag="0" stop_id="102S23_122X18_311X18_406S25" />
+		<element id="E_J272_J241.310" type="w" length="185.91" dedicated_flag="0" impacted_edge="E_J272_J241.310" impacted_length="185.91" />
+		<element id="E_J272_J241.500" type="s" length="22.00" dedicated_flag="0" stop_id="102S24_122X19_311X19_406S26" />
+		<element id="E_J272_J241.530" type="i" length="42.03" dedicated_flag="0" tl="J241" phase_time="35" cycle_time="90" from_lane="E_J272_J241.530_1" dir="s" />
+		<element id="E_J241_J220" type="i" length="149.11" dedicated_flag="0" tl="J220" phase_time="49" cycle_time="90" from_lane="E_J241_J220_2" dir="l" />
+		<element id="E_J220_J214" type="w" length="53.94" dedicated_flag="0" impacted_edge="E_J220_J214" impacted_length="53.94" />
+		<element id="E_J220_J214.60" type="s" length="27.48" dedicated_flag="0" stop_id="122X20_311X20_406S27" />
+		<element id="E_J220_J214.90" type="w" length="207.47" dedicated_flag="0" impacted_edge="E_J220_J214.90" impacted_length="207.47" />
+		<element id="E_J220_J214.300" type="s" length="27.00" dedicated_flag="0" stop_id="122X21_311X21_406S28" />
+		<element id="E_J220_J214.330" type="i" length="56.82" dedicated_flag="0" tl="J214" phase_time="40" cycle_time="90" from_lane="E_J220_J214.330_0" dir="r" />
+		<element id="E_J214_J210" type="w" length="98.68" dedicated_flag="0" impacted_edge="E_J210_J190" impacted_length="244.8" />
+		<element id="E_J210_J190" type="i" length="146.12" dedicated_flag="0" tl="J190" phase_time="41" cycle_time="90" from_lane="E_J210_J190_0" dir="s" />
+		<element id="E_J190_J177" type="w" length="245.74" dedicated_flag="0" impacted_edge="E_J177_J171" impacted_length="344.28000000000003" />
+		<element id="E_J177_J171" type="i" length="98.54" dedicated_flag="0" tl="J171" phase_time="90" cycle_time="90" from_lane="E_J177_J171_0" dir="s" />
+		<element id="E_J171_J149" type="w" length="48.50" dedicated_flag="0" impacted_edge="E_J171_J149" impacted_length="48.5" />
+		<element id="E_J171_J149.50" type="s" length="27.00" dedicated_flag="0" stop_id="122X22_311X22_406S29" />
+		<element id="E_J171_J149.80" type="i" length="190.14" dedicated_flag="0" tl="J149" phase_time="90" cycle_time="90" from_lane="E_J171_J149.80_0" dir="s" />
+		<element id="E_J149_J139" type="w" length="208.79" dedicated_flag="0" impacted_edge="E_J139_J132" impacted_length="362.34000000000003" />
+		<element id="E_J139_J132" type="i" length="153.55" dedicated_flag="0" tl="J132" phase_time="90" cycle_time="90" from_lane="E_J139_J132_0" dir="r" />
+		<element id="E_J132_J133" type="w" length="120.52" dedicated_flag="0" impacted_edge="E_J132_J133" impacted_length="120.52" />
+		<element id="E_J132_J133.150" type="s" length="30.00" dedicated_flag="0" stop_id="406S30" />
+		<element id="E_J132_J133.210" type="i" length="168.88" dedicated_flag="0" tl="J133" phase_time="40" cycle_time="90" from_lane="E_J132_J133.210_1" dir="s" />
+		<element id="E_J133_J128" type="w" length="119.63" dedicated_flag="0" impacted_edge="E_J133_J128" impacted_length="119.63" />
+		<element id="E_J133_J128.150" type="s" length="29.99" dedicated_flag="0" stop_id="406S31" />
+		<element id="E_J133_J128.210" type="i" length="150.28" dedicated_flag="0" tl="J128" phase_time="41" cycle_time="90" from_lane="E_J133_J128.210_1" dir="s" />
+		<element id="E_J128_J129" type="w" length="242.16" dedicated_flag="0" impacted_edge="E_J129_J130" impacted_length="352.1" />
+		<element id="E_J129_J130" type="i" length="109.94" dedicated_flag="0" tl="J130" phase_time="36" cycle_time="90" from_lane="E_J129_J130_1" dir="s" />
+		<element id="E_J130_J131" type="w" length="119.65" dedicated_flag="0" impacted_edge="E_J131_J134" impacted_length="377.83000000000004" />
+		<element id="E_J131_J134" type="w" length="258.18" dedicated_flag="0" impacted_edge="E_J131_J134" impacted_length="258.18" />
+		<element id="E_J131_J134.260" type="s" length="27.01" dedicated_flag="0" stop_id="406S32" />
+		<element id="E_J131_J134.290" type="i" length="161.11" dedicated_flag="0" tl="J134" phase_time="41" cycle_time="90" from_lane="E_J131_J134.290_1" dir="s" />
+		<element id="E_J134_J136" type="w" length="263.82" dedicated_flag="0" impacted_edge="E_J136_J138" impacted_length="282.32" />
+		<element id="E_J136_J138" type="w" length="18.50" dedicated_flag="0" impacted_edge="E_J136_J138" impacted_length="18.5" />
+		<element id="E_J136_J138.20" type="s" length="27.00" dedicated_flag="0" stop_id="406S33" />
+		<element id="E_J136_J138.50" type="i" length="151.27" dedicated_flag="0" tl="J138" phase_time="35" cycle_time="90" from_lane="E_J136_J138.50_1" dir="s" />
+		<element id="E_J138_J146" type="w" length="30.00" dedicated_flag="0" impacted_edge="E_J138_J146" impacted_length="30.0" />
+		<element id="E_J138_J146.60" type="s" length="30.00" dedicated_flag="0" stop_id="406S34" />
+		<element id="E_J138_J146.120" type="i" length="338.17" dedicated_flag="0" tl="J146" phase_time="40" cycle_time="90" from_lane="E_J138_J146.120_1" dir="s" />
+		<element id="E_J146_J153" type="w" length="150.95" dedicated_flag="0" impacted_edge="E_J146_J153" impacted_length="150.95" />
+		<element id="E_J146_J153.180" type="s" length="30.52" dedicated_flag="0" stop_id="406S35" />
+		<element id="E_J146_J153.240" type="w" length="110.52" dedicated_flag="0" impacted_edge="E_J146_J153.240" impacted_length="110.52" />
+		<element id="E_J146_J153.380" type="s" length="30.00" dedicated_flag="0" stop_id="406S36" />
+		<element id="E_J146_J153.440" type="w" length="329.23" dedicated_flag="0" impacted_edge="E_J146_J153.440" impacted_length="329.23" />
+		<element id="E_J146_J153.800" type="s" length="30.31" dedicated_flag="0" stop_id="406S37" />
+		<element id="E_J146_J153.860" type="w" length="270.76" dedicated_flag="0" impacted_edge="E_J153_J156" impacted_length="663.3" />
+		<element id="E_J153_J156" type="i" length="392.54" dedicated_flag="0" tl="J156" phase_time="41" cycle_time="90" from_lane="E_J153_J156_1" dir="s" />
+		<element id="E_J156_J158" type="w" length="126.17" dedicated_flag="0" impacted_edge="E_J156_J158" impacted_length="126.17" />
+		<element id="E_J156_J158.130" type="s" length="26.72" dedicated_flag="0" stop_id="406S38" />
+		<element id="E_J156_J158.160" type="i" length="155.30" dedicated_flag="0" tl="J158" phase_time="35" cycle_time="90" from_lane="E_J156_J158.160_0" dir="r" />
+		<element id="E_J158_J185" type="i" length="385.87" dedicated_flag="0" tl="J185" phase_time="36" cycle_time="90" from_lane="E_J158_J185_1" dir="s" />
+		<element id="E_J185_J209" type="w" length="219.79" dedicated_flag="0" impacted_edge="E_J209_J211" impacted_length="356.36" />
+		<element id="E_J209_J211" type="w" length="136.57" dedicated_flag="0" impacted_edge="E_J209_J211" impacted_length="136.57" />
+		<element id="E_J209_J211.180" type="s" length="30.00" dedicated_flag="0" stop_id="406S39_406X01" />
+		<element id="E_J209_J211.240" type="w" length="162.75" dedicated_flag="0" impacted_edge="E_J209_J211.240" impacted_length="162.75" />
+		</busline>
+	<busline id="311S">
+		<element id="E_J2_J6" type="w" length="899.40" dedicated_flag="0" impacted_edge="E_J2_J6" impacted_length="899.4" />
+		<element id="E_J2_J6.900" type="s" length="26.93" dedicated_flag="0" stop_id="311S01" />
+		<element id="E_J2_J6.930" type="w" length="87.00" dedicated_flag="0" impacted_edge="E_J2_J6.930" impacted_length="87.0" />
+		<element id="E_J2_J6.1020" type="s" length="26.87" dedicated_flag="0" stop_id="311S02" />
+		<element id="E_J2_J6.1050" type="w" length="60.37" dedicated_flag="0" impacted_edge="E_J6_J8" impacted_length="108.87" />
+		<element id="E_J6_J8" type="w" length="48.50" dedicated_flag="0" impacted_edge="E_J6_J8" impacted_length="48.5" />
+		<element id="E_J6_J8.50" type="s" length="27.00" dedicated_flag="0" stop_id="311S03" />
+		<element id="E_J6_J8.80" type="i" length="29.47" dedicated_flag="0" tl="J8" phase_time="40" cycle_time="90" from_lane="E_J6_J8.80_1" dir="l" />
+		<element id="E_J8_J7" type="w" length="508.50" dedicated_flag="0" impacted_edge="E_J8_J7" impacted_length="508.5" />
+		<element id="E_J8_J7.510" type="s" length="27.00" dedicated_flag="0" stop_id="311S04" />
+		<element id="E_J8_J7.540" type="i" length="15.84" dedicated_flag="0" tl="J7" phase_time="41" cycle_time="90" from_lane="E_J8_J7.540_1" dir="s" />
+		<element id="E_J7_J4" type="w" length="268.66" dedicated_flag="0" impacted_edge="E_J7_J4" impacted_length="268.66" />
+		<element id="E_J7_J4.270" type="s" length="27.00" dedicated_flag="0" stop_id="311S05" />
+		<element id="E_J7_J4.300" type="w" length="862.40" dedicated_flag="0" impacted_edge="E_J7_J4.300" impacted_length="862.4" />
+		<element id="E_J7_J4.1160" type="s" length="27.00" dedicated_flag="0" stop_id="311S06" />
+		<element id="E_J7_J4.1190" type="i" length="77.71" dedicated_flag="0" tl="J4" phase_time="90" cycle_time="90" from_lane="E_J7_J4.1190_0" dir="r" />
+		<element id="E_J4_J5" type="w" length="218.77" dedicated_flag="0" impacted_edge="E_J4_J5" impacted_length="218.77" />
+		<element id="E_J4_J5.220" type="s" length="27.70" dedicated_flag="0" stop_id="311S07" />
+		<element id="E_J4_J5.250" type="w" length="10.02" dedicated_flag="0" impacted_edge="E_J5_J10" impacted_length="296.69" />
+		<element id="E_J5_J10" type="w" length="286.67" dedicated_flag="0" impacted_edge="E_J5_J10" impacted_length="286.67" />
+		<element id="E_J5_J10.290" type="s" length="26.17" dedicated_flag="0" stop_id="311S08" />
+		<element id="E_J5_J10.320" type="i" length="64.21" dedicated_flag="0" tl="J10" phase_time="40" cycle_time="90" from_lane="E_J5_J10.320_0" dir="r" />
+		<element id="E_J10_J15" type="w" length="246.00" dedicated_flag="0" impacted_edge="E_J10_J15" impacted_length="246.0" />
+		<element id="E_J10_J15.250" type="s" length="22.00" dedicated_flag="0" stop_id="311S09" />
+		<element id="E_J10_J15.280" type="w" length="34.28" dedicated_flag="0" impacted_edge="E_J18_J24" impacted_length="449.86" />
+		<element id="E_J15_J18" type="w" length="399.58" dedicated_flag="0" impacted_edge="E_J18_J24" impacted_length="415.58" />
+		<element id="E_J18_J24" type="w" length="16.00" dedicated_flag="0" impacted_edge="E_J18_J24" impacted_length="16.0" />
+		<element id="E_J18_J24.20" type="s" length="22.00" dedicated_flag="0" stop_id="311S10" />
+		<element id="E_J18_J24.50" type="i" length="365.55" dedicated_flag="0" tl="J24" phase_time="40" cycle_time="90" from_lane="E_J18_J24.50_0" dir="s" />
+		<element id="E_J24_J26" type="w" length="38.50" dedicated_flag="0" impacted_edge="E_J24_J26" impacted_length="38.5" />
+		<element id="E_J24_J26.40" type="s" length="27.00" dedicated_flag="0" stop_id="311S11" />
+		<element id="E_J24_J26.70" type="w" length="28.75" dedicated_flag="0" impacted_edge="E_J27_J34" impacted_length="272.46" />
+		<element id="E_J26_J27" type="w" length="79.05" dedicated_flag="0" impacted_edge="E_J27_J34" impacted_length="243.70999999999998" />
+		<element id="E_J27_J34" type="i" length="164.66" dedicated_flag="0" tl="J34" phase_time="40" cycle_time="90" from_lane="E_J27_J34_0" dir="r" />
+		<element id="E_J34_J32" type="w" length="99.98" dedicated_flag="0" impacted_edge="E_J34_J32" impacted_length="99.98" />
+		<element id="E_J34_J32.100" type="s" length="27.00" dedicated_flag="0" stop_id="311S12" />
+		<element id="E_J34_J32.130" type="i" length="95.92" dedicated_flag="0" tl="J32" phase_time="40" cycle_time="90" from_lane="E_J34_J32.130_1" dir="l" />
+		<element id="E_J32_J44" type="w" length="198.50" dedicated_flag="0" impacted_edge="E_J32_J44" impacted_length="198.5" />
+		<element id="E_J32_J44.200" type="s" length="27.01" dedicated_flag="0" stop_id="311S13" />
+		<element id="E_J32_J44.230" type="i" length="19.05" dedicated_flag="0" tl="J44" phase_time="89" cycle_time="90" from_lane="E_J32_J44.230_0" dir="s" />
+		<element id="E_J44_J58" type="w" length="342.40" dedicated_flag="0" impacted_edge="E_J58_J79" impacted_length="390.9" />
+		<element id="E_J58_J79" type="w" length="48.50" dedicated_flag="0" impacted_edge="E_J58_J79" impacted_length="48.5" />
+		<element id="E_J58_J79.50" type="s" length="26.99" dedicated_flag="0" stop_id="311S14" />
+		<element id="E_J58_J79.80" type="i" length="230.75" dedicated_flag="0" tl="J79" phase_time="39" cycle_time="90" from_lane="E_J58_J79.80_1" dir="l" />
+		<element id="E_J79_J92" type="w" length="289.36" dedicated_flag="0" impacted_edge="E_J79_J92" impacted_length="289.36" />
+		<element id="E_J79_J92.320" type="s" length="30.01" dedicated_flag="0" stop_id="311S15" />
+		<element id="E_J79_J92.380" type="i" length="869.28" dedicated_flag="0" tl="J92" phase_time="35" cycle_time="90" from_lane="E_J79_J92.380_0" dir="r" />
+		<element id="E_J92_J122" type="i" length="1219.90" dedicated_flag="0" tl="J122" phase_time="35" cycle_time="90" from_lane="E_J92_J122_1" dir="s" />
+		<element id="E_J122_J140" type="i" length="386.67" dedicated_flag="0" tl="J140" phase_time="49" cycle_time="90" from_lane="E_J122_J140_2" dir="l" />
+		<element id="E_J140_J144" type="w" length="48.50" dedicated_flag="0" impacted_edge="E_J140_J144" impacted_length="48.5" />
+		<element id="E_J140_J144.50" type="s" length="27.00" dedicated_flag="0" stop_id="122S09" />
+		<element id="E_J140_J144.80" type="w" length="408.35" dedicated_flag="0" impacted_edge="E_J140_J144.80" impacted_length="408.35" />
+		<element id="E_J140_J144.520" type="s" length="29.99" dedicated_flag="0" stop_id="122S10_311S16" />
+		<element id="E_J140_J144.580" type="w" length="246.63" dedicated_flag="0" impacted_edge="E_J140_J144.580" impacted_length="246.63" />
+		<element id="E_J140_J144.850" type="s" length="27.00" dedicated_flag="0" stop_id="122S11_311S17" />
+		<element id="E_J140_J144.880" type="w" length="288.74" dedicated_flag="0" impacted_edge="E_J140_J144.880" impacted_length="288.74" />
+		<element id="E_J140_J144.1200" type="s" length="30.00" dedicated_flag="0" stop_id="122S12_311S18" />
+		<element id="E_J140_J144.1260" type="i" length="307.29" dedicated_flag="0" tl="J144" phase_time="45" cycle_time="90" from_lane="E_J140_J144.1260_0" dir="s" />
+		<element id="E_J144_J147" type="w" length="70.00" dedicated_flag="0" impacted_edge="E_J144_J147" impacted_length="70.0" />
+		<element id="E_J144_J147.100" type="s" length="29.18" dedicated_flag="0" stop_id="122S13_311S19" />
+		<element id="E_J144_J147.160" type="w" length="68.29" dedicated_flag="0" impacted_edge="E_J147_J149" impacted_length="104.29" />
+		<element id="E_J147_J149" type="w" length="36.00" dedicated_flag="0" impacted_edge="E_J147_J149" impacted_length="36.0" />
+		<element id="E_J147_J149.40" type="s" length="23.11" dedicated_flag="0" stop_id="122S14_311S20" />
+		<element id="E_J147_J149.70" type="i" length="193.23" dedicated_flag="0" tl="J149" phase_time="40" cycle_time="90" from_lane="E_J147_J149.70_0" dir="r" />
+		<element id="E_J149_J171" type="w" length="198.90" dedicated_flag="0" impacted_edge="E_J149_J171" impacted_length="198.9" />
+		<element id="E_J149_J171.200" type="s" length="26.99" dedicated_flag="0" stop_id="122S15_311S21_406X13" />
+		<element id="E_J149_J171.230" type="i" length="41.16" dedicated_flag="0" tl="J171" phase_time="41" cycle_time="90" from_lane="E_J149_J171.230_0" dir="s" />
+		<element id="E_J171_J177" type="w" length="97.48" dedicated_flag="0" impacted_edge="E_J177_J190" impacted_length="343.24" />
+		<element id="E_J177_J190" type="i" length="245.76" dedicated_flag="0" tl="J190" phase_time="50" cycle_time="90" from_lane="E_J177_J190_0" dir="s" />
+		<element id="E_J190_J210" type="w" length="146.10" dedicated_flag="0" impacted_edge="E_J210_J214" impacted_length="244.86" />
+		<element id="E_J210_J214" type="i" length="98.76" dedicated_flag="0" tl="J214" phase_time="50" cycle_time="90" from_lane="E_J210_J214_1" dir="l" />
+		<element id="E_J214_J220" type="w" length="198.36" dedicated_flag="0" impacted_edge="E_J214_J220" impacted_length="198.36" />
+		<element id="E_J214_J220.200" type="s" length="27.01" dedicated_flag="0" stop_id="122S16_311S22_406X14" />
+		<element id="E_J214_J220.230" type="w" length="96.39" dedicated_flag="0" impacted_edge="E_J214_J220.230" impacted_length="96.39" />
+		<element id="E_J214_J220.330" type="s" length="27.00" dedicated_flag="0" stop_id="122S17_311S23_406X15" />
+		<element id="E_J214_J220.360" type="i" length="20.18" dedicated_flag="0" tl="J220" phase_time="40" cycle_time="90" from_lane="E_J214_J220.360_0" dir="r" />
+		<element id="E_J220_J241" type="i" length="150.95" dedicated_flag="0" tl="J241" phase_time="35" cycle_time="90" from_lane="E_J220_J241_1" dir="s" />
+		<element id="E_J241_J272" type="w" length="70.76" dedicated_flag="0" impacted_edge="E_J241_J272" impacted_length="70.76" />
+		<element id="E_J241_J272.100" type="s" length="30.00" dedicated_flag="0" stop_id="102X16_122S18_311S24_406X16" />
+		<element id="E_J241_J272.160" type="w" length="138.59" dedicated_flag="0" impacted_edge="E_J241_J272.160" impacted_length="138.59" />
+		<element id="E_J241_J272.300" type="s" length="27.00" dedicated_flag="0" stop_id="102X17_122S19_311S25_406X17" />
+		<element id="E_J241_J272.330" type="w" length="246.36" dedicated_flag="0" impacted_edge="E_J272_J303" impacted_length="656.12" />
+		<element id="E_J272_J303" type="i" length="409.76" dedicated_flag="0" tl="J303" phase_time="44" cycle_time="90" from_lane="E_J272_J303_2" dir="l" />
+		<element id="E_J303_J297" type="w" length="258.37" dedicated_flag="0" impacted_edge="E_J303_J297" impacted_length="258.37" />
+		<element id="E_J303_J297.260" type="s" length="27.01" dedicated_flag="0" stop_id="7S23_311S26" />
+		<element id="E_J303_J297.290" type="i" length="236.11" dedicated_flag="0" tl="J297" phase_time="40" cycle_time="90" from_lane="E_J303_J297.290_1" dir="s" />
+		<element id="E_J297_J298" type="i" length="385.98" dedicated_flag="0" tl="J298" phase_time="36" cycle_time="90" from_lane="E_J297_J298_1" dir="s" />
+		<element id="E_J298_J301" type="i" length="291.06" dedicated_flag="0" tl="J301" phase_time="90" cycle_time="90" from_lane="E_J298_J301_0" dir="r" />
+		<element id="E_J301_J361" type="w" length="170.31" dedicated_flag="0" impacted_edge="E_J301_J361" impacted_length="170.31" />
+		<element id="E_J301_J361.200" type="s" length="30.00" dedicated_flag="0" stop_id="311S27" />
+		<element id="E_J301_J361.260" type="w" length="368.23" dedicated_flag="0" impacted_edge="E_J301_J361.260" impacted_length="368.23" />
+		<element id="E_J301_J361.630" type="s" length="27.49" dedicated_flag="0" stop_id="311S28" />
+		<element id="E_J301_J361.660" type="i" length="263.16" dedicated_flag="0" tl="J361" phase_time="41" cycle_time="90" from_lane="E_J301_J361.660_1" dir="s" />
+		<element id="E_J361_J397" type="w" length="248.41" dedicated_flag="0" impacted_edge="E_J361_J397" impacted_length="248.41" />
+		<element id="E_J361_J397.250" type="s" length="27.00" dedicated_flag="0" stop_id="311S29" />
+		<element id="E_J361_J397.280" type="i" length="90.66" dedicated_flag="0" tl="J397" phase_time="35" cycle_time="90" from_lane="E_J361_J397.280_1" dir="s" />
+		<element id="E_J397_J411" type="w" length="119.25" dedicated_flag="0" impacted_edge="E_J397_J411" impacted_length="119.25" />
+		<element id="E_J397_J411.150" type="s" length="30.00" dedicated_flag="0" stop_id="311S30" />
+		<element id="E_J397_J411.210" type="w" length="244.93" dedicated_flag="0" impacted_edge="E_J411_J432" impacted_length="527.23" />
+		<element id="E_J411_J432" type="i" length="282.30" dedicated_flag="0" tl="J432" phase_time="35" cycle_time="90" from_lane="E_J411_J432_1" dir="s" />
+		<element id="E_J432_J474" type="w" length="298.05" dedicated_flag="0" impacted_edge="E_J432_J474" impacted_length="298.05" />
+		<element id="E_J432_J474.300" type="s" length="27.00" dedicated_flag="0" stop_id="311S31" />
+		<element id="E_J432_J474.330" type="i" length="282.07" dedicated_flag="0" tl="J474" phase_time="35" cycle_time="90" from_lane="E_J432_J474.330_1" dir="s" />
+		<element id="E_J474_J490" type="w" length="88.93" dedicated_flag="0" impacted_edge="E_J474_J490" impacted_length="88.93" />
+		<element id="E_J474_J490.90" type="s" length="27.00" dedicated_flag="0" stop_id="311S32" />
+		<element id="E_J474_J490.120" type="w" length="95.22" dedicated_flag="0" impacted_edge="E_J490_J505" impacted_length="311.73" />
+		<element id="E_J490_J505" type="i" length="216.51" dedicated_flag="0" tl="J505" phase_time="35" cycle_time="90" from_lane="E_J490_J505_1" dir="s" />
+		<element id="E_J505_J528" type="w" length="68.06" dedicated_flag="0" impacted_edge="E_J505_J528" impacted_length="68.06" />
+		<element id="E_J505_J528.100" type="s" length="30.00" dedicated_flag="0" stop_id="311S33" />
+		<element id="E_J505_J528.160" type="i" length="215.37" dedicated_flag="0" tl="J528" phase_time="50" cycle_time="90" from_lane="E_J505_J528.160_2" dir="l" />
+		<element id="E_J528_J530" type="w" length="58.50" dedicated_flag="0" impacted_edge="E_J528_J530" impacted_length="58.5" />
+		<element id="E_J528_J530.60" type="s" length="27.00" dedicated_flag="0" stop_id="311S34" />
+		<element id="E_J528_J530.90" type="w" length="207.00" dedicated_flag="0" impacted_edge="E_J528_J530.90" impacted_length="207.0" />
+		<element id="E_J528_J530.300" type="s" length="26.99" dedicated_flag="0" stop_id="311S35" />
+		<element id="E_J528_J530.330" type="i" length="74.51" dedicated_flag="0" tl="J530" phase_time="45" cycle_time="90" from_lane="E_J528_J530.330_0" dir="s" />
+		<element id="E_J530_J532" type="w" length="156.57" dedicated_flag="0" impacted_edge="E_J530_J532" impacted_length="156.57" />
+		<element id="E_J530_J532.160" type="s" length="26.99" dedicated_flag="0" stop_id="311S36" />
+		<element id="E_J530_J532.190" type="i" length="29.26" dedicated_flag="0" tl="J532" phase_time="45" cycle_time="90" from_lane="E_J530_J532.190_0" dir="s" />
+		<element id="E_J532_J533" type="w" length="198.50" dedicated_flag="0" impacted_edge="E_J532_J533" impacted_length="198.5" />
+		<element id="E_J532_J533.200" type="s" length="27.00" dedicated_flag="0" stop_id="311S37" />
+		<element id="E_J532_J533.230" type="i" length="287.04" dedicated_flag="0" tl="J533" phase_time="90" cycle_time="90" from_lane="E_J532_J533.230_0" dir="r" />
+		<element id="E_J533_J552" type="i" length="418.77" dedicated_flag="0" tl="J552" phase_time="40" cycle_time="90" from_lane="E_J533_J552_1" dir="s" />
+		<element id="E_J552_J562" type="i" length="353.55" dedicated_flag="0" tl="J562" phase_time="36" cycle_time="90" from_lane="E_J552_J562_1" dir="s" />
+		<element id="E_J562_J583" type="w" length="470.28" dedicated_flag="0" impacted_edge="E_J562_J583" impacted_length="470.28" />
+		<element id="E_J562_J583.500" type="s" length="30.00" dedicated_flag="0" stop_id="311S38" />
+		<element id="E_J562_J583.560" type="w" length="218.87" dedicated_flag="0" impacted_edge="E_J583_J589" impacted_length="323.74" />
+		<element id="E_J583_J589" type="w" length="104.87" dedicated_flag="0" impacted_edge="E_J583_J589" impacted_length="104.87" />
+		<element id="E_J583_J589.140" type="s" length="29.60" dedicated_flag="0" stop_id="311S39" />
+		<element id="E_J583_J589.200" type="i" length="113.41" dedicated_flag="0" tl="J589" phase_time="90" cycle_time="90" from_lane="E_J583_J589.200_0" dir="r" />
+		<element id="E_J589_J590" type="w" length="147.94" dedicated_flag="0" impacted_edge="E_J589_J590" impacted_length="147.94" />
+		<element id="E_J589_J590.150" type="s" length="27.00" dedicated_flag="0" stop_id="311S40" />
+		<element id="E_J589_J590.180" type="w" length="187.90" dedicated_flag="0" impacted_edge="E_J592_J593" impacted_length="755.26" />
+		<element id="E_J590_J592" type="w" length="368.86" dedicated_flag="0" impacted_edge="E_J592_J593" impacted_length="567.36" />
+		<element id="E_J592_J593" type="w" length="198.50" dedicated_flag="0" impacted_edge="E_J592_J593" impacted_length="198.5" />
+		<element id="E_J592_J593.200" type="s" length="27.00" dedicated_flag="0" stop_id="311S41" />
+		<element id="E_J592_J593.230" type="i" length="73.60" dedicated_flag="0" tl="J593" phase_time="40" cycle_time="90" from_lane="E_J592_J593.230_1" dir="l" />
+		<element id="E_J593_J598" type="w" length="158.40" dedicated_flag="0" impacted_edge="E_J593_J598" impacted_length="158.4" />
+		<element id="E_J593_J598.160" type="s" length="27.00" dedicated_flag="0" stop_id="311S42" />
+		<element id="E_J593_J598.190" type="w" length="139.85" dedicated_flag="0" impacted_edge="E_J593_J598.190" impacted_length="139.85" />
+		</busline>
+	<busline id="311X">
+		<element id="E_J598_J593" type="w" length="148.60" dedicated_flag="0" impacted_edge="E_J598_J593" impacted_length="148.6" />
+		<element id="E_J598_J593.150" type="s" length="27.00" dedicated_flag="0" stop_id="311X01" />
+		<element id="E_J598_J593.180" type="i" length="150.26" dedicated_flag="0" tl="J593" phase_time="41" cycle_time="90" from_lane="E_J598_J593.180_0" dir="r" />
+		<element id="E_J593_J592" type="w" length="98.50" dedicated_flag="0" impacted_edge="E_J593_J592" impacted_length="98.5" />
+		<element id="E_J593_J592.100" type="s" length="27.00" dedicated_flag="0" stop_id="311X02" />
+		<element id="E_J593_J592.130" type="w" length="173.56" dedicated_flag="0" impacted_edge="E_J590_J589" impacted_length="590.85" />
+		<element id="E_J592_J590" type="w" length="368.79" dedicated_flag="0" impacted_edge="E_J590_J589" impacted_length="417.29" />
+		<element id="E_J590_J589" type="w" length="48.50" dedicated_flag="0" impacted_edge="E_J590_J589" impacted_length="48.5" />
+		<element id="E_J590_J589.50" type="s" length="27.00" dedicated_flag="0" stop_id="311X03" />
+		<element id="E_J590_J589.80" type="i" length="287.29" dedicated_flag="0" tl="J589" phase_time="40" cycle_time="90" from_lane="E_J590_J589.80_1" dir="l" />
+		<element id="E_J589_J583" type="w" length="120.28" dedicated_flag="0" impacted_edge="E_J589_J583" impacted_length="120.28" />
+		<element id="E_J589_J583.150" type="s" length="30.01" dedicated_flag="0" stop_id="311X04" />
+		<element id="E_J589_J583.210" type="w" length="99.17" dedicated_flag="0" impacted_edge="E_J583_J562" impacted_length="369.24" />
+		<element id="E_J583_J562" type="w" length="270.07" dedicated_flag="0" impacted_edge="E_J583_J562" impacted_length="270.07" />
+		<element id="E_J583_J562.300" type="s" length="30.00" dedicated_flag="0" stop_id="311X05" />
+		<element id="E_J583_J562.360" type="i" length="417.34" dedicated_flag="0" tl="J562" phase_time="36" cycle_time="90" from_lane="E_J583_J562.360_1" dir="s" />
+		<element id="E_J562_J552" type="i" length="353.56" dedicated_flag="0" tl="J552" phase_time="40" cycle_time="90" from_lane="E_J562_J552_1" dir="s" />
+		<element id="E_J552_J533" type="i" length="418.78" dedicated_flag="0" tl="J533" phase_time="50" cycle_time="90" from_lane="E_J552_J533_1" dir="l" />
+		<element id="E_J533_J532" type="w" length="147.17" dedicated_flag="0" impacted_edge="E_J533_J532" impacted_length="147.17" />
+		<element id="E_J533_J532.150" type="s" length="27.01" dedicated_flag="0" stop_id="311X06" />
+		<element id="E_J533_J532.180" type="i" length="338.13" dedicated_flag="0" tl="J532" phase_time="45" cycle_time="90" from_lane="E_J533_J532.180_0" dir="s" />
+		<element id="E_J532_J530" type="w" length="58.09" dedicated_flag="0" impacted_edge="E_J532_J530" impacted_length="58.09" />
+		<element id="E_J532_J530.60" type="s" length="27.00" dedicated_flag="0" stop_id="311X07" />
+		<element id="E_J532_J530.90" type="i" length="127.79" dedicated_flag="0" tl="J530" phase_time="45" cycle_time="90" from_lane="E_J532_J530.90_0" dir="s" />
+		<element id="E_J530_J528" type="w" length="76.28" dedicated_flag="0" impacted_edge="E_J530_J528" impacted_length="76.28" />
+		<element id="E_J530_J528.80" type="s" length="27.00" dedicated_flag="0" stop_id="311X08" />
+		<element id="E_J530_J528.110" type="w" length="207.00" dedicated_flag="0" impacted_edge="E_J530_J528.110" impacted_length="207.0" />
+		<element id="E_J530_J528.320" type="s" length="26.99" dedicated_flag="0" stop_id="311X09" />
+		<element id="E_J530_J528.350" type="i" length="56.75" dedicated_flag="0" tl="J528" phase_time="40" cycle_time="90" from_lane="E_J530_J528.350_0" dir="r" />
+		<element id="E_J528_J505" type="w" length="70.00" dedicated_flag="0" impacted_edge="E_J528_J505" impacted_length="70.0" />
+		<element id="E_J528_J505.100" type="s" length="30.47" dedicated_flag="0" stop_id="311X10" />
+		<element id="E_J528_J505.160" type="i" length="213.96" dedicated_flag="0" tl="J505" phase_time="35" cycle_time="90" from_lane="E_J528_J505.160_1" dir="s" />
+		<element id="E_J505_J490" type="w" length="98.13" dedicated_flag="0" impacted_edge="E_J505_J490" impacted_length="98.13" />
+		<element id="E_J505_J490.100" type="s" length="27.00" dedicated_flag="0" stop_id="311X11" />
+		<element id="E_J505_J490.130" type="w" length="84.07" dedicated_flag="0" impacted_edge="E_J490_J474" impacted_length="299.86" />
+		<element id="E_J490_J474" type="i" length="215.79" dedicated_flag="0" tl="J474" phase_time="35" cycle_time="90" from_lane="E_J490_J474_1" dir="s" />
+		<element id="E_J474_J432" type="w" length="269.69" dedicated_flag="0" impacted_edge="E_J474_J432" impacted_length="269.69" />
+		<element id="E_J474_J432.300" type="s" length="30.01" dedicated_flag="0" stop_id="311X12" />
+		<element id="E_J474_J432.360" type="i" length="253.95" dedicated_flag="0" tl="J432" phase_time="35" cycle_time="90" from_lane="E_J474_J432.360_1" dir="s" />
+		<element id="E_J432_J411" type="w" length="238.63" dedicated_flag="0" impacted_edge="E_J432_J411" impacted_length="238.63" />
+		<element id="E_J432_J411.240" type="s" length="27.00" dedicated_flag="0" stop_id="311X13" />
+		<element id="E_J432_J411.270" type="w" length="11.10" dedicated_flag="0" impacted_edge="E_J411_J397" impacted_length="481.35" />
+		<element id="E_J411_J397" type="i" length="470.25" dedicated_flag="0" tl="J397" phase_time="35" cycle_time="90" from_lane="E_J411_J397_1" dir="s" />
+		<element id="E_J397_J361" type="w" length="147.50" dedicated_flag="0" impacted_edge="E_J397_J361" impacted_length="147.5" />
+		<element id="E_J397_J361.150" type="s" length="27.00" dedicated_flag="0" stop_id="311X14" />
+		<element id="E_J397_J361.180" type="i" length="188.56" dedicated_flag="0" tl="J361" phase_time="90" cycle_time="90" from_lane="E_J397_J361.180_0" dir="s" />
+		<element id="E_J361_J301" type="w" length="270.00" dedicated_flag="0" impacted_edge="E_J361_J301" impacted_length="270.0" />
+		<element id="E_J361_J301.300" type="s" length="30.00" dedicated_flag="0" stop_id="311X15" />
+		<element id="E_J361_J301.360" type="w" length="358.74" dedicated_flag="0" impacted_edge="E_J361_J301.360" impacted_length="358.74" />
+		<element id="E_J361_J301.720" type="s" length="27.40" dedicated_flag="0" stop_id="311X16" />
+		<element id="E_J361_J301.750" type="i" length="172.69" dedicated_flag="0" tl="J301" phase_time="50" cycle_time="90" from_lane="E_J361_J301.750_1" dir="l" />
+		<element id="E_J301_J298" type="i" length="291.11" dedicated_flag="0" tl="J298" phase_time="36" cycle_time="90" from_lane="E_J301_J298_1" dir="s" />
+		<element id="E_J298_J297" type="w" length="266.90" dedicated_flag="0" impacted_edge="E_J298_J297" impacted_length="266.9" />
+		<element id="E_J298_J297.270" type="s" length="27.00" dedicated_flag="0" stop_id="7X03" />
+		<element id="E_J298_J297.300" type="i" length="89.59" dedicated_flag="0" tl="J297" phase_time="40" cycle_time="90" from_lane="E_J298_J297.300_1" dir="s" />
+		<element id="E_J297_J303" type="w" length="258.78" dedicated_flag="0" impacted_edge="E_J297_J303" impacted_length="258.78" />
+		<element id="E_J297_J303.260" type="s" length="27.01" dedicated_flag="0" stop_id="7X04_311X17" />
+		<element id="E_J297_J303.290" type="i" length="236.73" dedicated_flag="0" tl="J303" phase_time="35" cycle_time="90" from_lane="E_J297_J303.290_0" dir="r" />
+		<element id="E_J303_J272" type="w" length="411.59" dedicated_flag="0" impacted_edge="E_J272_J241" impacted_length="631.5899999999999" />
+		<element id="E_J272_J241" type="w" length="220.00" dedicated_flag="0" impacted_edge="E_J272_J241" impacted_length="220.0" />
+		<element id="E_J272_J241.250" type="s" length="29.99" dedicated_flag="0" stop_id="102S23_122X18_311X18_406S25" />
+		<element id="E_J272_J241.310" type="w" length="185.91" dedicated_flag="0" impacted_edge="E_J272_J241.310" impacted_length="185.91" />
+		<element id="E_J272_J241.500" type="s" length="22.00" dedicated_flag="0" stop_id="102S24_122X19_311X19_406S26" />
+		<element id="E_J272_J241.530" type="i" length="42.03" dedicated_flag="0" tl="J241" phase_time="35" cycle_time="90" from_lane="E_J272_J241.530_1" dir="s" />
+		<element id="E_J241_J220" type="i" length="149.11" dedicated_flag="0" tl="J220" phase_time="49" cycle_time="90" from_lane="E_J241_J220_2" dir="l" />
+		<element id="E_J220_J214" type="w" length="53.94" dedicated_flag="0" impacted_edge="E_J220_J214" impacted_length="53.94" />
+		<element id="E_J220_J214.60" type="s" length="27.48" dedicated_flag="0" stop_id="122X20_311X20_406S27" />
+		<element id="E_J220_J214.90" type="w" length="207.47" dedicated_flag="0" impacted_edge="E_J220_J214.90" impacted_length="207.47" />
+		<element id="E_J220_J214.300" type="s" length="27.00" dedicated_flag="0" stop_id="122X21_311X21_406S28" />
+		<element id="E_J220_J214.330" type="i" length="56.82" dedicated_flag="0" tl="J214" phase_time="40" cycle_time="90" from_lane="E_J220_J214.330_0" dir="r" />
+		<element id="E_J214_J210" type="w" length="98.68" dedicated_flag="0" impacted_edge="E_J210_J190" impacted_length="244.8" />
+		<element id="E_J210_J190" type="i" length="146.12" dedicated_flag="0" tl="J190" phase_time="41" cycle_time="90" from_lane="E_J210_J190_0" dir="s" />
+		<element id="E_J190_J177" type="w" length="245.74" dedicated_flag="0" impacted_edge="E_J177_J171" impacted_length="344.28000000000003" />
+		<element id="E_J177_J171" type="i" length="98.54" dedicated_flag="0" tl="J171" phase_time="90" cycle_time="90" from_lane="E_J177_J171_0" dir="s" />
+		<element id="E_J171_J149" type="w" length="48.50" dedicated_flag="0" impacted_edge="E_J171_J149" impacted_length="48.5" />
+		<element id="E_J171_J149.50" type="s" length="27.00" dedicated_flag="0" stop_id="122X22_311X22_406S29" />
+		<element id="E_J171_J149.80" type="i" length="190.14" dedicated_flag="0" tl="J149" phase_time="50" cycle_time="90" from_lane="E_J171_J149.80_1" dir="l" />
+		<element id="E_J149_J147" type="w" length="17.44" dedicated_flag="0" impacted_edge="E_J149_J147" impacted_length="17.44" />
+		<element id="E_J149_J147.20" type="s" length="27.00" dedicated_flag="0" stop_id="122X23_311X23" />
+		<element id="E_J149_J147.50" type="w" length="214.23" dedicated_flag="0" impacted_edge="E_J147_J144" impacted_length="232.73" />
+		<element id="E_J147_J144" type="w" length="18.50" dedicated_flag="0" impacted_edge="E_J147_J144" impacted_length="18.5" />
+		<element id="E_J147_J144.20" type="s" length="27.00" dedicated_flag="0" stop_id="122X24_311X24" />
+		<element id="E_J147_J144.50" type="i" length="179.03" dedicated_flag="0" tl="J144" phase_time="45" cycle_time="90" from_lane="E_J147_J144.50_0" dir="s" />
+		<element id="E_J144_J135" type="w" length="378.50" dedicated_flag="0" impacted_edge="E_J144_J135" impacted_length="378.5" />
+		<element id="E_J144_J135.380" type="s" length="26.99" dedicated_flag="0" stop_id="122X25_311X25" />
+		<element id="E_J144_J135.410" type="w" length="286.75" dedicated_flag="0" impacted_edge="E_J144_J135.410" impacted_length="286.75" />
+		<element id="E_J144_J135.700" type="s" length="27.00" dedicated_flag="0" stop_id="122X26_311X26" />
+		<element id="E_J144_J135.730" type="w" length="223.96" dedicated_flag="0" impacted_edge="E_J135_J140" impacted_length="272.96000000000004" />
+		<element id="E_J135_J140" type="w" length="49.00" dedicated_flag="0" impacted_edge="E_J135_J140" impacted_length="49.0" />
+		<element id="E_J135_J140.80" type="s" length="30.00" dedicated_flag="0" stop_id="122X27_311X27" />
+		<element id="E_J135_J140.140" type="w" length="238.99" dedicated_flag="0" impacted_edge="E_J135_J140.140" impacted_length="238.99" />
+		<element id="E_J135_J140.380" type="s" length="27.01" dedicated_flag="0" stop_id="122X28_311X28" />
+		<element id="E_J135_J140.410" type="i" length="185.28" dedicated_flag="0" tl="J140" phase_time="40" cycle_time="90" from_lane="E_J135_J140.410_0" dir="r" />
+		<element id="E_J140_J122" type="i" length="385.52" dedicated_flag="0" tl="J122" phase_time="35" cycle_time="90" from_lane="E_J140_J122_1" dir="s" />
+		<element id="E_J122_J92" type="i" length="1210.45" dedicated_flag="0" tl="J92" phase_time="44" cycle_time="90" from_lane="E_J122_J92_2" dir="l" />
+		<element id="E_J92_J94" type="w" length="258.96" dedicated_flag="0" impacted_edge="E_J86_J82" impacted_length="622.1000000000001" />
+		<element id="E_J94_J93" type="w" length="44.78" dedicated_flag="0" impacted_edge="E_J86_J82" impacted_length="363.14000000000004" />
+		<element id="E_J93_J87" type="w" length="270.16" dedicated_flag="0" impacted_edge="E_J86_J82" impacted_length="318.36" />
+		<element id="E_J87_J86" type="w" length="28.20" dedicated_flag="0" impacted_edge="E_J86_J82" impacted_length="48.2" />
+		<element id="E_J86_J82" type="w" length="20.00" dedicated_flag="0" impacted_edge="E_J86_J82" impacted_length="20.0" />
+		<element id="E_J86_J82.50" type="s" length="30.00" dedicated_flag="0" stop_id="311X29" />
+		<element id="E_J86_J82.110" type="w" length="195.69" dedicated_flag="0" impacted_edge="E_J81_J79" impacted_length="423.52" />
+		<element id="E_J82_J81" type="w" length="22.95" dedicated_flag="0" impacted_edge="E_J81_J79" impacted_length="227.82999999999998" />
+		<element id="E_J81_J79" type="i" length="204.88" dedicated_flag="0" tl="J79" phase_time="40" cycle_time="90" from_lane="E_J81_J79_0" dir="r" />
+		<element id="E_J79_J58" type="w" length="50.00" dedicated_flag="0" impacted_edge="E_J79_J58" impacted_length="50.0" />
+		<element id="E_J79_J58.80" type="s" length="30.00" dedicated_flag="0" stop_id="311X30" />
+		<element id="E_J79_J58.140" type="w" length="172.21" dedicated_flag="0" impacted_edge="E_J58_J44" impacted_length="513.7" />
+		<element id="E_J58_J44" type="i" length="341.49" dedicated_flag="0" tl="J44" phase_time="40" cycle_time="90" from_lane="E_J58_J44_1" dir="s" />
+		<element id="E_J44_J32" type="w" length="48.50" dedicated_flag="0" impacted_edge="E_J44_J32" impacted_length="48.5" />
+		<element id="E_J44_J32.50" type="s" length="27.00" dedicated_flag="0" stop_id="311X31" />
+		<element id="E_J44_J32.80" type="i" length="169.01" dedicated_flag="0" tl="J32" phase_time="41" cycle_time="90" from_lane="E_J44_J32.80_1" dir="s" />
+		<element id="E_J32_J23" type="w" length="97.80" dedicated_flag="0" impacted_edge="E_J32_J23" impacted_length="97.8" />
+		<element id="E_J32_J23.100" type="s" length="26.99" dedicated_flag="0" stop_id="311X32" />
+		<element id="E_J32_J23.130" type="i" length="228.83" dedicated_flag="0" tl="J23" phase_time="36" cycle_time="90" from_lane="E_J32_J23.130_0" dir="r" />
+		<element id="E_J23_J24" type="w" length="48.50" dedicated_flag="0" impacted_edge="E_J23_J24" impacted_length="48.5" />
+		<element id="E_J23_J24.50" type="s" length="27.00" dedicated_flag="0" stop_id="311X33" />
+		<element id="E_J23_J24.80" type="i" length="286.75" dedicated_flag="0" tl="J24" phase_time="49" cycle_time="90" from_lane="E_J23_J24.80_2" dir="l" />
+		<element id="E_J24_J18" type="w" length="346.00" dedicated_flag="0" impacted_edge="E_J24_J18" impacted_length="346.0" />
+		<element id="E_J24_J18.350" type="s" length="22.00" dedicated_flag="0" stop_id="311X34" />
+		<element id="E_J24_J18.380" type="w" length="35.58" dedicated_flag="0" impacted_edge="E_J15_J10" impacted_length="443.28" />
+		<element id="E_J18_J15" type="w" length="391.70" dedicated_flag="0" impacted_edge="E_J15_J10" impacted_length="407.7" />
+		<element id="E_J15_J10" type="w" length="16.00" dedicated_flag="0" impacted_edge="E_J15_J10" impacted_length="16.0" />
+		<element id="E_J15_J10.20" type="s" length="22.00" dedicated_flag="0" stop_id="311X35" />
+		<element id="E_J15_J10.50" type="i" length="264.31" dedicated_flag="0" tl="J10" phase_time="40" cycle_time="90" from_lane="E_J15_J10.50_1" dir="l" />
+		<element id="E_J10_J5" type="w" length="59.48" dedicated_flag="0" impacted_edge="E_J10_J5" impacted_length="59.48" />
+		<element id="E_J10_J5.60" type="s" length="27.51" dedicated_flag="0" stop_id="311X36" />
+		<element id="E_J10_J5.90" type="w" length="287.87" dedicated_flag="0" impacted_edge="E_J5_J4" impacted_length="305.83" />
+		<element id="E_J5_J4" type="w" length="17.96" dedicated_flag="0" impacted_edge="E_J5_J4" impacted_length="17.96" />
+		<element id="E_J5_J4.20" type="s" length="26.63" dedicated_flag="0" stop_id="311X37" />
+		<element id="E_J5_J4.50" type="i" length="207.53" dedicated_flag="0" tl="J4" phase_time="39" cycle_time="90" from_lane="E_J5_J4.50_1" dir="l" />
+		<element id="E_J4_J7" type="w" length="98.50" dedicated_flag="0" impacted_edge="E_J4_J7" impacted_length="98.5" />
+		<element id="E_J4_J7.100" type="s" length="27.00" dedicated_flag="0" stop_id="311X38" />
+		<element id="E_J4_J7.130" type="w" length="861.63" dedicated_flag="0" impacted_edge="E_J4_J7.130" impacted_length="861.63" />
+		<element id="E_J4_J7.1000" type="s" length="26.87" dedicated_flag="0" stop_id="311X39" />
+		<element id="E_J4_J7.1030" type="i" length="231.17" dedicated_flag="0" tl="J7" phase_time="90" cycle_time="90" from_lane="E_J4_J7.1030_0" dir="s" />
+		<element id="E_J7_J8" type="w" length="18.50" dedicated_flag="0" impacted_edge="E_J7_J8" impacted_length="18.5" />
+		<element id="E_J7_J8.20" type="s" length="27.00" dedicated_flag="0" stop_id="311X40" />
+		<element id="E_J7_J8.50" type="i" length="505.88" dedicated_flag="0" tl="J8" phase_time="41" cycle_time="90" from_lane="E_J7_J8.50_0" dir="r" />
+		<element id="E_J8_J6" type="w" length="38.50" dedicated_flag="0" impacted_edge="E_J8_J6" impacted_length="38.5" />
+		<element id="E_J8_J6.40" type="s" length="26.99" dedicated_flag="0" stop_id="311X41" />
+		<element id="E_J8_J6.70" type="w" length="39.52" dedicated_flag="0" impacted_edge="E_J6_J2" impacted_length="137.48" />
+		<element id="E_J6_J2" type="w" length="97.96" dedicated_flag="0" impacted_edge="E_J6_J2" impacted_length="97.96" />
+		<element id="E_J6_J2.100" type="s" length="27.00" dedicated_flag="0" stop_id="311X42" />
+		<element id="E_J6_J2.130" type="w" length="87.01" dedicated_flag="0" impacted_edge="E_J6_J2.130" impacted_length="87.01" />
+		<element id="E_J6_J2.220" type="s" length="27.00" dedicated_flag="0" stop_id="311X43" />
+		<element id="E_J6_J2.250" type="w" length="862.09" dedicated_flag="0" impacted_edge="E_J6_J2.250" impacted_length="862.09" />
+		</busline>
+	<busline id="102S">
+		<element id="E_J434_J427" type="w" length="77.37" dedicated_flag="0" impacted_edge="E_J434_J427" impacted_length="77.37" />
+		<element id="E_J434_J427.80" type="s" length="27.00" dedicated_flag="0" stop_id="7S01_102S01" />
+		<element id="E_J434_J427.110" type="i" length="60.89" dedicated_flag="0" tl="J427" phase_time="35" cycle_time="90" from_lane="E_J434_J427.110_0" dir="R" />
+		<element id="E_J427_J406" type="i" length="351.32" dedicated_flag="0" tl="J406" phase_time="39" cycle_time="90" from_lane="E_J427_J406_0" dir="r" />
+		<element id="E_J406_J409" type="w" length="395.70" dedicated_flag="0" impacted_edge="E_J406_J409" impacted_length="395.7" />
+		<element id="E_J406_J409.400" type="s" length="27.00" dedicated_flag="0" stop_id="7S02_102S02" />
+		<element id="E_J406_J409.430" type="i" length="83.91" dedicated_flag="0" tl="J409" phase_time="35" cycle_time="90" from_lane="E_J406_J409.430_1" dir="s" />
+		<element id="E_J409_J423" type="w" length="190.13" dedicated_flag="0" impacted_edge="E_J409_J423" impacted_length="190.13" />
+		<element id="E_J409_J423.220" type="s" length="30.00" dedicated_flag="0" stop_id="7S03_102S03" />
+		<element id="E_J409_J423.280" type="w" length="291.69" dedicated_flag="0" impacted_edge="E_J409_J423.280" impacted_length="291.69" />
+		<element id="E_J409_J423.600" type="s" length="31.08" dedicated_flag="0" stop_id="7S04_102S04" />
+		<element id="E_J409_J423.660" type="i" length="63.60" dedicated_flag="0" tl="J423" phase_time="89" cycle_time="90" from_lane="E_J409_J423.660_0" dir="s" />
+		<element id="E_J423_J417" type="w" length="200.14" dedicated_flag="0" impacted_edge="E_J423_J417" impacted_length="200.14" />
+		<element id="E_J423_J417.230" type="s" length="30.00" dedicated_flag="0" stop_id="7S05_102S05" />
+		<element id="E_J423_J417.290" type="i" length="105.06" dedicated_flag="0" tl="J417" phase_time="35" cycle_time="90" from_lane="E_J423_J417.290_1" dir="s" />
+		<element id="E_J417_J367" type="w" length="70.00" dedicated_flag="0" impacted_edge="E_J417_J367" impacted_length="70.0" />
+		<element id="E_J417_J367.100" type="s" length="30.00" dedicated_flag="0" stop_id="7S06_102S06" />
+		<element id="E_J417_J367.160" type="w" length="313.01" dedicated_flag="0" impacted_edge="E_J417_J367.160" impacted_length="313.01" />
+		<element id="E_J417_J367.470" type="s" length="27.00" dedicated_flag="0" stop_id="7S07_102S07" />
+		<element id="E_J417_J367.500" type="w" length="497.00" dedicated_flag="0" impacted_edge="E_J417_J367.500" impacted_length="497.0" />
+		<element id="E_J417_J367.1000" type="s" length="27.00" dedicated_flag="0" stop_id="7S08_102S08" />
+		<element id="E_J417_J367.1030" type="w" length="413.20" dedicated_flag="0" impacted_edge="E_J417_J367.1030" impacted_length="413.2" />
+		<element id="E_J417_J367.1450" type="s" length="27.00" dedicated_flag="0" stop_id="7S09_102S09" />
+		<element id="E_J417_J367.1480" type="w" length="351.06" dedicated_flag="0" impacted_edge="E_J367_J354" impacted_length="656.94" />
+		<element id="E_J367_J354" type="w" length="305.88" dedicated_flag="0" impacted_edge="E_J367_J354" impacted_length="305.88" />
+		<element id="E_J367_J354.310" type="s" length="27.01" dedicated_flag="0" stop_id="7S10_102S10" />
+		<element id="E_J367_J354.340" type="i" length="78.57" dedicated_flag="0" tl="J354" phase_time="35" cycle_time="90" from_lane="E_J367_J354.340_1" dir="s" />
+		<element id="E_J354_J328" type="w" length="142.05" dedicated_flag="0" impacted_edge="E_J354_J328" impacted_length="142.05" />
+		<element id="E_J354_J328.170" type="s" length="30.00" dedicated_flag="0" stop_id="7S11_102S11_705S18" />
+		<element id="E_J354_J328.230" type="w" length="260.00" dedicated_flag="0" impacted_edge="E_J354_J328.230" impacted_length="260.0" />
+		<element id="E_J354_J328.520" type="s" length="30.00" dedicated_flag="0" stop_id="7S12_102S12_705S19" />
+		<element id="E_J354_J328.580" type="i" length="350.80" dedicated_flag="0" tl="J328" phase_time="40" cycle_time="90" from_lane="E_J354_J328.580_1" dir="s" />
+		<element id="E_J328_J313" type="w" length="120.96" dedicated_flag="0" impacted_edge="E_J328_J313" impacted_length="120.96" />
+		<element id="E_J328_J313.150" type="s" length="29.99" dedicated_flag="0" stop_id="7S13_102S13_705S20" />
+		<element id="E_J328_J313.210" type="w" length="114.37" dedicated_flag="0" impacted_edge="E_J313_J282" impacted_length="282.72" />
+		<element id="E_J313_J282" type="w" length="168.35" dedicated_flag="0" impacted_edge="E_J313_J282" impacted_length="168.35" />
+		<element id="E_J313_J282.200" type="s" length="30.00" dedicated_flag="0" stop_id="7S14_102S14_705S21" />
+		<element id="E_J313_J282.260" type="w" length="634.79" dedicated_flag="0" impacted_edge="E_J313_J282.260" impacted_length="634.79" />
+		<element id="E_J313_J282.900" type="s" length="25.98" dedicated_flag="0" stop_id="7S15_102S15_705S22" />
+		<element id="E_J313_J282.930" type="w" length="20.87" dedicated_flag="0" impacted_edge="E_J282_J279" impacted_length="151.17000000000002" />
+		<element id="E_J282_J279" type="i" length="130.30" dedicated_flag="0" tl="J279" phase_time="36" cycle_time="90" from_lane="E_J282_J279_1" dir="s" />
+		<element id="E_J279_J285" type="w" length="418.45" dedicated_flag="0" impacted_edge="E_J279_J285" impacted_length="418.45" />
+		<element id="E_J279_J285.450" type="s" length="29.82" dedicated_flag="0" stop_id="7S16_102S16_705S23" />
+		<element id="E_J279_J285.510" type="i" length="348.31" dedicated_flag="0" tl="J285" phase_time="41" cycle_time="90" from_lane="E_J279_J285.510_1" dir="s" />
+		<element id="E_J285_J286" type="w" length="44.34" dedicated_flag="0" impacted_edge="E_J286_J281" impacted_length="252.04" />
+		<element id="E_J286_J281" type="w" length="207.70" dedicated_flag="0" impacted_edge="E_J286_J281" impacted_length="207.7" />
+		<element id="E_J286_J281.240" type="s" length="29.99" dedicated_flag="0" stop_id="7S17_102S17_705S24" />
+		<element id="E_J286_J281.300" type="w" length="250.00" dedicated_flag="0" impacted_edge="E_J286_J281.300" impacted_length="250.0" />
+		<element id="E_J286_J281.580" type="s" length="30.80" dedicated_flag="0" stop_id="7S18_102S18_705S25" />
+		<element id="E_J286_J281.640" type="i" length="77.86" dedicated_flag="0" tl="J281" phase_time="36" cycle_time="90" from_lane="E_J286_J281.640_1" dir="s" />
+		<element id="E_J281_J278" type="w" length="266.64" dedicated_flag="0" impacted_edge="E_J281_J278" impacted_length="266.64" />
+		<element id="E_J281_J278.270" type="s" length="27.00" dedicated_flag="0" stop_id="7S19_102S19_705S26" />
+		<element id="E_J281_J278.300" type="w" length="129.43" dedicated_flag="0" impacted_edge="E_J278_J289" impacted_length="419.81" />
+		<element id="E_J278_J289" type="i" length="290.38" dedicated_flag="0" tl="J289" phase_time="35" cycle_time="90" from_lane="E_J278_J289_1" dir="s" />
+		<element id="E_J289_J294" type="w" length="110.29" dedicated_flag="0" impacted_edge="E_J294_J296" impacted_length="157.28" />
+		<element id="E_J294_J296" type="w" length="46.99" dedicated_flag="0" impacted_edge="E_J294_J296" impacted_length="46.99" />
+		<element id="E_J294_J296.50" type="s" length="27.00" dedicated_flag="0" stop_id="7S20_102S20" />
+		<element id="E_J294_J296.80" type="w" length="454.78" dedicated_flag="0" impacted_edge="E_J296_J299" impacted_length="473.27" />
+		<element id="E_J296_J299" type="w" length="18.49" dedicated_flag="0" impacted_edge="E_J296_J299" impacted_length="18.49" />
+		<element id="E_J296_J299.20" type="s" length="27.01" dedicated_flag="0" stop_id="7S21_102S21" />
+		<element id="E_J296_J299.50" type="i" length="419.83" dedicated_flag="0" tl="J299" phase_time="35" cycle_time="90" from_lane="E_J296_J299.50_1" dir="s" />
+		<element id="E_J299_J302" type="w" length="148.75" dedicated_flag="0" impacted_edge="E_J299_J302" impacted_length="148.75" />
+		<element id="E_J299_J302.150" type="s" length="26.92" dedicated_flag="0" stop_id="7S22_102S22" />
+		<element id="E_J299_J302.180" type="w" length="211.25" dedicated_flag="0" impacted_edge="E_J302_J303" impacted_length="430.3" />
+		<element id="E_J302_J303" type="i" length="219.05" dedicated_flag="0" tl="J303" phase_time="44" cycle_time="90" from_lane="E_J302_J303_3" dir="l" />
+		<element id="E_J303_J272" type="w" length="411.59" dedicated_flag="0" impacted_edge="E_J272_J241" impacted_length="631.5899999999999" />
+		<element id="E_J272_J241" type="w" length="220.00" dedicated_flag="0" impacted_edge="E_J272_J241" impacted_length="220.0" />
+		<element id="E_J272_J241.250" type="s" length="29.99" dedicated_flag="0" stop_id="102S23_122X18_311X18_406S25" />
+		<element id="E_J272_J241.310" type="w" length="185.91" dedicated_flag="0" impacted_edge="E_J272_J241.310" impacted_length="185.91" />
+		<element id="E_J272_J241.500" type="s" length="22.00" dedicated_flag="0" stop_id="102S24_122X19_311X19_406S26" />
+		<element id="E_J272_J241.530" type="i" length="42.03" dedicated_flag="0" tl="J241" phase_time="35" cycle_time="90" from_lane="E_J272_J241.530_0" dir="r" />
+		<element id="E_J241_J244" type="w" length="438.28" dedicated_flag="0" impacted_edge="E_J241_J244" impacted_length="438.28" />
+		<element id="E_J241_J244.440" type="s" length="27.70" dedicated_flag="0" stop_id="102S25" />
+		<element id="E_J241_J244.470" type="i" length="35.11" dedicated_flag="0" tl="J244" phase_time="40" cycle_time="90" from_lane="E_J241_J244.470_1" dir="s" />
+		<element id="E_J244_J232" type="w" length="121.22" dedicated_flag="0" impacted_edge="E_J244_J232" impacted_length="121.22" />
+		<element id="E_J244_J232.150" type="s" length="31.28" dedicated_flag="0" stop_id="102S26" />
+		<element id="E_J244_J232.210" type="i" length="244.40" dedicated_flag="0" tl="J232" phase_time="35" cycle_time="90" from_lane="E_J244_J232.210_1" dir="s" />
+		<element id="E_J232_J223" type="i" length="319.49" dedicated_flag="0" tl="J223" phase_time="36" cycle_time="90" from_lane="E_J232_J223_1" dir="s" />
+		<element id="E_J223_J228" type="w" length="120.00" dedicated_flag="0" impacted_edge="E_J223_J228" impacted_length="120.0" />
+		<element id="E_J223_J228.150" type="s" length="29.82" dedicated_flag="0" stop_id="102S27" />
+		<element id="E_J223_J228.210" type="i" length="356.87" dedicated_flag="0" tl="J228" phase_time="44" cycle_time="90" from_lane="E_J223_J228.210_3" dir="l" />
+		<element id="E_J228_J206" type="w" length="148.36" dedicated_flag="0" impacted_edge="E_J228_J206" impacted_length="148.36" />
+		<element id="E_J228_J206.150" type="s" length="27.00" dedicated_flag="0" stop_id="102S28" />
+		<element id="E_J228_J206.180" type="w" length="250.54" dedicated_flag="0" impacted_edge="E_J206_J162" impacted_length="757.3199999999999" />
+		<element id="E_J206_J162" type="i" length="506.78" dedicated_flag="0" tl="J162" phase_time="35" cycle_time="90" from_lane="E_J206_J162_1" dir="s" />
+		<element id="E_J162_J138" type="i" length="428.87" dedicated_flag="0" tl="J138" phase_time="36" cycle_time="90" from_lane="E_J162_J138_1" dir="s" />
+		<element id="E_J138_J106" type="i" length="1287.96" dedicated_flag="0" tl="J106" phase_time="35" cycle_time="90" from_lane="E_J138_J106_1" dir="s" />
+		<element id="E_J106_J38" type="w" length="1399.26" dedicated_flag="0" impacted_edge="E_J106_J38" impacted_length="1399.26" />
+		<element id="E_J106_J38.1400" type="s" length="27.00" dedicated_flag="0" stop_id="102S29" />
+		<element id="E_J106_J38.1430" type="i" length="56.95" dedicated_flag="0" tl="J38" phase_time="90" cycle_time="90" from_lane="E_J106_J38.1430_0" dir="r" />
+		<element id="E_J38_J37" type="w" length="199.70" dedicated_flag="0" impacted_edge="E_J38_J37" impacted_length="199.7" />
+		<element id="E_J38_J37.200" type="s" length="28.26" dedicated_flag="0" stop_id="102S30" />
+		<element id="E_J38_J37.230" type="i" length="387.01" dedicated_flag="0" tl="J37" phase_time="40" cycle_time="90" from_lane="E_J38_J37.230_0" dir="r" />
+		<element id="E_J37_J89" type="w" length="115.74" dedicated_flag="0" impacted_edge="E_J37_J89" impacted_length="115.74" />
+		<element id="E_J37_J89.120" type="s" length="27.23" dedicated_flag="0" stop_id="102S31" />
+		<element id="E_J37_J89.150" type="w" length="287.00" dedicated_flag="0" impacted_edge="E_J37_J89.150" impacted_length="287.0" />
+		<element id="E_J37_J89.440" type="s" length="27.01" dedicated_flag="0" stop_id="102S32" />
+		<element id="E_J37_J89.470" type="i" length="547.10" dedicated_flag="0" tl="J89" phase_time="40" cycle_time="90" from_lane="E_J37_J89.470_1" dir="l" />
+		<element id="E_J89_J84" type="w" length="48.50" dedicated_flag="0" impacted_edge="E_J89_J84" impacted_length="48.5" />
+		<element id="E_J89_J84.50" type="s" length="27.00" dedicated_flag="0" stop_id="102S33" />
+		<element id="E_J89_J84.80" type="w" length="232.11" dedicated_flag="0" impacted_edge="E_J84_J80" impacted_length="380.61" />
+		<element id="E_J84_J80" type="w" length="148.50" dedicated_flag="0" impacted_edge="E_J84_J80" impacted_length="148.5" />
+		<element id="E_J84_J80.150" type="s" length="27.01" dedicated_flag="0" stop_id="102S34" />
+		<element id="E_J84_J80.180" type="i" length="170.38" dedicated_flag="0" tl="J80" phase_time="35" cycle_time="90" from_lane="E_J84_J80.180_0" dir="s" />
+		<element id="E_J80_J78" type="w" length="258.16" dedicated_flag="0" impacted_edge="E_J80_J78" impacted_length="258.16" />
+		<element id="E_J80_J78.260" type="s" length="26.66" dedicated_flag="0" stop_id="102S35" />
+		<element id="E_J80_J78.290" type="i" length="178.83" dedicated_flag="0" tl="J78" phase_time="36" cycle_time="90" from_lane="E_J80_J78.290_1" dir="s" />
+		<element id="E_J78_J74" type="w" length="98.27" dedicated_flag="0" impacted_edge="E_J78_J74" impacted_length="98.27" />
+		<element id="E_J78_J74.100" type="s" length="27.00" dedicated_flag="0" stop_id="102S36" />
+		<element id="E_J78_J74.130" type="w" length="285.60" dedicated_flag="0" impacted_edge="E_J74_J73" impacted_length="471.6" />
+		<element id="E_J74_J73" type="w" length="186.00" dedicated_flag="0" impacted_edge="E_J74_J73" impacted_length="186.0" />
+		<element id="E_J74_J73.190" type="s" length="22.00" dedicated_flag="0" stop_id="102S37" />
+		<element id="E_J74_J73.220" type="i" length="40.73" dedicated_flag="0" tl="J73" phase_time="36" cycle_time="90" from_lane="E_J74_J73.220_1" dir="s" />
+		<element id="E_J73_J71" type="i" length="419.83" dedicated_flag="0" tl="J71" phase_time="36" cycle_time="90" from_lane="E_J73_J71_0" dir="r" />
+		<element id="E_J71_J99" type="w" length="70.00" dedicated_flag="0" impacted_edge="E_J71_J99" impacted_length="70.0" />
+		<element id="E_J71_J99.100" type="s" length="30.21" dedicated_flag="0" stop_id="102S38" />
+		<element id="E_J71_J99.160" type="i" length="227.48" dedicated_flag="0" tl="J99" phase_time="36" cycle_time="90" from_lane="E_J71_J99.160_0" dir="r" />
+		<element id="E_J99_J100" type="w" length="96.25" dedicated_flag="0" impacted_edge="E_J99_J100" impacted_length="96.25" />
+		<element id="E_J99_J100.100" type="s" length="27.00" dedicated_flag="0" stop_id="102S39" />
+		<element id="E_J99_J100.130" type="i" length="276.76" dedicated_flag="0" tl="J100" phase_time="36" cycle_time="90" from_lane="E_J99_J100.130_0" dir="r" />
+		<element id="E_J100_J73" type="w" length="98.17" dedicated_flag="0" impacted_edge="E_J100_J73" impacted_length="98.17" />
+		<element id="E_J100_J73.100" type="s" length="27.00" dedicated_flag="0" stop_id="102X01_102S40" />
+		<element id="E_J100_J73.130" type="i" length="298.93" dedicated_flag="0" />
+		</busline>
+	<busline id="705S">
+		<element id="E_J172_J188" type="w" length="240.11" dedicated_flag="0" impacted_edge="E_J172_J188" impacted_length="240.11" />
+		<element id="E_J172_J188.240" type="s" length="26.99" dedicated_flag="0" stop_id="705S01" />
+		<element id="E_J172_J188.270" type="w" length="16.53" dedicated_flag="0" impacted_edge="E_J208_J227" impacted_length="288.89" />
+		<element id="E_J188_J208" type="w" length="174.70" dedicated_flag="0" impacted_edge="E_J208_J227" impacted_length="272.36" />
+		<element id="E_J208_J227" type="w" length="97.66" dedicated_flag="0" impacted_edge="E_J208_J227" impacted_length="97.66" />
+		<element id="E_J208_J227.100" type="s" length="26.26" dedicated_flag="0" stop_id="705S02" />
+		<element id="E_J208_J227.130" type="i" length="245.35" dedicated_flag="0" tl="J227" phase_time="41" cycle_time="90" from_lane="E_J208_J227.130_1" dir="s" />
+		<element id="E_J227_J258" type="w" length="98.50" dedicated_flag="0" impacted_edge="E_J227_J258" impacted_length="98.5" />
+		<element id="E_J227_J258.100" type="s" length="26.96" dedicated_flag="0" stop_id="705S03" />
+		<element id="E_J227_J258.130" type="i" length="257.93" dedicated_flag="0" tl="J258" phase_time="35" cycle_time="90" from_lane="E_J227_J258.130_1" dir="s" />
+		<element id="E_J258_J269" type="w" length="118.50" dedicated_flag="0" impacted_edge="E_J258_J269" impacted_length="118.5" />
+		<element id="E_J258_J269.120" type="s" length="27.00" dedicated_flag="0" stop_id="705S04" />
+		<element id="E_J258_J269.150" type="w" length="74.35" dedicated_flag="0" impacted_edge="E_J269_J290" impacted_length="307.57" />
+		<element id="E_J269_J290" type="i" length="233.22" dedicated_flag="0" tl="J290" phase_time="50" cycle_time="90" from_lane="E_J269_J290_2" dir="l" />
+		<element id="E_J290_J292" type="w" length="298.80" dedicated_flag="0" impacted_edge="E_J290_J292" impacted_length="298.8" />
+		<element id="E_J290_J292.300" type="s" length="27.01" dedicated_flag="0" stop_id="705S05" />
+		<element id="E_J290_J292.330" type="w" length="167.67" dedicated_flag="0" impacted_edge="E_J290_J292.330" impacted_length="167.67" />
+		<element id="E_J290_J292.500" type="s" length="27.01" dedicated_flag="0" stop_id="705S06" />
+		<element id="E_J290_J292.530" type="w" length="122.39" dedicated_flag="0" impacted_edge="E_J292_J277" impacted_length="447.81" />
+		<element id="E_J292_J277" type="i" length="325.42" dedicated_flag="0" tl="J277" phase_time="40" cycle_time="90" from_lane="E_J292_J277_0" dir="r" />
+		<element id="E_J277_J308" type="w" length="117.41" dedicated_flag="0" impacted_edge="E_J277_J308" impacted_length="117.41" />
+		<element id="E_J277_J308.120" type="s" length="27.00" dedicated_flag="0" stop_id="705S07" />
+		<element id="E_J277_J308.150" type="i" length="197.67" dedicated_flag="0" tl="J308" phase_time="50" cycle_time="90" from_lane="E_J277_J308.150_1" dir="l" />
+		<element id="E_J308_J305" type="w" length="317.12" dedicated_flag="0" impacted_edge="E_J308_J305" impacted_length="317.12" />
+		<element id="E_J308_J305.320" type="s" length="27.00" dedicated_flag="0" stop_id="705S08" />
+		<element id="E_J308_J305.350" type="w" length="146.20" dedicated_flag="0" impacted_edge="E_J305_J306" impacted_length="169.97" />
+		<element id="E_J305_J306" type="i" length="23.77" dedicated_flag="0" tl="J306" phase_time="40" cycle_time="90" from_lane="E_J305_J306_0" dir="s" />
+		<element id="E_J306_J307" type="w" length="146.00" dedicated_flag="0" impacted_edge="E_J306_J307" impacted_length="146.0" />
+		<element id="E_J306_J307.150" type="s" length="22.00" dedicated_flag="0" stop_id="705S09" />
+		<element id="E_J306_J307.180" type="i" length="40.63" dedicated_flag="0" tl="J307" phase_time="50" cycle_time="90" from_lane="E_J306_J307.180_1" dir="l" />
+		<element id="E_J307_J273" type="w" length="158.50" dedicated_flag="0" impacted_edge="E_J307_J273" impacted_length="158.5" />
+		<element id="E_J307_J273.160" type="s" length="27.00" dedicated_flag="0" stop_id="705S10" />
+		<element id="E_J307_J273.190" type="i" length="232.41" dedicated_flag="0" tl="J273" phase_time="40" cycle_time="90" from_lane="E_J307_J273.190_0" dir="r" />
+		<element id="E_J273_J270" type="w" length="118.53" dedicated_flag="0" impacted_edge="E_J273_J270" impacted_length="118.53" />
+		<element id="E_J273_J270.120" type="s" length="27.00" dedicated_flag="0" stop_id="705S11" />
+		<element id="E_J273_J270.150" type="i" length="75.10" dedicated_flag="0" tl="J270" phase_time="45" cycle_time="90" from_lane="E_J273_J270.150_0" dir="s" />
+		<element id="E_J270_J268" type="w" length="178.73" dedicated_flag="0" impacted_edge="E_J270_J268" impacted_length="178.73" />
+		<element id="E_J270_J268.210" type="s" length="28.90" dedicated_flag="0" stop_id="705S12" />
+		<element id="E_J270_J268.270" type="i" length="213.37" dedicated_flag="0" tl="J268" phase_time="40" cycle_time="90" from_lane="E_J270_J268.270_0" dir="s" />
+		<element id="E_J268_J267" type="w" length="150.00" dedicated_flag="0" impacted_edge="E_J268_J267" impacted_length="150.0" />
+		<element id="E_J268_J267.180" type="s" length="30.00" dedicated_flag="0" stop_id="705S13" />
+		<element id="E_J268_J267.240" type="i" length="101.93" dedicated_flag="0" tl="J267" phase_time="40" cycle_time="90" from_lane="E_J268_J267.240_0" dir="r" />
+		<element id="E_J267_J280" type="w" length="210.08" dedicated_flag="0" impacted_edge="E_J280_J309" impacted_length="226.08" />
+		<element id="E_J280_J309" type="w" length="16.00" dedicated_flag="0" impacted_edge="E_J280_J309" impacted_length="16.0" />
+		<element id="E_J280_J309.20" type="s" length="22.00" dedicated_flag="0" stop_id="705S14" />
+		<element id="E_J280_J309.50" type="i" length="358.89" dedicated_flag="0" tl="J309" phase_time="39" cycle_time="90" from_lane="E_J280_J309.50_1" dir="l" />
+		<element id="E_J309_J300" type="w" length="100.64" dedicated_flag="0" impacted_edge="E_J309_J300" impacted_length="100.64" />
+		<element id="E_J309_J300.130" type="s" length="30.01" dedicated_flag="0" stop_id="705S15" />
+		<element id="E_J309_J300.190" type="i" length="82.67" dedicated_flag="0" tl="J300" phase_time="35" cycle_time="90" from_lane="E_J309_J300.190_0" dir="r" />
+		<element id="E_J300_J319" type="w" length="90.00" dedicated_flag="0" impacted_edge="E_J300_J319" impacted_length="90.0" />
+		<element id="E_J300_J319.120" type="s" length="30.00" dedicated_flag="0" stop_id="705S16" />
+		<element id="E_J300_J319.180" type="w" length="186.21" dedicated_flag="0" impacted_edge="E_J319_J354" impacted_length="384.84000000000003" />
+		<element id="E_J319_J354" type="w" length="198.63" dedicated_flag="0" impacted_edge="E_J319_J354" impacted_length="198.63" />
+		<element id="E_J319_J354.200" type="s" length="27.00" dedicated_flag="0" stop_id="705S17" />
+		<element id="E_J319_J354.230" type="i" length="199.13" dedicated_flag="0" tl="J354" phase_time="44" cycle_time="90" from_lane="E_J319_J354.230_2" dir="l" />
+		<element id="E_J354_J328" type="w" length="142.05" dedicated_flag="0" impacted_edge="E_J354_J328" impacted_length="142.05" />
+		<element id="E_J354_J328.170" type="s" length="30.00" dedicated_flag="0" stop_id="7S11_102S11_705S18" />
+		<element id="E_J354_J328.230" type="w" length="260.00" dedicated_flag="0" impacted_edge="E_J354_J328.230" impacted_length="260.0" />
+		<element id="E_J354_J328.520" type="s" length="30.00" dedicated_flag="0" stop_id="7S12_102S12_705S19" />
+		<element id="E_J354_J328.580" type="i" length="350.80" dedicated_flag="0" tl="J328" phase_time="40" cycle_time="90" from_lane="E_J354_J328.580_1" dir="s" />
+		<element id="E_J328_J313" type="w" length="120.96" dedicated_flag="0" impacted_edge="E_J328_J313" impacted_length="120.96" />
+		<element id="E_J328_J313.150" type="s" length="29.99" dedicated_flag="0" stop_id="7S13_102S13_705S20" />
+		<element id="E_J328_J313.210" type="w" length="114.37" dedicated_flag="0" impacted_edge="E_J313_J282" impacted_length="282.72" />
+		<element id="E_J313_J282" type="w" length="168.35" dedicated_flag="0" impacted_edge="E_J313_J282" impacted_length="168.35" />
+		<element id="E_J313_J282.200" type="s" length="30.00" dedicated_flag="0" stop_id="7S14_102S14_705S21" />
+		<element id="E_J313_J282.260" type="w" length="634.79" dedicated_flag="0" impacted_edge="E_J313_J282.260" impacted_length="634.79" />
+		<element id="E_J313_J282.900" type="s" length="25.98" dedicated_flag="0" stop_id="7S15_102S15_705S22" />
+		<element id="E_J313_J282.930" type="w" length="20.87" dedicated_flag="0" impacted_edge="E_J282_J279" impacted_length="151.17000000000002" />
+		<element id="E_J282_J279" type="i" length="130.30" dedicated_flag="0" tl="J279" phase_time="36" cycle_time="90" from_lane="E_J282_J279_1" dir="s" />
+		<element id="E_J279_J285" type="w" length="418.45" dedicated_flag="0" impacted_edge="E_J279_J285" impacted_length="418.45" />
+		<element id="E_J279_J285.450" type="s" length="29.82" dedicated_flag="0" stop_id="7S16_102S16_705S23" />
+		<element id="E_J279_J285.510" type="i" length="348.31" dedicated_flag="0" tl="J285" phase_time="41" cycle_time="90" from_lane="E_J279_J285.510_1" dir="s" />
+		<element id="E_J285_J286" type="w" length="44.34" dedicated_flag="0" impacted_edge="E_J286_J281" impacted_length="252.04" />
+		<element id="E_J286_J281" type="w" length="207.70" dedicated_flag="0" impacted_edge="E_J286_J281" impacted_length="207.7" />
+		<element id="E_J286_J281.240" type="s" length="29.99" dedicated_flag="0" stop_id="7S17_102S17_705S24" />
+		<element id="E_J286_J281.300" type="w" length="250.00" dedicated_flag="0" impacted_edge="E_J286_J281.300" impacted_length="250.0" />
+		<element id="E_J286_J281.580" type="s" length="30.80" dedicated_flag="0" stop_id="7S18_102S18_705S25" />
+		<element id="E_J286_J281.640" type="i" length="77.86" dedicated_flag="0" tl="J281" phase_time="36" cycle_time="90" from_lane="E_J286_J281.640_1" dir="s" />
+		<element id="E_J281_J278" type="w" length="266.64" dedicated_flag="0" impacted_edge="E_J281_J278" impacted_length="266.64" />
+		<element id="E_J281_J278.270" type="s" length="27.00" dedicated_flag="0" stop_id="7S19_102S19_705S26" />
+		<element id="E_J281_J278.300" type="w" length="129.43" dedicated_flag="0" impacted_edge="E_J278_J289" impacted_length="419.81" />
+		<element id="E_J278_J289" type="i" length="290.38" dedicated_flag="0" tl="J289" phase_time="90" cycle_time="90" from_lane="E_J278_J289_0" dir="r" />
+		<element id="E_J289_J338" type="w" length="298.50" dedicated_flag="0" impacted_edge="E_J289_J338" impacted_length="298.5" />
+		<element id="E_J289_J338.300" type="s" length="27.00" dedicated_flag="0" stop_id="705S27" />
+		<element id="E_J289_J338.330" type="w" length="463.20" dedicated_flag="0" impacted_edge="E_J289_J338.330" impacted_length="463.2" />
+		<element id="E_J289_J338.800" type="s" length="27.00" dedicated_flag="0" stop_id="705S28" />
+		<element id="E_J289_J338.830" type="i" length="140.00" dedicated_flag="0" tl="J338" phase_time="48" cycle_time="90" from_lane="E_J289_J338.830_2" dir="l" />
+		<element id="E_J338_J335" type="w" length="38.50" dedicated_flag="0" impacted_edge="E_J338_J335" impacted_length="38.5" />
+		<element id="E_J338_J335.40" type="s" length="28.03" dedicated_flag="0" stop_id="705S29" />
+		<element id="E_J338_J335.70" type="w" length="196.32" dedicated_flag="0" impacted_edge="E_J338_J335.70" impacted_length="196.32" />
+		<element id="E_J338_J335.270" type="s" length="27.00" dedicated_flag="0" stop_id="705S30" />
+		<element id="E_J338_J335.300" type="w" length="229.34" dedicated_flag="0" impacted_edge="E_J335_J318" impacted_length="348.21000000000004" />
+		<element id="E_J335_J318" type="w" length="118.87" dedicated_flag="0" impacted_edge="E_J335_J318" impacted_length="118.87" />
+		<element id="E_J335_J318.120" type="s" length="27.01" dedicated_flag="0" stop_id="705S31" />
+		<element id="E_J335_J318.150" type="i" length="73.59" dedicated_flag="0" tl="J318" phase_time="36" cycle_time="90" from_lane="E_J335_J318.150_0" dir="r" />
+		<element id="E_J318_J345" type="w" length="178.97" dedicated_flag="0" impacted_edge="E_J345_J370" impacted_length="517.47" />
+		<element id="E_J345_J370" type="w" length="338.50" dedicated_flag="0" impacted_edge="E_J345_J370" impacted_length="338.5" />
+		<element id="E_J345_J370.340" type="s" length="27.00" dedicated_flag="0" stop_id="705S32" />
+		<element id="E_J345_J370.370" type="w" length="19.24" dedicated_flag="0" impacted_edge="E_J370_J385" impacted_length="245.92000000000002" />
+		<element id="E_J370_J385" type="i" length="226.68" dedicated_flag="0" tl="J385" phase_time="36" cycle_time="90" from_lane="E_J370_J385_1" dir="s" />
+		<element id="E_J385_J422" type="i" length="632.44" dedicated_flag="0" tl="J422" phase_time="45" cycle_time="90" from_lane="E_J385_J422_2" dir="l" />
+		<element id="E_J422_J424" type="w" length="333.10" dedicated_flag="0" impacted_edge="E_J424_J426" impacted_length="781.27" />
+		<element id="E_J424_J426" type="w" length="448.17" dedicated_flag="0" impacted_edge="E_J424_J426" impacted_length="448.17" />
+		<element id="E_J424_J426.450" type="s" length="27.00" dedicated_flag="0" stop_id="705S33" />
+		<element id="E_J424_J426.480" type="w" length="188.50" dedicated_flag="0" impacted_edge="E_J424_J426.480" impacted_length="188.5" />
+		<element id="E_J424_J426.700" type="s" length="30.00" dedicated_flag="0" stop_id="705S34" />
+		<element id="E_J424_J426.760" type="w" length="110.00" dedicated_flag="0" impacted_edge="E_J424_J426.760" impacted_length="110.0" />
+		<element id="E_J424_J426.900" type="s" length="30.00" dedicated_flag="0" stop_id="705S35" />
+		<element id="E_J424_J426.960" type="w" length="32.70" dedicated_flag="0" impacted_edge="E_J426_J428" impacted_length="295.65" />
+		<element id="E_J426_J428" type="i" length="262.95" dedicated_flag="0" tl="J428" phase_time="36" cycle_time="90" from_lane="E_J426_J428_0" dir="r" />
+		<element id="E_J428_J447" type="w" length="98.50" dedicated_flag="0" impacted_edge="E_J428_J447" impacted_length="98.5" />
+		<element id="E_J428_J447.100" type="s" length="27.00" dedicated_flag="0" stop_id="122S24_705S36" />
+		<element id="E_J428_J447.130" type="w" length="166.85" dedicated_flag="0" impacted_edge="E_J447_J473" impacted_length="556.09" />
+		<element id="E_J447_J473" type="i" length="389.24" dedicated_flag="0" tl="J473" phase_time="45" cycle_time="90" from_lane="E_J447_J473_2" dir="l" />
+		<element id="E_J473_J475" type="w" length="298.50" dedicated_flag="0" impacted_edge="E_J473_J475" impacted_length="298.5" />
+		<element id="E_J473_J475.300" type="s" length="27.00" dedicated_flag="0" stop_id="705S37" />
+		<element id="E_J473_J475.330" type="w" length="167.01" dedicated_flag="0" impacted_edge="E_J473_J475.330" impacted_length="167.01" />
+		<element id="E_J473_J475.500" type="s" length="26.99" dedicated_flag="0" stop_id="705S38" />
+		<element id="E_J473_J475.530" type="i" length="235.52" dedicated_flag="0" tl="J475" phase_time="41" cycle_time="90" from_lane="E_J473_J475.530_1" dir="s" />
+		<element id="E_J475_J476" type="w" length="137.99" dedicated_flag="0" impacted_edge="E_J475_J476" impacted_length="137.99" />
+		<element id="E_J475_J476.140" type="s" length="27.00" dedicated_flag="0" stop_id="705S39" />
+		<element id="E_J475_J476.170" type="w" length="158.56" dedicated_flag="0" impacted_edge="E_J476_J474" impacted_length="217.06" />
+		<element id="E_J476_J474" type="w" length="58.50" dedicated_flag="0" impacted_edge="E_J476_J474" impacted_length="58.5" />
+		<element id="E_J476_J474.60" type="s" length="27.00" dedicated_flag="0" stop_id="705S40" />
+		<element id="E_J476_J474.90" type="i" length="167.82" dedicated_flag="0" tl="J474" phase_time="36" cycle_time="90" from_lane="E_J476_J474.90_1" dir="s" />
+		<element id="E_J474_J477" type="w" length="148.50" dedicated_flag="0" impacted_edge="E_J474_J477" impacted_length="148.5" />
+		<element id="E_J474_J477.150" type="s" length="27.00" dedicated_flag="0" stop_id="705S41" />
+		<element id="E_J474_J477.180" type="i" length="88.97" dedicated_flag="0" tl="J477" phase_time="50" cycle_time="90" from_lane="E_J474_J477.180_2" dir="l" />
+		<element id="E_J477_J465" type="w" length="91.50" dedicated_flag="0" impacted_edge="E_J465_J454" impacted_length="140.0" />
+		<element id="E_J465_J454" type="w" length="48.50" dedicated_flag="0" impacted_edge="E_J465_J454" impacted_length="48.5" />
+		<element id="E_J465_J454.50" type="s" length="27.00" dedicated_flag="0" stop_id="705S42" />
+		<element id="E_J465_J454.80" type="i" length="16.03" dedicated_flag="0" tl="J454" phase_time="41" cycle_time="90" from_lane="E_J465_J454.80_0" dir="r" />
+		<element id="E_J454_J455" type="i" length="218.01" dedicated_flag="0" tl="J455" phase_time="45" cycle_time="90" from_lane="E_J454_J455_0" dir="s" />
+		<element id="E_J455_J456" type="w" length="127.07" dedicated_flag="0" impacted_edge="E_J456_J457" impacted_length="145.57" />
+		<element id="E_J456_J457" type="w" length="18.50" dedicated_flag="0" impacted_edge="E_J456_J457" impacted_length="18.5" />
+		<element id="E_J456_J457.20" type="s" length="27.00" dedicated_flag="0" stop_id="705S43" />
+		<element id="E_J456_J457.50" type="i" length="29.30" dedicated_flag="0" tl="J457" phase_time="41" cycle_time="90" from_lane="E_J456_J457.50_0" dir="s" />
+		<element id="E_J457_J458" type="w" length="265.65" dedicated_flag="0" impacted_edge="E_J458_J459" impacted_length="324.15" />
+		<element id="E_J458_J459" type="w" length="58.50" dedicated_flag="0" impacted_edge="E_J458_J459" impacted_length="58.5" />
+		<element id="E_J458_J459.60" type="s" length="27.00" dedicated_flag="0" stop_id="705S44" />
+		<element id="E_J458_J459.90" type="i" length="81.40" dedicated_flag="0" tl="J459" phase_time="40" cycle_time="90" from_lane="E_J458_J459.90_0" dir="s" />
+		<element id="E_J459_J460" type="w" length="198.01" dedicated_flag="0" impacted_edge="E_J459_J460" impacted_length="198.01" />
+		<element id="E_J459_J460.200" type="s" length="27.00" dedicated_flag="0" stop_id="705S45" />
+		<element id="E_J459_J460.230" type="w" length="34.66" dedicated_flag="0" impacted_edge="E_J460_J461" impacted_length="163.65" />
+		<element id="E_J460_J461" type="i" length="128.99" dedicated_flag="0" tl="J461" phase_time="40" cycle_time="90" from_lane="E_J460_J461_1" dir="l" />
+		<element id="E_J461_J435" type="w" length="48.00" dedicated_flag="0" impacted_edge="E_J461_J435" impacted_length="48.0" />
+		<element id="E_J461_J435.50" type="s" length="27.00" dedicated_flag="0" stop_id="705S46" />
+		<element id="E_J461_J435.80" type="i" length="316.46" dedicated_flag="0" tl="J435" phase_time="40" cycle_time="90" from_lane="E_J461_J435.80_0" dir="r" />
+		<element id="E_J435_J433" type="w" length="48.50" dedicated_flag="0" impacted_edge="E_J435_J433" impacted_length="48.5" />
+		<element id="E_J435_J433.50" type="s" length="27.00" dedicated_flag="0" stop_id="705S47" />
+		<element id="E_J435_J433.80" type="i" length="426.01" dedicated_flag="0" />
+		</busline>
+	<busline id="102X">
+		<element id="E_J100_J73" type="w" length="98.17" dedicated_flag="0" impacted_edge="E_J100_J73" impacted_length="98.17" />
+		<element id="E_J100_J73.100" type="s" length="27.00" dedicated_flag="0" stop_id="102X01_102S40" />
+		<element id="E_J100_J73.130" type="i" length="298.93" dedicated_flag="0" tl="J73" phase_time="45" cycle_time="90" from_lane="E_J100_J73.130_2" dir="l" />
+		<element id="E_J73_J74" type="w" length="47.52" dedicated_flag="0" impacted_edge="E_J73_J74" impacted_length="47.52" />
+		<element id="E_J73_J74.80" type="s" length="30.00" dedicated_flag="0" stop_id="102X02" />
+		<element id="E_J73_J74.140" type="w" length="127.23" dedicated_flag="0" impacted_edge="E_J74_J78" impacted_length="325.73" />
+		<element id="E_J74_J78" type="w" length="198.50" dedicated_flag="0" impacted_edge="E_J74_J78" impacted_length="198.5" />
+		<element id="E_J74_J78.200" type="s" length="27.01" dedicated_flag="0" stop_id="102X03" />
+		<element id="E_J74_J78.230" type="i" length="185.37" dedicated_flag="0" tl="J78" phase_time="36" cycle_time="90" from_lane="E_J74_J78.230_1" dir="s" />
+		<element id="E_J78_J80" type="w" length="216.64" dedicated_flag="0" impacted_edge="E_J78_J80" impacted_length="216.64" />
+		<element id="E_J78_J80.230" type="s" length="27.00" dedicated_flag="0" stop_id="102X04" />
+		<element id="E_J78_J80.260" type="i" length="222.12" dedicated_flag="0" tl="J80" phase_time="35" cycle_time="90" from_lane="E_J78_J80.260_1" dir="s" />
+		<element id="E_J80_J84" type="w" length="198.50" dedicated_flag="0" impacted_edge="E_J80_J84" impacted_length="198.5" />
+		<element id="E_J80_J84.200" type="s" length="27.00" dedicated_flag="0" stop_id="102X05" />
+		<element id="E_J80_J84.230" type="w" length="120.38" dedicated_flag="0" impacted_edge="E_J84_J89" impacted_length="218.88" />
+		<element id="E_J84_J89" type="w" length="98.50" dedicated_flag="0" impacted_edge="E_J84_J89" impacted_length="98.5" />
+		<element id="E_J84_J89.100" type="s" length="27.00" dedicated_flag="0" stop_id="102X06" />
+		<element id="E_J84_J89.130" type="i" length="182.12" dedicated_flag="0" tl="J89" phase_time="41" cycle_time="90" from_lane="E_J84_J89.130_0" dir="r" />
+		<element id="E_J89_J48" type="w" length="48.50" dedicated_flag="0" impacted_edge="E_J89_J48" impacted_length="48.5" />
+		<element id="E_J89_J48.50" type="s" length="27.00" dedicated_flag="0" stop_id="102X07" />
+		<element id="E_J89_J48.80" type="w" length="734.38" dedicated_flag="0" impacted_edge="E_J48_J37" impacted_length="901.97" />
+		<element id="E_J48_J37" type="i" length="167.59" dedicated_flag="0" tl="J37" phase_time="50" cycle_time="90" from_lane="E_J48_J37_1" dir="l" />
+		<element id="E_J37_J38" type="w" length="116.15" dedicated_flag="0" impacted_edge="E_J37_J38" impacted_length="116.15" />
+		<element id="E_J37_J38.120" type="s" length="27.08" dedicated_flag="0" stop_id="102X08" />
+		<element id="E_J37_J38.150" type="w" length="247.73" dedicated_flag="0" impacted_edge="E_J37_J38.150" impacted_length="247.73" />
+		<element id="E_J37_J38.400" type="s" length="25.83" dedicated_flag="0" stop_id="102X09" />
+		<element id="E_J37_J38.430" type="i" length="186.59" dedicated_flag="0" tl="J38" phase_time="40" cycle_time="90" from_lane="E_J37_J38.430_1" dir="l" />
+		<element id="E_J38_J106" type="w" length="198.50" dedicated_flag="0" impacted_edge="E_J38_J106" impacted_length="198.5" />
+		<element id="E_J38_J106.200" type="s" length="26.99" dedicated_flag="0" stop_id="102X10" />
+		<element id="E_J38_J106.230" type="i" length="1254.66" dedicated_flag="0" tl="J106" phase_time="35" cycle_time="90" from_lane="E_J38_J106.230_1" dir="s" />
+		<element id="E_J106_J138" type="i" length="1290.71" dedicated_flag="0" tl="J138" phase_time="36" cycle_time="90" from_lane="E_J106_J138_1" dir="s" />
+		<element id="E_J138_J162" type="i" length="429.65" dedicated_flag="0" tl="J162" phase_time="35" cycle_time="90" from_lane="E_J138_J162_1" dir="s" />
+		<element id="E_J162_J206" type="w" length="505.67" dedicated_flag="0" impacted_edge="E_J206_J228" impacted_length="604.1700000000001" />
+		<element id="E_J206_J228" type="w" length="98.50" dedicated_flag="0" impacted_edge="E_J206_J228" impacted_length="98.5" />
+		<element id="E_J206_J228.100" type="s" length="27.62" dedicated_flag="0" stop_id="102X11" />
+		<element id="E_J206_J228.130" type="i" length="301.51" dedicated_flag="0" tl="J228" phase_time="90" cycle_time="90" from_lane="E_J206_J228.130_0" dir="r" />
+		<element id="E_J228_J223" type="w" length="219.72" dedicated_flag="0" impacted_edge="E_J228_J223" impacted_length="219.72" />
+		<element id="E_J228_J223.250" type="s" length="29.99" dedicated_flag="0" stop_id="102X12" />
+		<element id="E_J228_J223.310" type="i" length="256.66" dedicated_flag="0" tl="J223" phase_time="36" cycle_time="90" from_lane="E_J228_J223.310_1" dir="s" />
+		<element id="E_J223_J232" type="w" length="30.00" dedicated_flag="0" impacted_edge="E_J223_J232" impacted_length="30.0" />
+		<element id="E_J223_J232.60" type="s" length="30.00" dedicated_flag="0" stop_id="102X13" />
+		<element id="E_J223_J232.120" type="i" length="207.13" dedicated_flag="0" tl="J232" phase_time="35" cycle_time="90" from_lane="E_J223_J232.120_1" dir="s" />
+		<element id="E_J232_J244" type="w" length="317.57" dedicated_flag="0" impacted_edge="E_J232_J244" impacted_length="317.57" />
+		<element id="E_J232_J244.350" type="s" length="30.01" dedicated_flag="0" stop_id="102X14" />
+		<element id="E_J232_J244.410" type="i" length="24.30" dedicated_flag="0" tl="J244" phase_time="40" cycle_time="90" from_lane="E_J232_J244.410_1" dir="s" />
+		<element id="E_J244_J241" type="w" length="136.24" dedicated_flag="0" impacted_edge="E_J244_J241" impacted_length="136.24" />
+		<element id="E_J244_J241.170" type="s" length="30.00" dedicated_flag="0" stop_id="102X15" />
+		<element id="E_J244_J241.230" type="i" length="279.71" dedicated_flag="0" tl="J241" phase_time="44" cycle_time="90" from_lane="E_J244_J241.230_3" dir="l" />
+		<element id="E_J241_J272" type="w" length="70.76" dedicated_flag="0" impacted_edge="E_J241_J272" impacted_length="70.76" />
+		<element id="E_J241_J272.100" type="s" length="30.00" dedicated_flag="0" stop_id="102X16_122S18_311S24_406X16" />
+		<element id="E_J241_J272.160" type="w" length="138.59" dedicated_flag="0" impacted_edge="E_J241_J272.160" impacted_length="138.59" />
+		<element id="E_J241_J272.300" type="s" length="27.00" dedicated_flag="0" stop_id="102X17_122S19_311S25_406X17" />
+		<element id="E_J241_J272.330" type="w" length="246.36" dedicated_flag="0" impacted_edge="E_J272_J303" impacted_length="656.12" />
+		<element id="E_J272_J303" type="i" length="409.76" dedicated_flag="0" tl="J303" phase_time="35" cycle_time="90" from_lane="E_J272_J303_0" dir="r" />
+		<element id="E_J303_J302" type="w" length="142.92" dedicated_flag="0" impacted_edge="E_J303_J302" impacted_length="142.92" />
+		<element id="E_J303_J302.150" type="s" length="22.00" dedicated_flag="0" stop_id="7X05_102X18" />
+		<element id="E_J303_J302.180" type="w" length="34.05" dedicated_flag="0" impacted_edge="E_J302_J299" impacted_length="428.29" />
+		<element id="E_J302_J299" type="i" length="394.24" dedicated_flag="0" tl="J299" phase_time="35" cycle_time="90" from_lane="E_J302_J299_1" dir="s" />
+		<element id="E_J299_J296" type="w" length="99.50" dedicated_flag="0" impacted_edge="E_J299_J296" impacted_length="99.5" />
+		<element id="E_J299_J296.100" type="s" length="27.00" dedicated_flag="0" stop_id="7X06_102X19" />
+		<element id="E_J299_J296.130" type="w" length="267.00" dedicated_flag="0" impacted_edge="E_J299_J296.130" impacted_length="267.0" />
+		<element id="E_J299_J296.400" type="s" length="27.00" dedicated_flag="0" stop_id="7X07_102X20" />
+		<element id="E_J299_J296.430" type="w" length="41.67" dedicated_flag="0" impacted_edge="E_J296_J289" impacted_length="369.03000000000003" />
+		<element id="E_J296_J289" type="w" length="327.36" dedicated_flag="0" impacted_edge="E_J296_J289" impacted_length="327.36" />
+		<element id="E_J296_J289.330" type="s" length="26.08" dedicated_flag="0" stop_id="7X08_102X21" />
+		<element id="E_J296_J289.360" type="i" length="303.89" dedicated_flag="0" tl="J289" phase_time="35" cycle_time="90" from_lane="E_J296_J289.360_1" dir="s" />
+		<element id="E_J289_J278" type="w" length="297.32" dedicated_flag="0" impacted_edge="E_J278_J281" impacted_length="466.13" />
+		<element id="E_J278_J281" type="w" length="168.81" dedicated_flag="0" impacted_edge="E_J278_J281" impacted_length="168.81" />
+		<element id="E_J278_J281.170" type="s" length="27.00" dedicated_flag="0" stop_id="7X09" />
+		<element id="E_J278_J281.200" type="w" length="17.00" dedicated_flag="0" impacted_edge="E_J278_J281.200" impacted_length="17.0" />
+		<element id="E_J278_J281.220" type="s" length="27.23" dedicated_flag="0" stop_id="102X22_705X23" />
+		<element id="E_J278_J281.250" type="i" length="178.41" dedicated_flag="0" tl="J281" phase_time="36" cycle_time="90" from_lane="E_J278_J281.250_1" dir="s" />
+		<element id="E_J281_J283" type="w" length="118.63" dedicated_flag="0" impacted_edge="E_J281_J283" impacted_length="118.63" />
+		<element id="E_J281_J283.150" type="s" length="30.00" dedicated_flag="0" stop_id="7X10_102X23_705X24" />
+		<element id="E_J281_J283.210" type="w" length="268.62" dedicated_flag="0" impacted_edge="E_J281_J283.210" impacted_length="268.62" />
+		<element id="E_J281_J283.480" type="s" length="27.00" dedicated_flag="0" stop_id="7X11" />
+		<element id="E_J281_J283.510" type="w" length="38.50" dedicated_flag="0" impacted_edge="E_J281_J283.510" impacted_length="38.5" />
+		<element id="E_J281_J283.580" type="s" length="30.77" dedicated_flag="0" stop_id="102X24_705X25" />
+		<element id="E_J281_J283.640" type="w" length="77.72" dedicated_flag="0" impacted_edge="E_J283_J285" impacted_length="121.05" />
+		<element id="E_J283_J285" type="i" length="43.33" dedicated_flag="0" tl="J285" phase_time="41" cycle_time="90" from_lane="E_J283_J285_1" dir="s" />
+		<element id="E_J285_J279" type="w" length="369.84" dedicated_flag="0" impacted_edge="E_J285_J279" impacted_length="369.84" />
+		<element id="E_J285_J279.400" type="s" length="30.05" dedicated_flag="0" stop_id="7X12_102X25_705X26" />
+		<element id="E_J285_J279.460" type="i" length="397.32" dedicated_flag="0" tl="J279" phase_time="36" cycle_time="90" from_lane="E_J285_J279.460_1" dir="s" />
+		<element id="E_J279_J282" type="w" length="130.45" dedicated_flag="0" impacted_edge="E_J282_J328" impacted_length="143.07" />
+		<element id="E_J282_J328" type="w" length="12.62" dedicated_flag="0" impacted_edge="E_J282_J328" impacted_length="12.62" />
+		<element id="E_J282_J328.20" type="s" length="27.01" dedicated_flag="0" stop_id="7X13_102X26_705X27" />
+		<element id="E_J282_J328.50" type="w" length="723.30" dedicated_flag="0" impacted_edge="E_J282_J328.50" impacted_length="723.3" />
+		<element id="E_J282_J328.800" type="s" length="30.00" dedicated_flag="0" stop_id="7X14_102X27_705X28" />
+		<element id="E_J282_J328.860" type="w" length="208.28" dedicated_flag="0" impacted_edge="E_J282_J328.860" impacted_length="208.28" />
+		<element id="E_J282_J328.1100" type="s" length="29.30" dedicated_flag="0" stop_id="7X15_102X28_705X29" />
+		<element id="E_J282_J328.1160" type="i" length="146.47" dedicated_flag="0" tl="J328" phase_time="89" cycle_time="90" from_lane="E_J282_J328.1160_0" dir="s" />
+		<element id="E_J328_J354" type="w" length="438.73" dedicated_flag="0" impacted_edge="E_J328_J354" impacted_length="438.73" />
+		<element id="E_J328_J354.440" type="s" length="27.00" dedicated_flag="0" stop_id="7X16_102X29_705X30" />
+		<element id="E_J328_J354.470" type="w" length="98.50" dedicated_flag="0" impacted_edge="E_J328_J354.470" impacted_length="98.5" />
+		<element id="E_J328_J354.600" type="s" length="30.00" dedicated_flag="0" stop_id="7X17_102X30_705X31" />
+		<element id="E_J328_J354.660" type="i" length="267.56" dedicated_flag="0" tl="J354" phase_time="35" cycle_time="90" from_lane="E_J328_J354.660_1" dir="s" />
+		<element id="E_J354_J355" type="w" length="96.28" dedicated_flag="0" impacted_edge="E_J354_J355" impacted_length="96.28" />
+		<element id="E_J354_J355.100" type="s" length="26.99" dedicated_flag="0" stop_id="7X18_102X31_705X32" />
+		<element id="E_J354_J355.130" type="w" length="48.40" dedicated_flag="0" impacted_edge="E_J367_J376" impacted_length="411.71000000000004" />
+		<element id="E_J354_J355.130.49" type="w" length="30.52" dedicated_flag="0" impacted_edge="E_J367_J376" impacted_length="363.31" />
+		<element id="E_J355_J358" type="w" length="50.55" dedicated_flag="0" impacted_edge="E_J367_J376" impacted_length="332.79" />
+		<element id="E_J358_J367" type="w" length="114.12" dedicated_flag="0" impacted_edge="E_J367_J376" impacted_length="282.24" />
+		<element id="E_J367_J376" type="w" length="168.12" dedicated_flag="0" impacted_edge="E_J367_J376" impacted_length="168.12" />
+		<element id="E_J367_J376.170" type="s" length="25.52" dedicated_flag="0" stop_id="7X19_102X32" />
+		<element id="E_J367_J376.200" type="w" length="148.93" dedicated_flag="0" impacted_edge="E_J383_J417" impacted_length="515.8900000000001" />
+		<element id="E_J376_J378" type="w" length="32.21" dedicated_flag="0" impacted_edge="E_J383_J417" impacted_length="366.96000000000004" />
+		<element id="E_J378_J380" type="w" length="146.56" dedicated_flag="0" impacted_edge="E_J383_J417" impacted_length="334.75" />
+		<element id="E_J380_J383" type="w" length="38.88" dedicated_flag="0" impacted_edge="E_J383_J417" impacted_length="188.19" />
+		<element id="E_J383_J417" type="w" length="149.31" dedicated_flag="0" impacted_edge="E_J383_J417" impacted_length="149.31" />
+		<element id="E_J383_J417.150" type="s" length="27.00" dedicated_flag="0" stop_id="7X20_102X33" />
+		<element id="E_J383_J417.180" type="w" length="488.50" dedicated_flag="0" impacted_edge="E_J383_J417.180" impacted_length="488.5" />
+		<element id="E_J383_J417.700" type="s" length="30.00" dedicated_flag="0" stop_id="7X21_102X34" />
+		<element id="E_J383_J417.760" type="i" length="396.89" dedicated_flag="0" tl="J417" phase_time="35" cycle_time="90" from_lane="E_J383_J417.760_1" dir="s" />
+		<element id="E_J417_J423" type="w" length="275.66" dedicated_flag="0" impacted_edge="E_J417_J423" impacted_length="275.66" />
+		<element id="E_J417_J423.280" type="s" length="27.00" dedicated_flag="0" stop_id="7X22_102X35" />
+		<element id="E_J417_J423.310" type="i" length="86.06" dedicated_flag="0" tl="J423" phase_time="40" cycle_time="90" from_lane="E_J417_J423.310_1" dir="s" />
+		<element id="E_J423_J409" type="w" length="118.01" dedicated_flag="0" impacted_edge="E_J423_J409" impacted_length="118.01" />
+		<element id="E_J423_J409.120" type="s" length="27.00" dedicated_flag="0" stop_id="7X23_102X36" />
+		<element id="E_J423_J409.150" type="w" length="364.94" dedicated_flag="0" impacted_edge="E_J423_J409.150" impacted_length="364.94" />
+		<element id="E_J423_J409.520" type="s" length="27.01" dedicated_flag="0" stop_id="7X24_102X37" />
+		<element id="E_J423_J409.550" type="i" length="168.75" dedicated_flag="0" tl="J409" phase_time="44" cycle_time="90" from_lane="E_J423_J409.550_3" dir="l" />
+		<element id="E_J409_J434" type="w" length="197.89" dedicated_flag="0" impacted_edge="E_J409_J434" impacted_length="197.89" />
+		<element id="E_J409_J434.200" type="s" length="27.00" dedicated_flag="0" stop_id="7X25_102X38" />
+		<element id="E_J409_J434.230" type="i" length="148.57" dedicated_flag="0" />
+		</busline>
+	<busline id="406X">
+		<element id="E_J209_J211" type="w" length="136.57" dedicated_flag="0" impacted_edge="E_J209_J211" impacted_length="136.57" />
+		<element id="E_J209_J211.180" type="s" length="30.00" dedicated_flag="0" stop_id="406S39_406X01" />
+		<element id="E_J209_J211.240" type="w" length="162.75" dedicated_flag="0" impacted_edge="E_J211_J183" impacted_length="261.25" />
+		<element id="E_J211_J183" type="w" length="98.50" dedicated_flag="0" impacted_edge="E_J211_J183" impacted_length="98.5" />
+		<element id="E_J211_J183.100" type="s" length="27.00" dedicated_flag="0" stop_id="406X02" />
+		<element id="E_J211_J183.130" type="i" length="154.47" dedicated_flag="0" tl="J183" phase_time="40" cycle_time="90" from_lane="E_J211_J183.130_0" dir="s" />
+		<element id="E_J183_J173" type="w" length="163.44" dedicated_flag="0" impacted_edge="E_J173_J156" impacted_length="281.94" />
+		<element id="E_J173_J156" type="w" length="118.50" dedicated_flag="0" impacted_edge="E_J173_J156" impacted_length="118.5" />
+		<element id="E_J173_J156.120" type="s" length="27.01" dedicated_flag="0" stop_id="406X03" />
+		<element id="E_J173_J156.150" type="i" length="63.34" dedicated_flag="0" tl="J156" phase_time="40" cycle_time="90" from_lane="E_J173_J156.150_1" dir="l" />
+		<element id="E_J156_J153" type="w" length="29.26" dedicated_flag="0" impacted_edge="E_J156_J153" impacted_length="29.26" />
+		<element id="E_J156_J153.60" type="s" length="30.00" dedicated_flag="0" stop_id="406X04" />
+		<element id="E_J156_J153.120" type="w" length="271.44" dedicated_flag="0" impacted_edge="E_J153_J146" impacted_length="561.44" />
+		<element id="E_J153_J146" type="w" length="290.00" dedicated_flag="0" impacted_edge="E_J153_J146" impacted_length="290.0" />
+		<element id="E_J153_J146.320" type="s" length="29.68" dedicated_flag="0" stop_id="406X05" />
+		<element id="E_J153_J146.380" type="w" length="419.58" dedicated_flag="0" impacted_edge="E_J153_J146.380" impacted_length="419.58" />
+		<element id="E_J153_J146.800" type="s" length="26.30" dedicated_flag="0" stop_id="406X06" />
+		<element id="E_J153_J146.830" type="i" length="296.12" dedicated_flag="0" tl="J146" phase_time="90" cycle_time="90" from_lane="E_J153_J146.830_0" dir="s" />
+		<element id="E_J146_J138" type="w" length="267.79" dedicated_flag="0" impacted_edge="E_J146_J138" impacted_length="267.79" />
+		<element id="E_J146_J138.300" type="s" length="30.00" dedicated_flag="0" stop_id="406X07" />
+		<element id="E_J146_J138.360" type="i" length="101.53" dedicated_flag="0" tl="J138" phase_time="35" cycle_time="90" from_lane="E_J146_J138.360_1" dir="s" />
+		<element id="E_J138_J136" type="w" length="202.80" dedicated_flag="0" impacted_edge="E_J136_J134" impacted_length="282.8" />
+		<element id="E_J136_J134" type="w" length="80.00" dedicated_flag="0" impacted_edge="E_J136_J134" impacted_length="80.0" />
+		<element id="E_J136_J134.110" type="s" length="29.99" dedicated_flag="0" stop_id="406X08" />
+		<element id="E_J136_J134.170" type="i" length="93.75" dedicated_flag="0" tl="J134" phase_time="90" cycle_time="90" from_lane="E_J136_J134.170_0" dir="s" />
+		<element id="E_J134_J131" type="w" length="198.00" dedicated_flag="0" impacted_edge="E_J134_J131" impacted_length="198.0" />
+		<element id="E_J134_J131.200" type="s" length="27.00" dedicated_flag="0" stop_id="406X09" />
+		<element id="E_J134_J131.230" type="w" length="221.79" dedicated_flag="0" impacted_edge="E_J131_J130" impacted_length="270.93" />
+		<element id="E_J131_J130" type="w" length="49.14" dedicated_flag="0" impacted_edge="E_J131_J130" impacted_length="49.14" />
+		<element id="E_J131_J130.50" type="s" length="27.00" dedicated_flag="0" stop_id="406X10" />
+		<element id="E_J131_J130.80" type="i" length="40.06" dedicated_flag="0" tl="J130" phase_time="36" cycle_time="90" from_lane="E_J131_J130.80_1" dir="s" />
+		<element id="E_J130_J129" type="w" length="110.13" dedicated_flag="0" impacted_edge="E_J129_J128" impacted_length="352.35" />
+		<element id="E_J129_J128" type="i" length="242.22" dedicated_flag="0" tl="J128" phase_time="90" cycle_time="90" from_lane="E_J129_J128_0" dir="s" />
+		<element id="E_J128_J133" type="w" length="118.90" dedicated_flag="0" impacted_edge="E_J128_J133" impacted_length="118.9" />
+		<element id="E_J128_J133.150" type="s" length="30.00" dedicated_flag="0" stop_id="406X11" />
+		<element id="E_J128_J133.210" type="i" length="153.86" dedicated_flag="0" tl="J133" phase_time="89" cycle_time="90" from_lane="E_J128_J133.210_0" dir="s" />
+		<element id="E_J133_J132" type="w" length="116.83" dedicated_flag="0" impacted_edge="E_J133_J132" impacted_length="116.83" />
+		<element id="E_J133_J132.150" type="s" length="30.00" dedicated_flag="0" stop_id="406X12" />
+		<element id="E_J133_J132.210" type="i" length="169.13" dedicated_flag="0" tl="J132" phase_time="50" cycle_time="90" from_lane="E_J133_J132.210_1" dir="l" />
+		<element id="E_J132_J139" type="w" length="151.50" dedicated_flag="0" impacted_edge="E_J139_J149" impacted_length="365.47" />
+		<element id="E_J139_J149" type="i" length="213.97" dedicated_flag="0" tl="J149" phase_time="41" cycle_time="90" from_lane="E_J139_J149_0" dir="s" />
+		<element id="E_J149_J171" type="w" length="198.90" dedicated_flag="0" impacted_edge="E_J149_J171" impacted_length="198.9" />
+		<element id="E_J149_J171.200" type="s" length="26.99" dedicated_flag="0" stop_id="122S15_311S21_406X13" />
+		<element id="E_J149_J171.230" type="i" length="41.16" dedicated_flag="0" tl="J171" phase_time="41" cycle_time="90" from_lane="E_J149_J171.230_0" dir="s" />
+		<element id="E_J171_J177" type="w" length="97.48" dedicated_flag="0" impacted_edge="E_J177_J190" impacted_length="343.24" />
+		<element id="E_J177_J190" type="i" length="245.76" dedicated_flag="0" tl="J190" phase_time="50" cycle_time="90" from_lane="E_J177_J190_0" dir="s" />
+		<element id="E_J190_J210" type="w" length="146.10" dedicated_flag="0" impacted_edge="E_J210_J214" impacted_length="244.86" />
+		<element id="E_J210_J214" type="i" length="98.76" dedicated_flag="0" tl="J214" phase_time="50" cycle_time="90" from_lane="E_J210_J214_1" dir="l" />
+		<element id="E_J214_J220" type="w" length="198.36" dedicated_flag="0" impacted_edge="E_J214_J220" impacted_length="198.36" />
+		<element id="E_J214_J220.200" type="s" length="27.01" dedicated_flag="0" stop_id="122S16_311S22_406X14" />
+		<element id="E_J214_J220.230" type="w" length="96.39" dedicated_flag="0" impacted_edge="E_J214_J220.230" impacted_length="96.39" />
+		<element id="E_J214_J220.330" type="s" length="27.00" dedicated_flag="0" stop_id="122S17_311S23_406X15" />
+		<element id="E_J214_J220.360" type="i" length="20.18" dedicated_flag="0" tl="J220" phase_time="40" cycle_time="90" from_lane="E_J214_J220.360_0" dir="r" />
+		<element id="E_J220_J241" type="i" length="150.95" dedicated_flag="0" tl="J241" phase_time="35" cycle_time="90" from_lane="E_J220_J241_1" dir="s" />
+		<element id="E_J241_J272" type="w" length="70.76" dedicated_flag="0" impacted_edge="E_J241_J272" impacted_length="70.76" />
+		<element id="E_J241_J272.100" type="s" length="30.00" dedicated_flag="0" stop_id="102X16_122S18_311S24_406X16" />
+		<element id="E_J241_J272.160" type="w" length="138.59" dedicated_flag="0" impacted_edge="E_J241_J272.160" impacted_length="138.59" />
+		<element id="E_J241_J272.300" type="s" length="27.00" dedicated_flag="0" stop_id="102X17_122S19_311S25_406X17" />
+		<element id="E_J241_J272.330" type="w" length="246.36" dedicated_flag="0" impacted_edge="E_J272_J303" impacted_length="656.12" />
+		<element id="E_J272_J303" type="i" length="409.76" dedicated_flag="0" tl="J303" phase_time="35" cycle_time="90" from_lane="E_J272_J303_1" dir="s" />
+		<element id="E_J303_J332" type="w" length="119.09" dedicated_flag="0" impacted_edge="E_J303_J332" impacted_length="119.09" />
+		<element id="E_J303_J332.150" type="s" length="30.00" dedicated_flag="0" stop_id="122S20_406X18" />
+		<element id="E_J303_J332.210" type="i" length="227.55" dedicated_flag="0" tl="J332" phase_time="36" cycle_time="90" from_lane="E_J303_J332.210_1" dir="s" />
+		<element id="E_J332_J365" type="w" length="59.48" dedicated_flag="0" impacted_edge="E_J332_J365" impacted_length="59.48" />
+		<element id="E_J332_J365.90" type="s" length="30.00" dedicated_flag="0" stop_id="406X19" />
+		<element id="E_J332_J365.150" type="w" length="30.00" dedicated_flag="0" impacted_edge="E_J332_J365.150" impacted_length="30.0" />
+		<element id="E_J332_J365.210" type="s" length="30.00" dedicated_flag="0" stop_id="122S21" />
+		<element id="E_J332_J365.270" type="i" length="149.63" dedicated_flag="0" tl="J365" phase_time="90" cycle_time="90" from_lane="E_J332_J365.270_0" dir="s" />
+		<element id="E_J365_J394" type="w" length="147.66" dedicated_flag="0" impacted_edge="E_J365_J394" impacted_length="147.66" />
+		<element id="E_J365_J394.150" type="s" length="27.00" dedicated_flag="0" stop_id="122S22_406X20" />
+		<element id="E_J365_J394.180" type="i" length="162.79" dedicated_flag="0" tl="J394" phase_time="35" cycle_time="90" from_lane="E_J365_J394.180_0" dir="r" />
+		<element id="E_J394_J392" type="w" length="383.90" dedicated_flag="0" impacted_edge="E_J392_J389" impacted_length="399.9" />
+		<element id="E_J392_J389" type="w" length="16.00" dedicated_flag="0" impacted_edge="E_J392_J389" impacted_length="16.0" />
+		<element id="E_J392_J389.20" type="s" length="22.00" dedicated_flag="0" stop_id="406X21" />
+		<element id="E_J392_J389.50" type="w" length="366.00" dedicated_flag="0" impacted_edge="E_J392_J389.50" impacted_length="366.0" />
+		<element id="E_J392_J389.450" type="s" length="30.00" dedicated_flag="0" stop_id="406X22" />
+		<element id="E_J392_J389.510" type="i" length="130.80" dedicated_flag="0" tl="J389" phase_time="40" cycle_time="90" from_lane="E_J392_J389.510_1" dir="s" />
+		<element id="E_J389_J385" type="w" length="119.62" dedicated_flag="0" impacted_edge="E_J389_J385" impacted_length="119.62" />
+		<element id="E_J389_J385.150" type="s" length="30.01" dedicated_flag="0" stop_id="406X23" />
+		<element id="E_J389_J385.210" type="i" length="334.35" dedicated_flag="0" tl="J385" phase_time="36" cycle_time="90" from_lane="E_J389_J385.210_1" dir="s" />
+		<element id="E_J385_J401" type="w" length="170.00" dedicated_flag="0" impacted_edge="E_J385_J401" impacted_length="170.0" />
+		<element id="E_J385_J401.200" type="s" length="30.00" dedicated_flag="0" stop_id="406X24" />
+		<element id="E_J385_J401.260" type="w" length="260.12" dedicated_flag="0" impacted_edge="E_J385_J401.260" impacted_length="260.12" />
+		<element id="E_J385_J401.550" type="s" length="30.00" dedicated_flag="0" stop_id="406X25" />
+		<element id="E_J385_J401.610" type="w" length="210.32" dedicated_flag="0" impacted_edge="E_J385_J401.610" impacted_length="210.32" />
+		<element id="E_J385_J401.850" type="s" length="30.99" dedicated_flag="0" stop_id="406X26" />
+		<element id="E_J385_J401.910" type="w" length="459.09" dedicated_flag="0" impacted_edge="E_J385_J401.910" impacted_length="459.09" />
+		<element id="E_J385_J401.1400" type="s" length="30.00" dedicated_flag="0" stop_id="406X27" />
+		<element id="E_J385_J401.1460" type="i" length="84.28" dedicated_flag="0" tl="J401" phase_time="40" cycle_time="90" from_lane="E_J385_J401.1460_1" dir="l" />
+		<element id="E_J401_J413" type="w" length="127.82" dedicated_flag="0" impacted_edge="E_J401_J413" impacted_length="127.82" />
+		<element id="E_J401_J413.130" type="s" length="26.99" dedicated_flag="0" stop_id="406X28" />
+		<element id="E_J401_J413.160" type="i" length="157.84" dedicated_flag="0" tl="J413" phase_time="35" cycle_time="90" from_lane="E_J401_J413.160_1" dir="s" />
+		<element id="E_J413_J439" type="w" length="146.43" dedicated_flag="0" impacted_edge="E_J413_J439" impacted_length="146.43" />
+		<element id="E_J413_J439.150" type="s" length="27.00" dedicated_flag="0" stop_id="406X29" />
+		<element id="E_J413_J439.180" type="i" length="154.18" dedicated_flag="0" tl="J439" phase_time="90" cycle_time="90" from_lane="E_J413_J439.180_0" dir="r" />
+		<element id="E_J439_J444" type="w" length="143.62" dedicated_flag="0" impacted_edge="E_J444_J462" impacted_length="192.12" />
+		<element id="E_J444_J462" type="w" length="48.50" dedicated_flag="0" impacted_edge="E_J444_J462" impacted_length="48.5" />
+		<element id="E_J444_J462.50" type="s" length="27.00" dedicated_flag="0" stop_id="406X30" />
+		<element id="E_J444_J462.80" type="w" length="387.21" dedicated_flag="0" impacted_edge="E_J462_J480" impacted_length="435.7" />
+		<element id="E_J462_J480" type="w" length="48.49" dedicated_flag="0" impacted_edge="E_J462_J480" impacted_length="48.49" />
+		<element id="E_J462_J480.50" type="s" length="27.01" dedicated_flag="0" stop_id="406X31" />
+		<element id="E_J462_J480.80" type="w" length="216.90" dedicated_flag="0" impacted_edge="E_J462_J480.80" impacted_length="216.9" />
+		<element id="E_J462_J480.300" type="s" length="26.91" dedicated_flag="0" stop_id="406X32" />
+		<element id="E_J462_J480.330" type="i" length="257.01" dedicated_flag="0" tl="J480" phase_time="45" cycle_time="90" from_lane="E_J462_J480.330_0" dir="s" />
+		<element id="E_J480_J486" type="w" length="96.00" dedicated_flag="0" impacted_edge="E_J480_J486" impacted_length="96.0" />
+		<element id="E_J480_J486.100" type="s" length="22.00" dedicated_flag="0" stop_id="406X33" />
+		<element id="E_J480_J486.130" type="w" length="43.61" dedicated_flag="0" impacted_edge="E_J487_J492" impacted_length="347.81" />
+		<element id="E_J486_J487" type="w" length="184.15" dedicated_flag="0" impacted_edge="E_J487_J492" impacted_length="304.2" />
+		<element id="E_J487_J492" type="w" length="120.05" dedicated_flag="0" impacted_edge="E_J487_J492" impacted_length="120.05" />
+		<element id="E_J487_J492.150" type="s" length="30.00" dedicated_flag="0" stop_id="406X34" />
+		<element id="E_J487_J492.210" type="w" length="111.87" dedicated_flag="0" impacted_edge="E_J498_J501" impacted_length="286.28999999999996" />
+		<element id="E_J492_J498" type="w" length="158.42" dedicated_flag="0" impacted_edge="E_J498_J501" impacted_length="174.42" />
+		<element id="E_J498_J501" type="w" length="16.00" dedicated_flag="0" impacted_edge="E_J498_J501" impacted_length="16.0" />
+		<element id="E_J498_J501.20" type="s" length="22.00" dedicated_flag="0" stop_id="406X35" />
+		<element id="E_J498_J501.50" type="i" length="21.48" dedicated_flag="0" tl="J501" phase_time="39" cycle_time="90" from_lane="E_J498_J501.50_1" dir="l" />
+		<element id="E_J501_J535" type="w" length="70.00" dedicated_flag="0" impacted_edge="E_J501_J535" impacted_length="70.0" />
+		<element id="E_J501_J535.100" type="s" length="30.00" dedicated_flag="0" stop_id="406X36" />
+		<element id="E_J501_J535.160" type="i" length="367.38" dedicated_flag="0" tl="J535" phase_time="41" cycle_time="90" from_lane="E_J501_J535.160_1" dir="s" />
+		<element id="E_J535_J557" type="w" length="98.84" dedicated_flag="0" impacted_edge="E_J535_J557" impacted_length="98.84" />
+		<element id="E_J535_J557.100" type="s" length="27.00" dedicated_flag="0" stop_id="406X37" />
+		<element id="E_J535_J557.130" type="w" length="370.84" dedicated_flag="0" impacted_edge="E_J557_J566" impacted_length="450.84" />
+		<element id="E_J557_J566" type="w" length="80.00" dedicated_flag="0" impacted_edge="E_J557_J566" impacted_length="80.0" />
+		<element id="E_J557_J566.110" type="s" length="30.00" dedicated_flag="0" stop_id="406X38" />
+		<element id="E_J557_J566.170" type="i" length="147.72" dedicated_flag="0" tl="J566" phase_time="36" cycle_time="90" from_lane="E_J557_J566.170_0" dir="r" />
+		<element id="E_J566_J567" type="w" length="298.49" dedicated_flag="0" impacted_edge="E_J566_J567" impacted_length="298.49" />
+		<element id="E_J566_J567.300" type="s" length="27.01" dedicated_flag="0" stop_id="406X39" />
+		<element id="E_J566_J567.330" type="i" length="236.02" dedicated_flag="0" tl="J567" phase_time="50" cycle_time="90" from_lane="E_J566_J567.330_1" dir="l" />
+		<element id="E_J567_J577" type="w" length="168.50" dedicated_flag="0" impacted_edge="E_J567_J577" impacted_length="168.5" />
+		<element id="E_J567_J577.170" type="s" length="26.99" dedicated_flag="0" stop_id="406X40" />
+		<element id="E_J567_J577.200" type="w" length="175.83" dedicated_flag="0" impacted_edge="E_J567_J577.200" impacted_length="175.83" />
+		</busline>
+	<busline id="705X">
+		<element id="E_J433_J435" type="w" length="458.11" dedicated_flag="0" impacted_edge="E_J433_J435" impacted_length="458.11" />
+		<element id="E_J433_J435.460" type="s" length="27.00" dedicated_flag="0" stop_id="705X01" />
+		<element id="E_J433_J435.490" type="i" length="15.72" dedicated_flag="0" tl="J435" phase_time="50" cycle_time="90" from_lane="E_J433_J435.490_2" dir="l" />
+		<element id="E_J435_J461" type="w" length="348.57" dedicated_flag="0" impacted_edge="E_J435_J461" impacted_length="348.57" />
+		<element id="E_J435_J461.350" type="s" length="27.00" dedicated_flag="0" stop_id="705X02" />
+		<element id="E_J435_J461.380" type="i" length="16.02" dedicated_flag="0" tl="J461" phase_time="41" cycle_time="90" from_lane="E_J435_J461.380_0" dir="r" />
+		<element id="E_J461_J460" type="w" length="129.02" dedicated_flag="0" impacted_edge="E_J460_J459" impacted_length="177.52" />
+		<element id="E_J460_J459" type="w" length="48.50" dedicated_flag="0" impacted_edge="E_J460_J459" impacted_length="48.5" />
+		<element id="E_J460_J459.50" type="s" length="27.00" dedicated_flag="0" stop_id="705X03" />
+		<element id="E_J460_J459.80" type="i" length="183.69" dedicated_flag="0" tl="J459" phase_time="40" cycle_time="90" from_lane="E_J460_J459.80_0" dir="s" />
+		<element id="E_J459_J458" type="w" length="97.05" dedicated_flag="0" impacted_edge="E_J459_J458" impacted_length="97.05" />
+		<element id="E_J459_J458.100" type="s" length="27.00" dedicated_flag="0" stop_id="705X04" />
+		<element id="E_J459_J458.130" type="w" length="42.87" dedicated_flag="0" impacted_edge="E_J458_J457" impacted_length="308.54" />
+		<element id="E_J458_J457" type="i" length="265.67" dedicated_flag="0" tl="J457" phase_time="90" cycle_time="90" from_lane="E_J458_J457_0" dir="s" />
+		<element id="E_J457_J456" type="w" length="16.92" dedicated_flag="0" impacted_edge="E_J457_J456" impacted_length="16.92" />
+		<element id="E_J457_J456.20" type="s" length="27.00" dedicated_flag="0" stop_id="705X05" />
+		<element id="E_J457_J456.50" type="w" length="30.69" dedicated_flag="0" impacted_edge="E_J456_J455" impacted_length="157.73000000000002" />
+		<element id="E_J456_J455" type="i" length="127.04" dedicated_flag="0" tl="J455" phase_time="45" cycle_time="90" from_lane="E_J456_J455_0" dir="s" />
+		<element id="E_J455_J454" type="i" length="217.95" dedicated_flag="0" tl="J454" phase_time="40" cycle_time="90" from_lane="E_J455_J454_1" dir="l" />
+		<element id="E_J454_J465" type="w" length="38.29" dedicated_flag="0" impacted_edge="E_J454_J465" impacted_length="38.29" />
+		<element id="E_J454_J465.40" type="s" length="27.00" dedicated_flag="0" stop_id="705X06" />
+		<element id="E_J454_J465.70" type="w" length="26.26" dedicated_flag="0" impacted_edge="E_J465_J477" impacted_length="117.77000000000001" />
+		<element id="E_J465_J477" type="i" length="91.51" dedicated_flag="0" tl="J477" phase_time="40" cycle_time="90" from_lane="E_J465_J477_0" dir="r" />
+		<element id="E_J477_J474" type="w" length="128.24" dedicated_flag="0" impacted_edge="E_J477_J474" impacted_length="128.24" />
+		<element id="E_J477_J474.130" type="s" length="27.00" dedicated_flag="0" stop_id="705X07" />
+		<element id="E_J477_J474.160" type="i" length="109.36" dedicated_flag="0" tl="J474" phase_time="36" cycle_time="90" from_lane="E_J477_J474.160_1" dir="s" />
+		<element id="E_J474_J476" type="w" length="97.56" dedicated_flag="0" impacted_edge="E_J474_J476" impacted_length="97.56" />
+		<element id="E_J474_J476.100" type="s" length="26.99" dedicated_flag="0" stop_id="705X08" />
+		<element id="E_J474_J476.130" type="w" length="128.83" dedicated_flag="0" impacted_edge="E_J476_J475" impacted_length="268.83000000000004" />
+		<element id="E_J476_J475" type="w" length="140.00" dedicated_flag="0" impacted_edge="E_J476_J475" impacted_length="140.0" />
+		<element id="E_J476_J475.170" type="s" length="30.00" dedicated_flag="0" stop_id="705X09" />
+		<element id="E_J476_J475.230" type="i" length="99.55" dedicated_flag="0" tl="J475" phase_time="41" cycle_time="90" from_lane="E_J476_J475.230_1" dir="s" />
+		<element id="E_J475_J473" type="w" length="247.86" dedicated_flag="0" impacted_edge="E_J475_J473" impacted_length="247.86" />
+		<element id="E_J475_J473.250" type="s" length="26.99" dedicated_flag="0" stop_id="705X10" />
+		<element id="E_J475_J473.280" type="w" length="167.00" dedicated_flag="0" impacted_edge="E_J475_J473.280" impacted_length="167.0" />
+		<element id="E_J475_J473.450" type="s" length="27.00" dedicated_flag="0" stop_id="705X11" />
+		<element id="E_J475_J473.480" type="i" length="286.13" dedicated_flag="0" tl="J473" phase_time="36" cycle_time="90" from_lane="E_J475_J473.480_0" dir="r" />
+		<element id="E_J473_J447" type="w" length="70.00" dedicated_flag="0" impacted_edge="E_J473_J447" impacted_length="70.0" />
+		<element id="E_J473_J447.100" type="s" length="30.00" dedicated_flag="0" stop_id="122X13_705X12" />
+		<element id="E_J473_J447.160" type="w" length="229.25" dedicated_flag="0" impacted_edge="E_J447_J428" impacted_length="527.55" />
+		<element id="E_J447_J428" type="i" length="298.30" dedicated_flag="0" tl="J428" phase_time="45" cycle_time="90" from_lane="E_J447_J428_2" dir="l" />
+		<element id="E_J428_J426" type="w" length="262.38" dedicated_flag="0" impacted_edge="E_J426_J424" impacted_length="278.38" />
+		<element id="E_J426_J424" type="w" length="16.00" dedicated_flag="0" impacted_edge="E_J426_J424" impacted_length="16.0" />
+		<element id="E_J426_J424.20" type="s" length="21.99" dedicated_flag="0" stop_id="705X13" />
+		<element id="E_J426_J424.50" type="w" length="166.00" dedicated_flag="0" impacted_edge="E_J426_J424.50" impacted_length="166.0" />
+		<element id="E_J426_J424.250" type="s" length="30.01" dedicated_flag="0" stop_id="705X14" />
+		<element id="E_J426_J424.310" type="w" length="188.50" dedicated_flag="0" impacted_edge="E_J426_J424.310" impacted_length="188.5" />
+		<element id="E_J426_J424.500" type="s" length="27.00" dedicated_flag="0" stop_id="705X15" />
+		<element id="E_J426_J424.530" type="w" length="462.04" dedicated_flag="0" impacted_edge="E_J424_J422" impacted_length="795.27" />
+		<element id="E_J424_J422" type="i" length="333.23" dedicated_flag="0" tl="J422" phase_time="35" cycle_time="90" from_lane="E_J424_J422_0" dir="r" />
+		<element id="E_J422_J385" type="w" length="120.00" dedicated_flag="0" impacted_edge="E_J422_J385" impacted_length="120.0" />
+		<element id="E_J422_J385.150" type="s" length="30.00" dedicated_flag="0" stop_id="705X16" />
+		<element id="E_J422_J385.210" type="i" length="422.44" dedicated_flag="0" tl="J385" phase_time="36" cycle_time="90" from_lane="E_J422_J385.210_1" dir="s" />
+		<element id="E_J385_J370" type="w" length="226.32" dedicated_flag="0" impacted_edge="E_J370_J345" impacted_length="244.82" />
+		<element id="E_J370_J345" type="w" length="18.50" dedicated_flag="0" impacted_edge="E_J370_J345" impacted_length="18.5" />
+		<element id="E_J370_J345.20" type="s" length="27.00" dedicated_flag="0" stop_id="705X17" />
+		<element id="E_J370_J345.50" type="w" length="339.24" dedicated_flag="0" impacted_edge="E_J345_J318" impacted_length="520.32" />
+		<element id="E_J345_J318" type="i" length="181.08" dedicated_flag="0" tl="J318" phase_time="44" cycle_time="90" from_lane="E_J345_J318_2" dir="l" />
+		<element id="E_J318_J335" type="w" length="65.79" dedicated_flag="0" impacted_edge="E_J318_J335" impacted_length="65.79" />
+		<element id="E_J318_J335.100" type="s" length="30.00" dedicated_flag="0" stop_id="705X18" />
+		<element id="E_J318_J335.160" type="w" length="69.91" dedicated_flag="0" impacted_edge="E_J335_J338" impacted_length="315.95" />
+		<element id="E_J335_J338" type="w" length="246.04" dedicated_flag="0" impacted_edge="E_J335_J338" impacted_length="246.04" />
+		<element id="E_J335_J338.250" type="s" length="27.90" dedicated_flag="0" stop_id="705X19" />
+		<element id="E_J335_J338.280" type="w" length="177.01" dedicated_flag="0" impacted_edge="E_J335_J338.280" impacted_length="177.01" />
+		<element id="E_J335_J338.460" type="s" length="26.01" dedicated_flag="0" stop_id="705X20" />
+		<element id="E_J335_J338.490" type="i" length="35.41" dedicated_flag="0" tl="J338" phase_time="90" cycle_time="90" from_lane="E_J335_J338.490_0" dir="r" />
+		<element id="E_J338_J289" type="w" length="148.51" dedicated_flag="0" impacted_edge="E_J338_J289" impacted_length="148.51" />
+		<element id="E_J338_J289.150" type="s" length="26.99" dedicated_flag="0" stop_id="705X21" />
+		<element id="E_J338_J289.180" type="w" length="470.87" dedicated_flag="0" impacted_edge="E_J338_J289.180" impacted_length="470.87" />
+		<element id="E_J338_J289.650" type="s" length="27.00" dedicated_flag="0" stop_id="705X22" />
+		<element id="E_J338_J289.680" type="i" length="294.49" dedicated_flag="0" tl="J289" phase_time="44" cycle_time="90" from_lane="E_J338_J289.680_3" dir="l" />
+		<element id="E_J289_J278" type="w" length="297.32" dedicated_flag="0" impacted_edge="E_J278_J281" impacted_length="466.13" />
+		<element id="E_J278_J281" type="w" length="168.81" dedicated_flag="0" impacted_edge="E_J278_J281" impacted_length="168.81" />
+		<element id="E_J278_J281.170" type="s" length="27.00" dedicated_flag="0" stop_id="7X09" />
+		<element id="E_J278_J281.200" type="w" length="17.00" dedicated_flag="0" impacted_edge="E_J278_J281.200" impacted_length="17.0" />
+		<element id="E_J278_J281.220" type="s" length="27.23" dedicated_flag="0" stop_id="102X22_705X23" />
+		<element id="E_J278_J281.250" type="i" length="178.41" dedicated_flag="0" tl="J281" phase_time="36" cycle_time="90" from_lane="E_J278_J281.250_1" dir="s" />
+		<element id="E_J281_J283" type="w" length="118.63" dedicated_flag="0" impacted_edge="E_J281_J283" impacted_length="118.63" />
+		<element id="E_J281_J283.150" type="s" length="30.00" dedicated_flag="0" stop_id="7X10_102X23_705X24" />
+		<element id="E_J281_J283.210" type="w" length="268.62" dedicated_flag="0" impacted_edge="E_J281_J283.210" impacted_length="268.62" />
+		<element id="E_J281_J283.480" type="s" length="27.00" dedicated_flag="0" stop_id="7X11" />
+		<element id="E_J281_J283.510" type="w" length="38.50" dedicated_flag="0" impacted_edge="E_J281_J283.510" impacted_length="38.5" />
+		<element id="E_J281_J283.580" type="s" length="30.77" dedicated_flag="0" stop_id="102X24_705X25" />
+		<element id="E_J281_J283.640" type="w" length="77.72" dedicated_flag="0" impacted_edge="E_J283_J285" impacted_length="121.05" />
+		<element id="E_J283_J285" type="i" length="43.33" dedicated_flag="0" tl="J285" phase_time="41" cycle_time="90" from_lane="E_J283_J285_1" dir="s" />
+		<element id="E_J285_J279" type="w" length="369.84" dedicated_flag="0" impacted_edge="E_J285_J279" impacted_length="369.84" />
+		<element id="E_J285_J279.400" type="s" length="30.05" dedicated_flag="0" stop_id="7X12_102X25_705X26" />
+		<element id="E_J285_J279.460" type="i" length="397.32" dedicated_flag="0" tl="J279" phase_time="36" cycle_time="90" from_lane="E_J285_J279.460_1" dir="s" />
+		<element id="E_J279_J282" type="w" length="130.45" dedicated_flag="0" impacted_edge="E_J282_J328" impacted_length="143.07" />
+		<element id="E_J282_J328" type="w" length="12.62" dedicated_flag="0" impacted_edge="E_J282_J328" impacted_length="12.62" />
+		<element id="E_J282_J328.20" type="s" length="27.01" dedicated_flag="0" stop_id="7X13_102X26_705X27" />
+		<element id="E_J282_J328.50" type="w" length="723.30" dedicated_flag="0" impacted_edge="E_J282_J328.50" impacted_length="723.3" />
+		<element id="E_J282_J328.800" type="s" length="30.00" dedicated_flag="0" stop_id="7X14_102X27_705X28" />
+		<element id="E_J282_J328.860" type="w" length="208.28" dedicated_flag="0" impacted_edge="E_J282_J328.860" impacted_length="208.28" />
+		<element id="E_J282_J328.1100" type="s" length="29.30" dedicated_flag="0" stop_id="7X15_102X28_705X29" />
+		<element id="E_J282_J328.1160" type="i" length="146.47" dedicated_flag="0" tl="J328" phase_time="89" cycle_time="90" from_lane="E_J282_J328.1160_0" dir="s" />
+		<element id="E_J328_J354" type="w" length="438.73" dedicated_flag="0" impacted_edge="E_J328_J354" impacted_length="438.73" />
+		<element id="E_J328_J354.440" type="s" length="27.00" dedicated_flag="0" stop_id="7X16_102X29_705X30" />
+		<element id="E_J328_J354.470" type="w" length="98.50" dedicated_flag="0" impacted_edge="E_J328_J354.470" impacted_length="98.5" />
+		<element id="E_J328_J354.600" type="s" length="30.00" dedicated_flag="0" stop_id="7X17_102X30_705X31" />
+		<element id="E_J328_J354.660" type="i" length="267.56" dedicated_flag="0" tl="J354" phase_time="35" cycle_time="90" from_lane="E_J328_J354.660_1" dir="s" />
+		<element id="E_J354_J355" type="w" length="96.28" dedicated_flag="0" impacted_edge="E_J354_J355" impacted_length="96.28" />
+		<element id="E_J354_J355.100" type="s" length="26.99" dedicated_flag="0" stop_id="7X18_102X31_705X32" />
+		<element id="E_J354_J355.130" type="w" length="48.40" dedicated_flag="0" impacted_edge="E_J355_J309" impacted_length="361.55" />
+		<element id="E_J354_J355.130.49" type="w" length="30.52" dedicated_flag="0" impacted_edge="E_J355_J309" impacted_length="313.15" />
+		<element id="E_J355_J309" type="w" length="282.63" dedicated_flag="0" impacted_edge="E_J355_J309" impacted_length="282.63" />
+		<element id="E_J355_J309.300" type="s" length="27.02" dedicated_flag="0" stop_id="705X33" />
+		<element id="E_J355_J309.330" type="i" length="353.55" dedicated_flag="0" tl="J309" phase_time="39" cycle_time="90" from_lane="E_J355_J309.330_0" dir="s" />
+		<element id="E_J309_J280" type="w" length="348.50" dedicated_flag="0" impacted_edge="E_J309_J280" impacted_length="348.5" />
+		<element id="E_J309_J280.350" type="s" length="27.00" dedicated_flag="0" stop_id="705X34" />
+		<element id="E_J309_J280.380" type="w" length="31.41" dedicated_flag="0" impacted_edge="E_J280_J267" impacted_length="51.41" />
+		<element id="E_J280_J267" type="w" length="20.00" dedicated_flag="0" impacted_edge="E_J280_J267" impacted_length="20.0" />
+		<element id="E_J280_J267.50" type="s" length="30.00" dedicated_flag="0" stop_id="705X35" />
+		<element id="E_J280_J267.110" type="i" length="100.02" dedicated_flag="0" tl="J267" phase_time="50" cycle_time="90" from_lane="E_J280_J267.110_1" dir="l" />
+		<element id="E_J267_J268" type="w" length="128.47" dedicated_flag="0" impacted_edge="E_J267_J268" impacted_length="128.47" />
+		<element id="E_J267_J268.160" type="s" length="30.01" dedicated_flag="0" stop_id="705X36" />
+		<element id="E_J267_J268.220" type="i" length="123.50" dedicated_flag="0" tl="J268" phase_time="40" cycle_time="90" from_lane="E_J267_J268.220_0" dir="s" />
+		<element id="E_J268_J270" type="w" length="257.68" dedicated_flag="0" impacted_edge="E_J268_J270" impacted_length="257.68" />
+		<element id="E_J268_J270.290" type="s" length="31.30" dedicated_flag="0" stop_id="705X37" />
+		<element id="E_J268_J270.350" type="i" length="136.71" dedicated_flag="0" tl="J270" phase_time="45" cycle_time="90" from_lane="E_J268_J270.350_0" dir="s" />
+		<element id="E_J270_J273" type="w" length="106.31" dedicated_flag="0" impacted_edge="E_J270_J273" impacted_length="106.31" />
+		<element id="E_J270_J273.110" type="s" length="26.99" dedicated_flag="0" stop_id="705X38" />
+		<element id="E_J270_J273.140" type="i" length="87.25" dedicated_flag="0" tl="J273" phase_time="50" cycle_time="90" from_lane="E_J270_J273.140_1" dir="l" />
+		<element id="E_J273_J307" type="w" length="257.89" dedicated_flag="0" impacted_edge="E_J273_J307" impacted_length="257.89" />
+		<element id="E_J273_J307.260" type="s" length="27.00" dedicated_flag="0" stop_id="705X39" />
+		<element id="E_J273_J307.290" type="i" length="133.01" dedicated_flag="0" tl="J307" phase_time="40" cycle_time="90" from_lane="E_J273_J307.290_0" dir="r" />
+		<element id="E_J307_J306" type="w" length="48.46" dedicated_flag="0" impacted_edge="E_J307_J306" impacted_length="48.46" />
+		<element id="E_J307_J306.80" type="s" length="30.01" dedicated_flag="0" stop_id="705X40" />
+		<element id="E_J307_J306.140" type="i" length="86.08" dedicated_flag="0" tl="J306" phase_time="40" cycle_time="90" from_lane="E_J307_J306.140_0" dir="s" />
+		<element id="E_J306_J305" type="w" length="23.74" dedicated_flag="0" impacted_edge="E_J305_J308" impacted_length="222.24" />
+		<element id="E_J305_J308" type="w" length="198.50" dedicated_flag="0" impacted_edge="E_J305_J308" impacted_length="198.5" />
+		<element id="E_J305_J308.200" type="s" length="27.00" dedicated_flag="0" stop_id="705X41" />
+		<element id="E_J305_J308.230" type="i" length="264.20" dedicated_flag="0" tl="J308" phase_time="90" cycle_time="90" from_lane="E_J305_J308.230_0" dir="r" />
+		<element id="E_J308_J277" type="w" length="120.00" dedicated_flag="0" impacted_edge="E_J308_J277" impacted_length="120.0" />
+		<element id="E_J308_J277.150" type="s" length="30.01" dedicated_flag="0" stop_id="705X42" />
+		<element id="E_J308_J277.210" type="i" length="138.04" dedicated_flag="0" tl="J277" phase_time="49" cycle_time="90" from_lane="E_J308_J277.210_2" dir="l" />
+		<element id="E_J277_J292" type="w" length="325.12" dedicated_flag="0" impacted_edge="E_J292_J290" impacted_length="494.89" />
+		<element id="E_J292_J290" type="w" length="169.77" dedicated_flag="0" impacted_edge="E_J292_J290" impacted_length="169.77" />
+		<element id="E_J292_J290.200" type="s" length="30.00" dedicated_flag="0" stop_id="705X43" />
+		<element id="E_J292_J290.260" type="w" length="138.22" dedicated_flag="0" impacted_edge="E_J292_J290.260" impacted_length="138.22" />
+		<element id="E_J292_J290.400" type="s" length="27.00" dedicated_flag="0" stop_id="705X44" />
+		<element id="E_J292_J290.430" type="i" length="221.08" dedicated_flag="0" tl="J290" phase_time="40" cycle_time="90" from_lane="E_J292_J290.430_0" dir="r" />
+		<element id="E_J290_J269" type="w" length="233.25" dedicated_flag="0" impacted_edge="E_J269_J258" impacted_length="303.25" />
+		<element id="E_J269_J258" type="w" length="70.00" dedicated_flag="0" impacted_edge="E_J269_J258" impacted_length="70.0" />
+		<element id="E_J269_J258.100" type="s" length="30.00" dedicated_flag="0" stop_id="705X45" />
+		<element id="E_J269_J258.160" type="i" length="65.79" dedicated_flag="0" tl="J258" phase_time="35" cycle_time="90" from_lane="E_J269_J258.160_1" dir="s" />
+		<element id="E_J258_J227" type="w" length="298.49" dedicated_flag="0" impacted_edge="E_J258_J227" impacted_length="298.49" />
+		<element id="E_J258_J227.300" type="s" length="27.00" dedicated_flag="0" stop_id="705X46" />
+		<element id="E_J258_J227.330" type="i" length="57.77" dedicated_flag="0" tl="J227" phase_time="90" cycle_time="90" from_lane="E_J258_J227.330_0" dir="s" />
+		<element id="E_J227_J208" type="w" length="300.05" dedicated_flag="0" impacted_edge="E_J227_J208" impacted_length="300.05" />
+		<element id="E_J227_J208.300" type="s" length="28.25" dedicated_flag="0" stop_id="705X47" />
+		<element id="E_J227_J208.330" type="w" length="50.20" dedicated_flag="0" impacted_edge="E_J172_J148" impacted_length="568.84" />
+		<element id="E_J208_J172" type="w" length="470.14" dedicated_flag="0" impacted_edge="E_J172_J148" impacted_length="518.64" />
+		<element id="E_J172_J148" type="w" length="48.50" dedicated_flag="0" impacted_edge="E_J172_J148" impacted_length="48.5" />
+		<element id="E_J172_J148.50" type="s" length="27.00" dedicated_flag="0" stop_id="705X48" />
+		<element id="E_J172_J148.80" type="i" length="276.03" dedicated_flag="0" />
+		</busline>
+	</data>

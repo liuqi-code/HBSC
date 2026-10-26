@@ -1,0 +1,356 @@
+<?xml version='1.0' encoding='utf-8'?>
+<additional>
+	<busStop id="311X01" lane="E_J598_J593.150_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="311X" />
+	<busStop id="311S42" lane="E_J593_J598.160_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="311S" />
+	<busStop id="311X02" lane="E_J593_J592.100_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="311X" />
+	<busStop id="311S41" lane="E_J592_J593.200_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="311S" />
+	<busStop id="311X03" lane="E_J590_J589.50_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="311X" />
+	<busStop id="311S40" lane="E_J589_J590.150_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="311S" />
+	<busStop id="311X04" lane="E_J589_J583.150_1" startPos="0.5" endPos="29.51" personCapacity="120" lines="311X" />
+	<busStop id="311S39" lane="E_J583_J589.140_1" startPos="0.5" endPos="29.1" personCapacity="120" lines="311S" />
+	<busStop id="311X05" lane="E_J583_J562.300_1" startPos="0.5" endPos="29.5" personCapacity="120" lines="311X" />
+	<busStop id="311S38" lane="E_J562_J583.500_1" startPos="0.5" endPos="29.5" personCapacity="120" lines="311S" />
+	<busStop id="311X06" lane="E_J533_J532.150_1" startPos="0.5" endPos="26.51" personCapacity="120" lines="311X" />
+	<busStop id="311S37" lane="E_J532_J533.200_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="311S" />
+	<busStop id="311X07" lane="E_J532_J530.60_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="311X" />
+	<busStop id="311S36" lane="E_J530_J532.160_1" startPos="0.5" endPos="26.49" personCapacity="120" lines="311S" />
+	<busStop id="311X08" lane="E_J530_J528.80_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="311X" />
+	<busStop id="311S35" lane="E_J528_J530.300_1" startPos="0.5" endPos="26.49" personCapacity="120" lines="311S" />
+	<busStop id="311X09" lane="E_J530_J528.320_1" startPos="0.5" endPos="26.49" personCapacity="120" lines="311X" />
+	<busStop id="311S34" lane="E_J528_J530.60_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="311S" />
+	<busStop id="311X10" lane="E_J528_J505.100_1" startPos="0.5" endPos="29.97" personCapacity="120" lines="311X" />
+	<busStop id="311S33" lane="E_J505_J528.100_1" startPos="0.5" endPos="29.5" personCapacity="120" lines="311S" />
+	<busStop id="311X11" lane="E_J505_J490.100_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="311X" />
+	<busStop id="311S32" lane="E_J474_J490.90_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="311S" />
+	<busStop id="311X12" lane="E_J474_J432.300_1" startPos="0.5" endPos="29.51" personCapacity="120" lines="311X" />
+	<busStop id="311S31" lane="E_J432_J474.300_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="311S" />
+	<busStop id="311X13" lane="E_J432_J411.240_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="311X" />
+	<busStop id="311X14" lane="E_J397_J361.150_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="311X" />
+	<busStop id="311S29" lane="E_J361_J397.250_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="311S" />
+	<busStop id="311X15" lane="E_J361_J301.300_1" startPos="0.5" endPos="29.5" personCapacity="120" lines="311X" />
+	<busStop id="311S28" lane="E_J301_J361.630_1" startPos="0.5" endPos="26.99" personCapacity="120" lines="311S" />
+	<busStop id="311X16" lane="E_J361_J301.720_1" startPos="0.5" endPos="26.9" personCapacity="120" lines="311X" />
+	<busStop id="311S27" lane="E_J301_J361.200_1" startPos="0.5" endPos="29.5" personCapacity="120" lines="311S" />
+	<busStop id="7X04_311X17" lane="E_J297_J303.260_1" startPos="0.5" endPos="26.51" personCapacity="120" lines="7X 311X" />
+	<busStop id="7S23_311S26" lane="E_J303_J297.260_1" startPos="0.5" endPos="26.51" personCapacity="120" lines="7S 311S" />
+	<busStop id="102S23_122X18_311X18_406S25" lane="E_J272_J241.250_1" startPos="0.5" endPos="29.49" personCapacity="120" lines="102S 122X 311X 406S" />
+	<busStop id="102X17_122S19_311S25_406X17" lane="E_J241_J272.300_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="102X 122S 311S 406X" />
+	<busStop id="102S24_122X19_311X19_406S26" lane="E_J272_J241.500_1" startPos="0.5" endPos="21.5" personCapacity="120" lines="102S 122X 311X 406S" />
+	<busStop id="102X16_122S18_311S24_406X16" lane="E_J241_J272.100_1" startPos="0.5" endPos="29.5" personCapacity="120" lines="102X 122S 311S 406X" />
+	<busStop id="122X20_311X20_406S27" lane="E_J220_J214.60_1" startPos="0.5" endPos="26.98" personCapacity="120" lines="122X 311X 406S" />
+	<busStop id="122S17_311S23_406X15" lane="E_J214_J220.330_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="122S 311S 406X" />
+	<busStop id="122X21_311X21_406S28" lane="E_J220_J214.300_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="122X 311X 406S" />
+	<busStop id="122S16_311S22_406X14" lane="E_J214_J220.200_1" startPos="0.5" endPos="26.51" personCapacity="120" lines="122S 311S 406X" />
+	<busStop id="122X22_311X22_406S29" lane="E_J171_J149.50_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="122X 311X 406S" />
+	<busStop id="122S15_311S21_406X13" lane="E_J149_J171.200_1" startPos="0.5" endPos="26.49" personCapacity="120" lines="122S 311S 406X" />
+	<busStop id="122X23_311X23" lane="E_J149_J147.20_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="122X 311X" />
+	<busStop id="122S14_311S20" lane="E_J147_J149.40_1" startPos="0.5" endPos="22.61" personCapacity="120" lines="122S 311S" />
+	<busStop id="122X24_311X24" lane="E_J147_J144.20_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="122X 311X" />
+	<busStop id="122S13_311S19" lane="E_J144_J147.100_1" startPos="0.5" endPos="28.68" personCapacity="120" lines="122S 311S" />
+	<busStop id="122X25_311X25" lane="E_J144_J135.380_1" startPos="0.5" endPos="26.49" personCapacity="120" lines="122X 311X" />
+	<busStop id="122S12_311S18" lane="E_J140_J144.1200_1" startPos="0.5" endPos="29.5" personCapacity="120" lines="122S 311S" />
+	<busStop id="122X26_311X26" lane="E_J144_J135.700_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="122X 311X" />
+	<busStop id="122S11_311S17" lane="E_J140_J144.850_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="122S 311S" />
+	<busStop id="122X27_311X27" lane="E_J135_J140.80_1" startPos="0.5" endPos="29.5" personCapacity="120" lines="122X 311X" />
+	<busStop id="122S10_311S16" lane="E_J140_J144.520_1" startPos="0.5" endPos="29.49" personCapacity="120" lines="122S 311S" />
+	<busStop id="122X28_311X28" lane="E_J135_J140.380_1" startPos="0.5" endPos="26.51" personCapacity="120" lines="122X 311X" />
+	<busStop id="122S09" lane="E_J140_J144.50_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="122S" />
+	<busStop id="311X29" lane="E_J86_J82.50_1" startPos="0.5" endPos="29.5" personCapacity="120" lines="311X" />
+	<busStop id="311S15" lane="E_J79_J92.320_1" startPos="0.5" endPos="29.51" personCapacity="120" lines="311S" />
+	<busStop id="311X30" lane="E_J79_J58.80_1" startPos="0.5" endPos="29.5" personCapacity="120" lines="311X" />
+	<busStop id="311S14" lane="E_J58_J79.50_1" startPos="0.5" endPos="26.49" personCapacity="120" lines="311S" />
+	<busStop id="311X31" lane="E_J44_J32.50_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="311X" />
+	<busStop id="311S13" lane="E_J32_J44.200_1" startPos="0.5" endPos="26.51" personCapacity="120" lines="311S" />
+	<busStop id="311X32" lane="E_J32_J23.100_1" startPos="0.5" endPos="26.49" personCapacity="120" lines="311X" />
+	<busStop id="311X33" lane="E_J23_J24.50_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="311X" />
+	<busStop id="311X34" lane="E_J24_J18.350_1" startPos="0.5" endPos="21.5" personCapacity="120" lines="311X" />
+	<busStop id="311S10" lane="E_J18_J24.20_1" startPos="0.5" endPos="21.5" personCapacity="120" lines="311S" />
+	<busStop id="311X35" lane="E_J15_J10.20_1" startPos="0.5" endPos="21.5" personCapacity="120" lines="311X" />
+	<busStop id="311S09" lane="E_J10_J15.250_1" startPos="0.5" endPos="21.5" personCapacity="120" lines="311S" />
+	<busStop id="311X36" lane="E_J10_J5.60_1" startPos="0.5" endPos="27.01" personCapacity="120" lines="311X" />
+	<busStop id="311S08" lane="E_J5_J10.290_1" startPos="0.5" endPos="25.67" personCapacity="120" lines="311S" />
+	<busStop id="311X37" lane="E_J5_J4.20_1" startPos="0.5" endPos="26.13" personCapacity="120" lines="311X" />
+	<busStop id="311S07" lane="E_J4_J5.220_1" startPos="0.5" endPos="27.2" personCapacity="120" lines="311S" />
+	<busStop id="311X38" lane="E_J4_J7.100_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="311X" />
+	<busStop id="311S06" lane="E_J7_J4.1160_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="311S" />
+	<busStop id="311X39" lane="E_J4_J7.1000_1" startPos="0.5" endPos="26.37" personCapacity="120" lines="311X" />
+	<busStop id="311S05" lane="E_J7_J4.270_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="311S" />
+	<busStop id="311X40" lane="E_J7_J8.20_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="311X" />
+	<busStop id="311S04" lane="E_J8_J7.510_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="311S" />
+	<busStop id="311X41" lane="E_J8_J6.40_1" startPos="0.5" endPos="26.49" personCapacity="120" lines="311X" />
+	<busStop id="311S03" lane="E_J6_J8.50_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="311S" />
+	<busStop id="311X42" lane="E_J6_J2.100_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="311X" />
+	<busStop id="311S02" lane="E_J2_J6.1020_1" startPos="0.5" endPos="26.37" personCapacity="120" lines="311S" />
+	<busStop id="311X43" lane="E_J6_J2.220_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="311X" />
+	<busStop id="311S01" lane="E_J2_J6.900_1" startPos="0.5" endPos="26.43" personCapacity="120" lines="311S" />
+	<busStop id="311S11" lane="E_J24_J26.40_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="311S" />
+	<busStop id="311S12" lane="E_J34_J32.100_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="311S" />
+	<busStop id="311S30" lane="E_J397_J411.150_1" startPos="0.5" endPos="29.5" personCapacity="120" lines="311S" />
+	<busStop id="122X01" lane="E_J553_J540.100_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="122X" />
+	<busStop id="122S35" lane="E_J540_J553.1190_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="122S" />
+	<busStop id="122X02" lane="E_J553_J540.1000_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="122X" />
+	<busStop id="122X03" lane="E_J540_J514.100_1" startPos="0.5" endPos="26.51" personCapacity="120" lines="122X" />
+	<busStop id="122S34" lane="E_J514_J540.800_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="122S" />
+	<busStop id="122X04" lane="E_J540_J514.700_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="122X" />
+	<busStop id="122S32" lane="E_J514_J540.200_1" startPos="0.5" endPos="25.7" personCapacity="120" lines="122S" />
+	<busStop id="122X05" lane="E_J509_J510.100_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="122X" />
+	<busStop id="122S31" lane="E_J510_J509.200_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="122S" />
+	<busStop id="122X06" lane="E_J510_J508.300_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="122X" />
+	<busStop id="122S30" lane="E_J508_J510.200_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="122S" />
+	<busStop id="122X07" lane="E_J508_J507.150_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="122X" />
+	<busStop id="122S29" lane="E_J507_J508.150_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="122S" />
+	<busStop id="122X08" lane="E_J506_J505.150_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="122X" />
+	<busStop id="122S28" lane="E_J505_J506.100_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="122S" />
+	<busStop id="122X09" lane="E_J505_J504.100_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="122X" />
+	<busStop id="122S27" lane="E_J504_J505.500_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="122S" />
+	<busStop id="122X10" lane="E_J505_J504.500_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="122X" />
+	<busStop id="122S26" lane="E_J504_J505.100_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="122S" />
+	<busStop id="122X11" lane="E_J504_J503.600_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="122X" />
+	<busStop id="122X12" lane="E_J503_J473.200_1" startPos="0.5" endPos="29.5" personCapacity="120" lines="122X" />
+	<busStop id="122S25" lane="E_J473_J503.200_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="122S" />
+	<busStop id="122X13_705X12" lane="E_J473_J447.100_1" startPos="0.5" endPos="29.5" personCapacity="120" lines="122X 705X" />
+	<busStop id="122S24_705S36" lane="E_J428_J447.100_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="122S 705S" />
+	<busStop id="122X14" lane="E_J428_J394.300_1" startPos="0.5" endPos="26.48" personCapacity="120" lines="122X" />
+	<busStop id="122S23" lane="E_J394_J428.300_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="122S" />
+	<busStop id="122X15_406S22" lane="E_J394_J365.160_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="122X 406S" />
+	<busStop id="122S22_406X20" lane="E_J365_J394.150_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="122S 406X" />
+	<busStop id="122X16" lane="E_J365_J332.140_1" startPos="0.5" endPos="29.49" personCapacity="120" lines="122X" />
+	<busStop id="122S21" lane="E_J332_J365.210_1" startPos="0.5" endPos="29.5" personCapacity="120" lines="122S" />
+	<busStop id="122X17_406S24" lane="E_J332_J303.300_1" startPos="0.5" endPos="29.5" personCapacity="120" lines="122X 406S" />
+	<busStop id="122S20_406X18" lane="E_J303_J332.150_1" startPos="0.5" endPos="29.5" personCapacity="120" lines="122S 406X" />
+	<busStop id="122X29" lane="E_J140_J145.300_1" startPos="0.5" endPos="29.46" personCapacity="120" lines="122X" />
+	<busStop id="122S08" lane="E_J154_J140.1400_1" startPos="0.5" endPos="29.5" personCapacity="120" lines="122S" />
+	<busStop id="122X30" lane="E_J140_J145.650_1" startPos="0.5" endPos="30.4" personCapacity="120" lines="122X" />
+	<busStop id="122S07" lane="E_J154_J140.1000_1" startPos="0.5" endPos="29.49" personCapacity="120" lines="122S" />
+	<busStop id="122X31" lane="E_J140_J145.1150_1" startPos="0.5" endPos="29.5" personCapacity="120" lines="122X" />
+	<busStop id="122S06" lane="E_J154_J140.600_1" startPos="0.5" endPos="29.49" personCapacity="120" lines="122S" />
+	<busStop id="122X32" lane="E_J140_J145.1400_1" startPos="0.5" endPos="29.5" personCapacity="120" lines="122X" />
+	<busStop id="122S05" lane="E_J154_J140.350_1" startPos="0.5" endPos="39.38" personCapacity="120" lines="122S" />
+	<busStop id="122X33" lane="E_J154_J150.100_1" startPos="0.5" endPos="29.5" personCapacity="120" lines="122X" />
+	<busStop id="122S04" lane="E_J150_J154.800_1" startPos="0.5" endPos="26.51" personCapacity="120" lines="122S" />
+	<busStop id="122X34" lane="E_J154_J150.400_1" startPos="0.5" endPos="28.79" personCapacity="120" lines="122X" />
+	<busStop id="122S03" lane="E_J150_J154.500_1" startPos="0.5" endPos="27.95" personCapacity="120" lines="122S" />
+	<busStop id="122X35" lane="E_J154_J150.700_1" startPos="0.5" endPos="28.71" personCapacity="120" lines="122X" />
+	<busStop id="122S02" lane="E_J150_J154.200_1" startPos="0.5" endPos="29.51" personCapacity="120" lines="122S" />
+	<busStop id="122X36" lane="E_J154_J150.850_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="122X" />
+	<busStop id="122S01" lane="E_J150_J154.50_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="122S" />
+	<busStop id="122S33" lane="E_J514_J540.550_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="122S" />
+	<busStop id="705X01" lane="E_J433_J435.460_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="705X" />
+	<busStop id="705S47" lane="E_J435_J433.50_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="705S" />
+	<busStop id="705X02" lane="E_J435_J461.350_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="705X" />
+	<busStop id="705S46" lane="E_J461_J435.50_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="705S" />
+	<busStop id="705X03" lane="E_J460_J459.50_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="705X" />
+	<busStop id="705S45" lane="E_J459_J460.200_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="705S" />
+	<busStop id="705X04" lane="E_J459_J458.100_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="705X" />
+	<busStop id="705S44" lane="E_J458_J459.60_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="705S" />
+	<busStop id="705X05" lane="E_J457_J456.20_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="705X" />
+	<busStop id="705S43" lane="E_J456_J457.20_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="705S" />
+	<busStop id="705X06" lane="E_J454_J465.40_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="705X" />
+	<busStop id="705S42" lane="E_J465_J454.50_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="705S" />
+	<busStop id="705X07" lane="E_J477_J474.130_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="705X" />
+	<busStop id="705S41" lane="E_J474_J477.150_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="705S" />
+	<busStop id="705X08" lane="E_J474_J476.100_1" startPos="0.5" endPos="26.49" personCapacity="120" lines="705X" />
+	<busStop id="705S40" lane="E_J476_J474.60_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="705S" />
+	<busStop id="705X09" lane="E_J476_J475.170_1" startPos="0.5" endPos="29.5" personCapacity="120" lines="705X" />
+	<busStop id="705S39" lane="E_J475_J476.140_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="705S" />
+	<busStop id="705X10" lane="E_J475_J473.250_1" startPos="0.5" endPos="26.49" personCapacity="120" lines="705X" />
+	<busStop id="705S38" lane="E_J473_J475.500_1" startPos="0.5" endPos="26.49" personCapacity="120" lines="705S" />
+	<busStop id="705X11" lane="E_J475_J473.450_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="705X" />
+	<busStop id="705S37" lane="E_J473_J475.300_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="705S" />
+	<busStop id="705X13" lane="E_J426_J424.20_1" startPos="0.5" endPos="21.49" personCapacity="120" lines="705X" />
+	<busStop id="705S35" lane="E_J424_J426.900_1" startPos="0.5" endPos="29.5" personCapacity="120" lines="705S" />
+	<busStop id="705X14" lane="E_J426_J424.250_1" startPos="0.5" endPos="29.51" personCapacity="120" lines="705X" />
+	<busStop id="705S34" lane="E_J424_J426.700_1" startPos="0.5" endPos="29.5" personCapacity="120" lines="705S" />
+	<busStop id="705X15" lane="E_J426_J424.500_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="705X" />
+	<busStop id="705S33" lane="E_J424_J426.450_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="705S" />
+	<busStop id="705X16" lane="E_J422_J385.150_1" startPos="0.5" endPos="29.5" personCapacity="120" lines="705X" />
+	<busStop id="705X17" lane="E_J370_J345.20_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="705X" />
+	<busStop id="705S32" lane="E_J345_J370.340_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="705S" />
+	<busStop id="705X18" lane="E_J318_J335.100_1" startPos="0.5" endPos="29.5" personCapacity="120" lines="705X" />
+	<busStop id="705S31" lane="E_J335_J318.120_1" startPos="0.5" endPos="26.51" personCapacity="120" lines="705S" />
+	<busStop id="705X19" lane="E_J335_J338.250_1" startPos="0.5" endPos="27.4" personCapacity="120" lines="705X" />
+	<busStop id="705S30" lane="E_J338_J335.270_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="705S" />
+	<busStop id="705X20" lane="E_J335_J338.460_1" startPos="0.5" endPos="25.51" personCapacity="120" lines="705X" />
+	<busStop id="705S29" lane="E_J338_J335.40_1" startPos="0.5" endPos="27.53" personCapacity="120" lines="705S" />
+	<busStop id="705X21" lane="E_J338_J289.150_1" startPos="0.5" endPos="26.49" personCapacity="120" lines="705X" />
+	<busStop id="705S28" lane="E_J289_J338.800_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="705S" />
+	<busStop id="705X22" lane="E_J338_J289.650_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="705X" />
+	<busStop id="705S27" lane="E_J289_J338.300_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="705S" />
+	<busStop id="102X22_705X23" lane="E_J278_J281.220_1" startPos="0.5" endPos="26.73" personCapacity="120" lines="102X 705X" />
+	<busStop id="7S19_102S19_705S26" lane="E_J281_J278.270_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="7S 102S 705S" />
+	<busStop id="7X10_102X23_705X24" lane="E_J281_J283.150_1" startPos="0.5" endPos="29.5" personCapacity="120" lines="7X 102X 705X" />
+	<busStop id="7S18_102S18_705S25" lane="E_J286_J281.580_1" startPos="0.5" endPos="30.3" personCapacity="120" lines="7S 102S 705S" />
+	<busStop id="102X24_705X25" lane="E_J281_J283.580_1" startPos="0.5" endPos="30.27" personCapacity="120" lines="102X 705X" />
+	<busStop id="7S17_102S17_705S24" lane="E_J286_J281.240_1" startPos="0.5" endPos="29.49" personCapacity="120" lines="7S 102S 705S" />
+	<busStop id="7X12_102X25_705X26" lane="E_J285_J279.400_1" startPos="0.5" endPos="29.55" personCapacity="120" lines="7X 102X 705X" />
+	<busStop id="7S16_102S16_705S23" lane="E_J279_J285.450_1" startPos="0.5" endPos="29.32" personCapacity="120" lines="7S 102S 705S" />
+	<busStop id="7X13_102X26_705X27" lane="E_J282_J328.20_1" startPos="0.5" endPos="26.51" personCapacity="120" lines="7X 102X 705X" />
+	<busStop id="7S15_102S15_705S22" lane="E_J313_J282.900_1" startPos="0.5" endPos="25.48" personCapacity="120" lines="7S 102S 705S" />
+	<busStop id="7X14_102X27_705X28" lane="E_J282_J328.800_1" startPos="0.5" endPos="29.5" personCapacity="120" lines="7X 102X 705X" />
+	<busStop id="7S14_102S14_705S21" lane="E_J313_J282.200_1" startPos="0.5" endPos="29.5" personCapacity="120" lines="7S 102S 705S" />
+	<busStop id="7X15_102X28_705X29" lane="E_J282_J328.1100_1" startPos="0.5" endPos="28.8" personCapacity="120" lines="7X 102X 705X" />
+	<busStop id="7S13_102S13_705S20" lane="E_J328_J313.150_1" startPos="0.5" endPos="29.49" personCapacity="120" lines="7S 102S 705S" />
+	<busStop id="7X16_102X29_705X30" lane="E_J328_J354.440_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="7X 102X 705X" />
+	<busStop id="7S12_102S12_705S19" lane="E_J354_J328.520_1" startPos="0.5" endPos="29.5" personCapacity="120" lines="7S 102S 705S" />
+	<busStop id="7X17_102X30_705X31" lane="E_J328_J354.600_1" startPos="0.5" endPos="29.5" personCapacity="120" lines="7X 102X 705X" />
+	<busStop id="7S11_102S11_705S18" lane="E_J354_J328.170_1" startPos="0.5" endPos="29.5" personCapacity="120" lines="7S 102S 705S" />
+	<busStop id="7X18_102X31_705X32" lane="E_J354_J355.100_1" startPos="0.5" endPos="26.49" personCapacity="120" lines="7X 102X 705X" />
+	<busStop id="7S10_102S10" lane="E_J367_J354.310_1" startPos="0.5" endPos="26.51" personCapacity="120" lines="7S 102S" />
+	<busStop id="705X33" lane="E_J355_J309.300_1" startPos="0.5" endPos="26.52" personCapacity="120" lines="705X" />
+	<busStop id="705X34" lane="E_J309_J280.350_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="705X" />
+	<busStop id="705X35" lane="E_J280_J267.50_1" startPos="0.5" endPos="29.5" personCapacity="120" lines="705X" />
+	<busStop id="705S14" lane="E_J280_J309.20_1" startPos="0.5" endPos="21.5" personCapacity="120" lines="705S" />
+	<busStop id="705X36" lane="E_J267_J268.160_1" startPos="0.5" endPos="29.51" personCapacity="120" lines="705X" />
+	<busStop id="705S13" lane="E_J268_J267.180_1" startPos="0.5" endPos="29.5" personCapacity="120" lines="705S" />
+	<busStop id="705X37" lane="E_J268_J270.290_1" startPos="0.5" endPos="30.8" personCapacity="120" lines="705X" />
+	<busStop id="705S12" lane="E_J270_J268.210_1" startPos="0.5" endPos="28.4" personCapacity="120" lines="705S" />
+	<busStop id="705X38" lane="E_J270_J273.110_1" startPos="0.5" endPos="26.49" personCapacity="120" lines="705X" />
+	<busStop id="705S11" lane="E_J273_J270.120_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="705S" />
+	<busStop id="705X39" lane="E_J273_J307.260_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="705X" />
+	<busStop id="705S10" lane="E_J307_J273.160_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="705S" />
+	<busStop id="705X40" lane="E_J307_J306.80_1" startPos="0.5" endPos="29.51" personCapacity="120" lines="705X" />
+	<busStop id="705S09" lane="E_J306_J307.150_1" startPos="0.5" endPos="21.5" personCapacity="120" lines="705S" />
+	<busStop id="705X41" lane="E_J305_J308.200_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="705X" />
+	<busStop id="705S08" lane="E_J308_J305.320_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="705S" />
+	<busStop id="705X42" lane="E_J308_J277.150_1" startPos="0.5" endPos="29.51" personCapacity="120" lines="705X" />
+	<busStop id="705S07" lane="E_J277_J308.120_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="705S" />
+	<busStop id="705X43" lane="E_J292_J290.200_1" startPos="0.5" endPos="29.5" personCapacity="120" lines="705X" />
+	<busStop id="705S06" lane="E_J290_J292.500_1" startPos="0.5" endPos="26.51" personCapacity="120" lines="705S" />
+	<busStop id="705X44" lane="E_J292_J290.400_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="705X" />
+	<busStop id="705S05" lane="E_J290_J292.300_1" startPos="0.5" endPos="26.51" personCapacity="120" lines="705S" />
+	<busStop id="705X45" lane="E_J269_J258.100_1" startPos="0.5" endPos="29.5" personCapacity="120" lines="705X" />
+	<busStop id="705S04" lane="E_J258_J269.120_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="705S" />
+	<busStop id="705X46" lane="E_J258_J227.300_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="705X" />
+	<busStop id="705S03" lane="E_J227_J258.100_1" startPos="0.5" endPos="26.46" personCapacity="120" lines="705S" />
+	<busStop id="705X47" lane="E_J227_J208.300_1" startPos="0.5" endPos="27.75" personCapacity="120" lines="705X" />
+	<busStop id="705S02" lane="E_J208_J227.100_1" startPos="0.5" endPos="25.76" personCapacity="120" lines="705S" />
+	<busStop id="705X48" lane="E_J172_J148.50_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="705X" />
+	<busStop id="705S01" lane="E_J172_J188.240_1" startPos="0.5" endPos="26.49" personCapacity="120" lines="705S" />
+	<busStop id="705S15" lane="E_J309_J300.130_1" startPos="0.5" endPos="29.51" personCapacity="120" lines="705S" />
+	<busStop id="705S16" lane="E_J300_J319.120_1" startPos="0.5" endPos="29.5" personCapacity="120" lines="705S" />
+	<busStop id="705S17" lane="E_J319_J354.200_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="705S" />
+	<busStop id="102X01_102S40" lane="E_J100_J73.100_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="102X 102S" />
+	<busStop id="102X02" lane="E_J73_J74.80_1" startPos="0.5" endPos="29.5" personCapacity="120" lines="102X" />
+	<busStop id="102S37" lane="E_J74_J73.190_1" startPos="0.5" endPos="21.5" personCapacity="120" lines="102S" />
+	<busStop id="102X03" lane="E_J74_J78.200_1" startPos="0.5" endPos="26.51" personCapacity="120" lines="102X" />
+	<busStop id="102S36" lane="E_J78_J74.100_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="102S" />
+	<busStop id="102X04" lane="E_J78_J80.230_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="102X" />
+	<busStop id="102S35" lane="E_J80_J78.260_1" startPos="0.5" endPos="26.16" personCapacity="120" lines="102S" />
+	<busStop id="102X05" lane="E_J80_J84.200_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="102X" />
+	<busStop id="102S34" lane="E_J84_J80.150_1" startPos="0.5" endPos="26.51" personCapacity="120" lines="102S" />
+	<busStop id="102X06" lane="E_J84_J89.100_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="102X" />
+	<busStop id="102S33" lane="E_J89_J84.50_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="102S" />
+	<busStop id="102X07" lane="E_J89_J48.50_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="102X" />
+	<busStop id="102X08" lane="E_J37_J38.120_1" startPos="0.5" endPos="26.58" personCapacity="120" lines="102X" />
+	<busStop id="102S31" lane="E_J37_J89.120_1" startPos="0.5" endPos="26.73" personCapacity="120" lines="102S" />
+	<busStop id="102X09" lane="E_J37_J38.400_1" startPos="0.5" endPos="25.33" personCapacity="120" lines="102X" />
+	<busStop id="102S30" lane="E_J38_J37.200_1" startPos="0.5" endPos="27.76" personCapacity="120" lines="102S" />
+	<busStop id="102X10" lane="E_J38_J106.200_1" startPos="0.5" endPos="26.49" personCapacity="120" lines="102X" />
+	<busStop id="102S29" lane="E_J106_J38.1400_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="102S" />
+	<busStop id="102X11" lane="E_J206_J228.100_1" startPos="0.5" endPos="27.12" personCapacity="120" lines="102X" />
+	<busStop id="102S28" lane="E_J228_J206.150_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="102S" />
+	<busStop id="102X12" lane="E_J228_J223.250_1" startPos="0.5" endPos="29.49" personCapacity="120" lines="102X" />
+	<busStop id="102X13" lane="E_J223_J232.60_1" startPos="0.5" endPos="29.5" personCapacity="120" lines="102X" />
+	<busStop id="102S27" lane="E_J223_J228.150_1" startPos="0.5" endPos="29.34" personCapacity="120" lines="102S" />
+	<busStop id="102X14" lane="E_J232_J244.350_1" startPos="0.5" endPos="29.51" personCapacity="120" lines="102X" />
+	<busStop id="102S26" lane="E_J244_J232.150_1" startPos="0.5" endPos="30.6" personCapacity="120" lines="102S" />
+	<busStop id="102X15" lane="E_J244_J241.170_1" startPos="0.5" endPos="29.5" personCapacity="120" lines="102X" />
+	<busStop id="7X05_102X18" lane="E_J303_J302.150_1" startPos="0.5" endPos="21.5" personCapacity="120" lines="7X 102X" />
+	<busStop id="7X06_102X19" lane="E_J299_J296.100_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="7X 102X" />
+	<busStop id="7S22_102S22" lane="E_J299_J302.150_1" startPos="0.5" endPos="26.42" personCapacity="120" lines="7S 102S" />
+	<busStop id="7X07_102X20" lane="E_J299_J296.400_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="7X 102X" />
+	<busStop id="7S21_102S21" lane="E_J296_J299.20_1" startPos="0.5" endPos="26.51" personCapacity="120" lines="7S 102S" />
+	<busStop id="7X08_102X21" lane="E_J296_J289.330_1" startPos="0.5" endPos="25.58" personCapacity="120" lines="7X 102X" />
+	<busStop id="7S20_102S20" lane="E_J294_J296.50_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="7S 102S" />
+	<busStop id="7X19_102X32" lane="E_J367_J376.170_1" startPos="0.5" endPos="25.02" personCapacity="120" lines="7X 102X" />
+	<busStop id="7S09_102S09" lane="E_J417_J367.1450_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="7S 102S" />
+	<busStop id="7X20_102X33" lane="E_J383_J417.150_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="7X 102X" />
+	<busStop id="7S08_102S08" lane="E_J417_J367.1000_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="7S 102S" />
+	<busStop id="7X21_102X34" lane="E_J383_J417.700_1" startPos="0.5" endPos="29.5" personCapacity="120" lines="7X 102X" />
+	<busStop id="7S07_102S07" lane="E_J417_J367.470_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="7S 102S" />
+	<busStop id="7X22_102X35" lane="E_J417_J423.280_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="7X 102X" />
+	<busStop id="7S05_102S05" lane="E_J423_J417.230_1" startPos="0.5" endPos="29.5" personCapacity="120" lines="7S 102S" />
+	<busStop id="7X23_102X36" lane="E_J423_J409.120_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="7X 102X" />
+	<busStop id="7S04_102S04" lane="E_J409_J423.600_1" startPos="0.5" endPos="30.58" personCapacity="120" lines="7S 102S" />
+	<busStop id="7X24_102X37" lane="E_J423_J409.520_1" startPos="0.5" endPos="26.51" personCapacity="120" lines="7X 102X" />
+	<busStop id="7S03_102S03" lane="E_J409_J423.220_1" startPos="0.5" endPos="29.5" personCapacity="120" lines="7S 102S" />
+	<busStop id="7X25_102X38" lane="E_J409_J434.200_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="7X 102X" />
+	<busStop id="7S01_102S01" lane="E_J434_J427.80_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="7S 102S" />
+	<busStop id="7S02_102S02" lane="E_J406_J409.400_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="7S 102S" />
+	<busStop id="7S06_102S06" lane="E_J417_J367.100_1" startPos="0.5" endPos="29.5" personCapacity="120" lines="7S 102S" />
+	<busStop id="102S25" lane="E_J241_J244.440_1" startPos="0.5" endPos="27.2" personCapacity="120" lines="102S" />
+	<busStop id="102S32" lane="E_J37_J89.440_1" startPos="0.5" endPos="26.51" personCapacity="120" lines="102S" />
+	<busStop id="102S38" lane="E_J71_J99.100_1" startPos="0.5" endPos="29.71" personCapacity="120" lines="102S" />
+	<busStop id="102S39" lane="E_J99_J100.100_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="102S" />
+	<busStop id="7S24" lane="E_J297_J321.100_1" startPos="0.5" endPos="26.49" personCapacity="120" lines="7S" />
+	<busStop id="7S25" lane="E_J321_J362.160_1" startPos="0.5" endPos="29.5" personCapacity="120" lines="7S" />
+	<busStop id="7X01_7S26" lane="E_J393_J395.150_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="7X 7S" />
+	<busStop id="7X02" lane="E_J323_J298.150_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="7X" />
+	<busStop id="7X03" lane="E_J298_J297.270_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="7X" />
+	<busStop id="7X09" lane="E_J278_J281.170_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="7X" />
+	<busStop id="7X11" lane="E_J281_J283.480_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="7X" />
+	<busStop id="406S01" lane="E_J577_J567.200_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="406S" />
+	<busStop id="406X40" lane="E_J567_J577.170_1" startPos="0.5" endPos="26.49" personCapacity="120" lines="406X" />
+	<busStop id="406S02" lane="E_J567_J566.300_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="406S" />
+	<busStop id="406X39" lane="E_J566_J567.300_1" startPos="0.5" endPos="26.51" personCapacity="120" lines="406X" />
+	<busStop id="406S03" lane="E_J566_J557.150_1" startPos="0.5" endPos="29.5" personCapacity="120" lines="406S" />
+	<busStop id="406X38" lane="E_J557_J566.110_1" startPos="0.5" endPos="29.5" personCapacity="120" lines="406X" />
+	<busStop id="406S04" lane="E_J557_J535.120_1" startPos="0.5" endPos="29.5" personCapacity="120" lines="406S" />
+	<busStop id="406X37" lane="E_J535_J557.100_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="406X" />
+	<busStop id="406S05" lane="E_J535_J501.250_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="406S" />
+	<busStop id="406X36" lane="E_J501_J535.100_1" startPos="0.5" endPos="29.5" personCapacity="120" lines="406X" />
+	<busStop id="406S06" lane="E_J498_J492.20_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="406S" />
+	<busStop id="406X35" lane="E_J498_J501.20_1" startPos="0.5" endPos="21.5" personCapacity="120" lines="406X" />
+	<busStop id="406S07" lane="E_J492_J487.120_1" startPos="0.5" endPos="29.5" personCapacity="120" lines="406S" />
+	<busStop id="406X34" lane="E_J487_J492.150_1" startPos="0.5" endPos="29.5" personCapacity="120" lines="406X" />
+	<busStop id="406S08" lane="E_J486_J480.20_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="406S" />
+	<busStop id="406X33" lane="E_J480_J486.100_1" startPos="0.5" endPos="21.5" personCapacity="120" lines="406X" />
+	<busStop id="406S09" lane="E_J480_J462.100_1" startPos="0.5" endPos="26.51" personCapacity="120" lines="406S" />
+	<busStop id="406X32" lane="E_J462_J480.300_1" startPos="0.5" endPos="26.41" personCapacity="120" lines="406X" />
+	<busStop id="406S10" lane="E_J480_J462.500_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="406S" />
+	<busStop id="406X31" lane="E_J462_J480.50_1" startPos="0.5" endPos="26.51" personCapacity="120" lines="406X" />
+	<busStop id="406S11" lane="E_J462_J444.420_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="406S" />
+	<busStop id="406X30" lane="E_J444_J462.50_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="406X" />
+	<busStop id="406S12" lane="E_J439_J413.150_1" startPos="0.5" endPos="29.49" personCapacity="120" lines="406S" />
+	<busStop id="406X29" lane="E_J413_J439.150_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="406X" />
+	<busStop id="406S13" lane="E_J413_J401.120_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="406S" />
+	<busStop id="406X28" lane="E_J401_J413.130_1" startPos="0.5" endPos="26.49" personCapacity="120" lines="406X" />
+	<busStop id="406S14" lane="E_J401_J385.50_1" startPos="0.5" endPos="29.5" personCapacity="120" lines="406S" />
+	<busStop id="406X27" lane="E_J385_J401.1400_1" startPos="0.5" endPos="29.5" personCapacity="120" lines="406X" />
+	<busStop id="406S15" lane="E_J401_J385.600_1" startPos="0.5" endPos="28.3" personCapacity="120" lines="406S" />
+	<busStop id="406X26" lane="E_J385_J401.850_1" startPos="0.5" endPos="30.49" personCapacity="120" lines="406X" />
+	<busStop id="406S16" lane="E_J401_J385.1000_1" startPos="0.5" endPos="29.5" personCapacity="120" lines="406S" />
+	<busStop id="406X25" lane="E_J385_J401.550_1" startPos="0.5" endPos="29.5" personCapacity="120" lines="406X" />
+	<busStop id="406S17" lane="E_J401_J385.1350_1" startPos="0.5" endPos="29.5" personCapacity="120" lines="406S" />
+	<busStop id="406X24" lane="E_J385_J401.200_1" startPos="0.5" endPos="29.5" personCapacity="120" lines="406X" />
+	<busStop id="406S18" lane="E_J385_J389.200_1" startPos="0.5" endPos="29.5" personCapacity="120" lines="406S" />
+	<busStop id="406S19" lane="E_J389_J392.100_1" startPos="0.5" endPos="29.5" personCapacity="120" lines="406S" />
+	<busStop id="406X23" lane="E_J389_J385.150_1" startPos="0.5" endPos="29.51" personCapacity="120" lines="406X" />
+	<busStop id="406S20" lane="E_J389_J392.550_1" startPos="0.5" endPos="29.5" personCapacity="120" lines="406S" />
+	<busStop id="406X22" lane="E_J392_J389.450_1" startPos="0.5" endPos="29.5" personCapacity="120" lines="406X" />
+	<busStop id="406S21" lane="E_J392_J394.30_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="406S" />
+	<busStop id="406X21" lane="E_J392_J389.20_1" startPos="0.5" endPos="21.5" personCapacity="120" lines="406X" />
+	<busStop id="406S23" lane="E_J365_J332.260_1" startPos="0.5" endPos="29.5" personCapacity="120" lines="406S" />
+	<busStop id="406X19" lane="E_J332_J365.90_1" startPos="0.5" endPos="29.5" personCapacity="120" lines="406X" />
+	<busStop id="406S30" lane="E_J132_J133.150_1" startPos="0.5" endPos="29.5" personCapacity="120" lines="406S" />
+	<busStop id="406X12" lane="E_J133_J132.150_1" startPos="0.5" endPos="29.5" personCapacity="120" lines="406X" />
+	<busStop id="406S31" lane="E_J133_J128.150_1" startPos="0.5" endPos="29.49" personCapacity="120" lines="406S" />
+	<busStop id="406X11" lane="E_J128_J133.150_1" startPos="0.5" endPos="29.5" personCapacity="120" lines="406X" />
+	<busStop id="406S32" lane="E_J131_J134.260_1" startPos="0.5" endPos="26.51" personCapacity="120" lines="406S" />
+	<busStop id="406X09" lane="E_J134_J131.200_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="406X" />
+	<busStop id="406S33" lane="E_J136_J138.20_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="406S" />
+	<busStop id="406X08" lane="E_J136_J134.110_1" startPos="0.5" endPos="29.49" personCapacity="120" lines="406X" />
+	<busStop id="406S34" lane="E_J138_J146.60_1" startPos="0.5" endPos="29.5" personCapacity="120" lines="406S" />
+	<busStop id="406X07" lane="E_J146_J138.300_1" startPos="0.5" endPos="29.5" personCapacity="120" lines="406X" />
+	<busStop id="406S35" lane="E_J146_J153.180_1" startPos="0.5" endPos="30.02" personCapacity="120" lines="406S" />
+	<busStop id="406S36" lane="E_J146_J153.380_1" startPos="0.5" endPos="29.5" personCapacity="120" lines="406S" />
+	<busStop id="406X06" lane="E_J153_J146.800_1" startPos="0.5" endPos="25.8" personCapacity="120" lines="406X" />
+	<busStop id="406S37" lane="E_J146_J153.800_1" startPos="0.5" endPos="29.81" personCapacity="120" lines="406S" />
+	<busStop id="406X05" lane="E_J153_J146.320_1" startPos="0.5" endPos="29.18" personCapacity="120" lines="406X" />
+	<busStop id="406S38" lane="E_J156_J158.130_1" startPos="0.5" endPos="26.22" personCapacity="120" lines="406S" />
+	<busStop id="406X04" lane="E_J156_J153.60_1" startPos="0.5" endPos="29.5" personCapacity="120" lines="406X" />
+	<busStop id="406S39_406X01" lane="E_J209_J211.180_1" startPos="0.5" endPos="29.5" personCapacity="120" lines="406S 406X" />
+	<busStop id="406X02" lane="E_J211_J183.100_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="406X" />
+	<busStop id="406X03" lane="E_J173_J156.120_1" startPos="0.5" endPos="26.51" personCapacity="120" lines="406X" />
+	<busStop id="406X10" lane="E_J131_J130.50_1" startPos="0.5" endPos="26.5" personCapacity="120" lines="406X" />
+</additional>

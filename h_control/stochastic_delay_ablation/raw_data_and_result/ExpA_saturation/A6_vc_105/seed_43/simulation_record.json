@@ -1,0 +1,21 @@
+{
+  "scenario_id": "ExpA_saturation_A6_vc_105_seed_43",
+  "actual_pass_time": 823.0427613913955,
+  "ground_truth_delay": 25.042761391395516,
+  "sim_start_time": 0.0,
+  "sim_end_time": 823.0427613913955,
+  "bus_insert_time": 778.0,
+  "bus_insert_position": 200.0,
+  "simulation_failed": false,
+  "failure_reason": "",
+  "force_insert_executed": true,
+  "num_overlap_removed": 1,
+  "overlap_removal_details": "删除1辆: ['bg_route_J106_T.96']",
+  "bus_actual_appear_time": 778.0,
+  "lane_flow_data_keys": [
+    "E_J106_J138_1"
+  ],
+  "queue_length_data_keys": [
+    "E_J106_J138_1"
+  ]
+}

@@ -1,0 +1,25 @@
+﻿scenario_id,name,tl_id,from_edge,direction,cycle_s,green_s,red_s,arrival_desc,t_arrival_s,phase,queue_m,queue_desc,base_flow,base_cap,sw_mean,sw_std,sw_median,sw_min,sw_max,rule_delay,diff,rel_pct
+J10-S1,Green-mid + No queue,J10,E_J19_J10,s-straight,90,60,30,Green middle,60.0,Green,0,No queue,500,1650,0.08,0.47,0.00,0.00,3.35,5.00,-4.92,-98.5
+J10-S2,Green-mid + Med queue(50m),J10,E_J19_J10,s-straight,90,60,30,Green middle,60.0,Green,20,Queue 20m,500,1650,1.40,2.70,0.00,0.00,12.47,5.00,-3.60,-71.9
+J10-S3,Red-start + No queue,J10,E_J19_J10,s-straight,90,60,30,Red start,1.0,Red,0,No queue,500,1650,31.33,0.07,31.34,31.10,31.49,5.00,26.33,526.6
+J10-S4,Red-start + Large queue(120m),J10,E_J19_J10,s-straight,90,60,30,Red start,1.0,Red,50,Queue 50m,500,1650,46.97,1.21,46.87,44.22,49.64,5.00,41.97,839.4
+J10-S5,Red-end + No queue,J10,E_J19_J10,s-straight,90,60,30,Red end,28.0,Red,0,No queue,500,1650,13.39,2.38,13.12,8.13,19.43,5.00,8.39,167.7
+J10-S6,Green-end + Large queue(120m),J10,E_J19_J10,s-straight,90,60,30,Green end,88.0,Green,50,Queue 50m,500,1650,3.23,10.92,0.00,0.00,44.47,5.00,-1.77,-35.4
+J100-S1,Green-mid + No queue,J100,E_J73_J100,s-straight,90,32,58,Green middle,74.0,Green,0,No queue,450,1600,20.07,27.29,7.86,0.00,80.22,18.69,1.38,7.4
+J100-S2,Green-mid + Med queue(50m),J100,E_J73_J100,s-straight,90,32,58,Green middle,74.0,Green,20,Queue 20m,450,1600,47.82,34.63,76.21,5.29,90.42,18.69,29.13,155.9
+J100-S3,Red-start + No queue,J100,E_J73_J100,s-straight,90,32,58,Red start,1.0,Red,0,No queue,450,1600,59.33,0.07,59.32,59.18,59.55,18.69,40.64,217.5
+J100-S4,Red-start + Large queue(120m),J100,E_J73_J100,s-straight,90,32,58,Red start,1.0,Red,50,Queue 50m,450,1600,75.45,1.60,75.21,72.49,79.99,18.69,56.76,303.7
+J100-S5,Red-end + No queue,J100,E_J73_J100,s-straight,90,32,58,Red end,56.0,Red,0,No queue,450,1600,20.73,3.39,20.56,10.97,27.95,18.69,2.04,10.9
+J100-S6,Green-end + Large queue(120m),J100,E_J73_J100,s-straight,90,32,58,Green end,88.0,Green,50,Queue 50m,450,1600,73.12,12.68,74.74,1.69,95.12,18.69,54.43,291.2
+J130-S1,Green-mid + No queue,J130,E_J102_J130,s-straight,90,33,57,Green middle,73.5,Green,0,No queue,550,1700,26.87,30.08,13.40,0.00,86.57,18.05,8.82,48.9
+J130-S2,Green-mid + Med queue(50m),J130,E_J102_J130,s-straight,90,33,57,Green middle,73.5,Green,20,Queue 20m,550,1700,53.58,34.43,76.65,5.50,90.67,18.05,35.53,196.8
+J130-S3,Red-start + No queue,J130,E_J102_J130,s-straight,90,33,57,Red start,1.0,Red,0,No queue,550,1700,58.38,0.09,58.38,58.19,58.56,18.05,40.33,223.4
+J130-S4,Red-start + Large queue(120m),J130,E_J102_J130,s-straight,90,33,57,Red start,1.0,Red,50,Queue 50m,550,1700,73.63,1.74,73.66,70.93,79.73,18.05,55.58,307.9
+J130-S5,Red-end + No queue,J130,E_J102_J130,s-straight,90,33,57,Red end,55.0,Red,0,No queue,550,1700,23.87,3.80,23.79,14.06,31.12,18.05,5.82,32.3
+J130-S6,Green-end + Large queue(120m),J130,E_J102_J130,s-straight,90,33,57,Green end,88.0,Green,50,Queue 50m,550,1700,74.48,12.91,74.85,0.00,91.89,18.05,56.43,312.6
+J170-S1,Green-mid + No queue,J170,E_J202_J170,s-straight,90,38,52,Green middle,71.0,Green,0,No queue,480,1620,7.14,5.07,6.40,0.00,18.98,15.02,-7.88,-52.5
+J170-S2,Green-mid + Med queue(50m),J170,E_J202_J170,s-straight,90,38,52,Green middle,71.0,Green,20,Queue 20m,480,1620,24.35,26.78,13.17,0.00,88.48,15.02,9.33,62.1
+J170-S3,Red-start + No queue,J170,E_J202_J170,s-straight,90,38,52,Red start,1.0,Red,0,No queue,480,1620,53.33,0.08,53.32,53.16,53.52,15.02,38.31,255.0
+J170-S4,Red-start + Large queue(120m),J170,E_J202_J170,s-straight,90,38,52,Red start,1.0,Red,50,Queue 50m,480,1620,69.45,1.61,69.19,66.11,74.76,15.02,54.42,362.3
+J170-S5,Red-end + No queue,J170,E_J202_J170,s-straight,90,38,52,Red end,50.0,Red,0,No queue,480,1620,20.19,3.85,20.64,11.73,29.49,15.02,5.17,34.4
+J170-S6,Green-end + Large queue(120m),J170,E_J202_J170,s-straight,90,38,52,Green end,88.0,Green,50,Queue 50m,480,1620,54.00,24.02,60.98,0.00,78.61,15.02,38.98,259.5

@@ -1,0 +1,5 @@
+<additional>
+	<vType id="Social_Vehicle" vClass="passenger"/>
+	<vType id="Bus" vClass="bus" personCapacity="50" boardingDuration="1.5"/>
+	<vType id="Passenger" vClass="pedestrian"/>
+</additional>

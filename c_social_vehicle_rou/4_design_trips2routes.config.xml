@@ -1,0 +1,17 @@
+<configuration>
+	<!-- The duarouter configuration file takes as input your network and the OD Trips File and output the route file --> 
+	<input> 
+		<net-file value="../b_network/1_changsha_bus_network_with_signal_e.net.xml"/>
+		<additional-files value="../b_network/4_vehicle_type.add.xml"/>
+		<route-files value="3_design_social_vehicle.odtrips.xml"/>
+	</input> 
+	
+	<output> 
+		<output-file value="5_design_social_vehicle.rou.xml"/>
+	</output>
+	
+	<report> 
+		<xml-validation value="never"/>
+		<no-step-log value="true"/>
+	</report>
+</configuration>
